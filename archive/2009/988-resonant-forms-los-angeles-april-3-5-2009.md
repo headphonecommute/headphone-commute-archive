@@ -1,0 +1,16 @@
+---
+id: 988
+title: "Resonant Forms - Los Angeles, April 3 - 5, 2009"
+date: "2009-03-22T20:34:52-05:00"
+category: ["Festivals and Events"]
+---
+
+I rarely get this excited about live shows these days. Don't get me wrong, I love to see the artists perform. But with the bad sound system, rowdy crowd, and god awful hours, it's difficult for the event to compete with my studio speakers. But **Resonant Forms** is a whole new deal, boys and girls. I am so excited about this event that I've got myself a ticket to LA, where I plan on immersing myself within the art, the music, and the people for the whole three days. No, it's not an outdoor festival, where you go to sleep in the morning hours, and wake up sweaty at noon with the sun blazing on your tent. This festival will be held at **LACE** (Los Angeles Contemporary Exhibitions). In collaboration with **VOLUME**, the festival will showcase new and established artists focusing on experimental electronic music, live cinema, and sound art.
+
+The event will kick off with a live cinema performance by **SUE-C.** and **Laetitia Sonami**, titled *Sheepwoman*. The duo will premiere this piece with projection of photographs, drawings, three dimensional objects, and a huge array of other media, all of which will be manipulated in real time to create visuals inspired by **Haruki Murakami**'s novels, "*The Wild Sheep Chase*" and "*Dance, Dance, Dance*" (watch the [Sheepwoman trailer](http://sheepwoman.com/)). Now I am very much familiar with Murakami, a contemporary Japanese surrealist fiction icon, and so I'm already drooling in anticipation of this presentation. And that's just the beginning!
+
+Throughout three days my ears will be sonicly treated with performances by **William Basinski**, **Richard Chartier**, **Christopher Willits**, **Kadet Kuhne**, **Lucky Dragons**, **Yann Novak** and **Celer**. Where do I begin in expressing my adoration for the above mentioned names and their contributions towards the contemporary evolution of ambient, minimal, and experimental electronic sound. I briefly spoke with Richard, and he informed me that his projected set will include a solo performance and a rare collaborative performance with Basinski, of a version of *Untitled 3*, from *Untitled 1-3* (**LINE**). This will be my chance to witness this only second live performance to date! Throughout the space there will be installations by **David Kwan**, **Mark Trayle** and **artSpa**, hosted by **Adam Overton**.
+
+Oh, and if that's not enough, during the day, there will be panel discussions with Basinski, Khne, Trayle and Kwan. On another day, Christopher Willits will present a workshop, titled "*Designing Process*", based around the use and evolution of customized signal processing, and software tools Max/MSP/Jitter and Ableton Live.
+
+And me? I will be observing, interviewing, soaking in, and floating through, submerged in visuals and sound. I plan on covering the entire event yielding a journalistic piece, which will emerge on its own during this experience. Again, I am very much excited about this upcoming event, and if you happen to live or be in the LA area, be sure to not miss out on this. Looking forward to meeting everyone and you!

@@ -1,0 +1,12 @@
+---
+id: 32974
+title: "Constantine - Hades"
+date: "2018-02-23T01:34:54-05:00"
+category: ["Albums"]
+---
+
+Once in a while, an album comes around that simply blows me away. Its particulars are not often well put into words, as its sonic aesthetic synergizes only with the neural paths, somewhere in between, where words already lost all meaning. I've been looking for more of that, of course, since I enjoy that feeling of discovery of the unknown, to be plunged into a strange dark world, a universe of atmospheric textures where I feel anxious about being lost, while constantly holding on to the only known sound. And *Hades* does exactly that from the very first track. Begin with "Cosmos" and see if you're not incredibly sucked into its vortex of the void, where the aural experience alone is unlike any cinematic visual and the best director of this film is the one behind your eyelids...
+
+No, I'm not familiar with **Constantine**, and honestly, I've only heard a few records from **Bedouin**, an imprint originating from the United Arab Emirates. So everything about this record is mysterious and fresh. Yet the sounds evoke that memory of when I first heard music by **Ben Frost**, a sound pressure tension of immense proportions, with its cliffs and valleys, with its climbs and drops. Carefully orchestrated layers of emotion lure the listener into its deliberately misleading comfort zone, where everything is architected around its climatic peak. But unlike the dynamic onslaught of music often focused on its power, the sounds are rounded, warm, and safe. That's the danger that I'm speaking of. The sweet poison of a shaman luring you into his lair where the emptiness awaits. You start to play the tracks from *Hades*, and then it's just too late...
+
+This magically haunting world is the dreamscape of **Constantine Skourlis**, a composer from Greece who whiplashed followers of noir-fi in 2017. Built with field recordings, manipulated synth sounds and plenty of acoustic instrumentation (I hear plenty of gorgeous strings in there), the music of *Hades* will appeal to fans of cinematic soundscapes, such as **Roly Porter**'s *Third Law* (Tri Angle, 2016), **Jóhann Jóhannsson**'s *Arrival OST* (Deutsche Grammophon, 2016) and even **Steven Price**'s *Gravity* (WaterTower, 2013). Fans of surround modulations of epic proportions will be happy to lose themselves in the labyrinths of vibrations that Skourlis sculpted for his worlds... just be prepared to let go, and let yourself collapse into its vacuum of sound. Highly recommended!!!

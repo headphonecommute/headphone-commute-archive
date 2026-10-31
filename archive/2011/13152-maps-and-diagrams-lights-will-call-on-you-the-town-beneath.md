@@ -1,0 +1,22 @@
+---
+id: 13152
+title: "Maps and Diagrams - Lights Will Call On You / The Town Beneath The Sea"
+date: "2011-11-13T09:30:09-05:00"
+category: ["Albums"]
+---
+
+Tim Martin has been very prolific this year. Wasn’t it only this past spring, when he released a limited edition c30 cassette as **Maps And Diagrams**, titled *Red Moon Rising* on **Chemical Tapes**? And wasn’t there another ambient album in June released by **Handstitched Recordings**, titled *The Voices Of Time*? And wait, didn’t we just cover his fantastic limited ***Get Lost*** release, for the beautifully crafted **Time Released Sound**, which Martin followed up with an **Interview** and a **Sound Postcard** on Headphone Commute? So when did he have time to put out not one, but two full length albums? And how did these gems end up being released on **Nomadic Kids Republic** one after another? For these and many other questions I turn to a press release in which the label founder and curator, **Ian Hawgood,** reveals the story. This text, with your permission, I will quote here in its entirety:
+
+> So there I am sat at work one day, minding my own business, when I get this email, all humble-like and asking if I would mind checking out not one record, but two. The email was from a certain Tim Martin who just so happens to be a co-worker of mine and a very good friend, but who I was pretty sure didn’t play music unless he was drunk and then it was just table banging. Then it slowly dawned on me that it was a totally different Tim Martin – the genius behind the Maps and Diagrams moniker.\
+> What Tim (not my co-worker) didn’t realise was that I’d been a bit of an obsessive fan since his Antennas and Signals release on the oh-so-jaw-droppingly-awesome Japanese label Moamoo, plus when the lovely Mike at Smallfish gave me a copy of Tim’s Lhasa Apso release not long after. So I promptly spilled my coffee over my crotch and let out a howling wild animal sound, not sure if it was the pleasure of the email or the pain of the heat.\
+> I digress… every album I have heard by Tim, whether its under his Maps and Diagrams guise or some alternate moniker, has something of the magnificent about it. Not in some over-blown way I should point out, but in a subtle, beautifully evolved and understated style, he creates music which just envelopes and ignites within.
+>
+> *-- Ian Hawgood*
+
+Although the two albums simultaneously covered in this review, *Lights Will Call On You* and *The Town Beneath The Sea*, are pressed and published consecutively, with only seven days apart, they are indeed two different records, which naturally may be consumed together. Like two bookended brackets for a perfect day – early brisk morning and late evening dusk – the albums fill the empty crevices of silence with textured ambiance and grained delicate tones. Shimmering field recordings drift in and out of focus, piercing harmonically rich surface with tinkles and purrs. Lo-fi buzzing, folding, and circling of found sounds is funnelled through a minimal effects chain for a maximal head space. Lush synthetic chords are in accord with their organic counterparts.
+
+On *Lights Will Call On You*, Martin seems to explore distant soundscapes, haunted geography and shifting memories. Track titles like *“When the Night Came”, “When the World is Falling”, “Hide Yourself in Silence”* and *“Nothing Inside Something”* hint at a sombre nature of reality wrapped in sadness, blurred images, and melancholic thoughts. These are the pieces that would perfectly align themselves with a time-lapsed photography videos of foaming clouds, breathing fields, and drowning mist.
+
+In compliment to the above explorations, the vignettes on *The Town Beneath The Sea* are named after foreign cities, dreamy landscapes, mysterious islands, and floating worlds. The album makes me think of a soundtrack for an imaginary realm where rivers and castles are as old as the wind. Again, my visual perception is augmented by the titles such as *“Lorentzen”, “Atholl”, “Groghe (Fort)”, “Jaxom (Spina)”,* and *“Nessel (Tillek)”*. It’s as if Tim Marin was immersed in creation of some maps [and diagrams] for a fantasy novel full of dragons and elves.
+
+The two albums conclude what turns out to be a very good year for a brand new founding of **The Nomadic Kids Republic**. With ten albums under the belt, Ian Hawgood churns out a solid opening for the label, and I can only look forward to the future, where many great frontiers in music patiently await. Thank you.

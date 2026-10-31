@@ -1,0 +1,16 @@
+---
+id: 32089
+title: "Orghanon - Retrospectre"
+date: "2017-08-23T01:00:05-05:00"
+category: ["Albums"]
+---
+
+I’ll admit, after spending five days at Berlin’s *Atonal* festival (and yes, there is a really good reason it’s called that), I needed some sounds to relieve all the ringing, the noise, and fatigue. I do not regret the experience because I really craved the pressure levels, but like with every over-indulgence, there is a point of saturation, where your mind takes no more. Pure silence is not exactly an answer either (believe me, I tried that), and so I turn to an album that I’ve set aside. I was going to share with you the music of **Orghanon** regardless of my recent aural binging, and I guess that now is as good a time as any, especially since it is already playing through my headphones, and with all these sounds I drift…
+
+Organon is a project by **Sergio Calzoni**, working under an alias **Bukser**, and *Retrospectre* is his first release for **Time Released Sound**, where he is joined by Lyudmila Kadyrbaeva on cello, Josh Plotner on clarinet and Tom Moth on harp. The eight-track album occupies a place of ambient, modern classical, and cinematic music, that is so dear, alluring and welcome to these ears. There is something beautiful in all of this music, and something especially unique, that the word “beautiful” fails to encompass in all of its grand definitions. Like a peek behind a curtain of a show to be performed, where the illusion is prepared by a troupe of coordinated magicians, ready to mystify the audience by guiding them through their hidden memories of a simpler time. It just takes a breath to remember… it just takes a breath to forget…
+
+> Orghanon aims to blend melancholy with silence, depicting stark yet deeply emotional soundtracks for imaginary places. Retrospectre is a very personal exploration of childhood memories relived as ambient music soundscapes.
+
+There are moments on the record that could be described as eerie, brooding, and odd, but there is a ray of light permeating throughout the tone and texture that somehow still makes it a stress-free listening. The strings mix with the synth pads and effects, floating mostly with the major inflection and chords. At times *Retrospectre* feels like a soundtrack to a dream, one that is at once abstract and familiar, processing the fragments of consciousness through a filter of concepts, learned and derived, only to hold on to a newly formed spin-off, one that will become part of your memory once again.
+
+As usual, with Time Released Sound, the release is carefully curated and packaged in a handmade delivery vehicle in a form of a modified anti-static bag strung with a 100-year-old children’s game tag. Along in this parcel is a “uniquely mysterious” and “spooky” antique 5″, 78 rpm record (a completely separate recording), a vintage 1940s photo of a “freak” from an old album of “freak show” ephemera, and, of course, the actual CD. I also managed to notice, that for this release the label has employed the mastering services of **Taylor Deupree**. That may not mean much to you (I hope it does, my dear reader), but to me, it spells a particular aesthetic of organic ambiance, sparse electroacoustic treatments, and delicate minimalism that only Deupree strives to achieve. And that’s what this album reveals.

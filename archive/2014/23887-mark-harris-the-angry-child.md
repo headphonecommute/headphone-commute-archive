@@ -1,0 +1,18 @@
+---
+id: 23887
+title: "Mark Harris - The Angry Child"
+date: "2014-03-25T06:30:47-05:00"
+category: ["Albums"]
+---
+
+*The Angry Child* is the latest full-length work from UK-based artist, musician, and programmer **Mark Harris**, which has been released by **n5MD**. It is a serene, evocative, and polished album of pure ambient music that can be appreciated just on the hearing, but it is best enjoyed with an appreciation of his creative process along with the narrative that surrounds the making of the record. What is unique about the way Harris works is his evolutionary approach which combines generative processes, composition, and improvisation. The process begins with amassing a pool of raw sonic material – generated sounds, processed samples, and field recordings – and then organically improvising with and reworking it until a finished product emerges. Harris likens the end product to an iceberg with *“…the final work as the bit which floats above the surface, and under the surface is the mass of unused material which never see the light of day.”*
+
+With this modus operandi, the same raw material can yield multiple pieces, each with a different mood and perspective which reflects the mindset of the artist at the time of creation, and that where specific narrative comes in. As Harris tells it, the narrative behind *The Angry Child* goes back to the final stages of his work on his previous n5MD release, *An Idea Of North / Learning To Talk* (2012), where he worked on a series of compositions that coalesced into the title track and then returned to them months later only to rediscover much untapped potential. This discovery led to the decision to build a complete album around that pool of material. Lest all this sound too scientific, there is a strong emotional element in the improvisation and those emotions convey through the music to the listener. About the six pieces on *The Angry Child*, Harris says:
+
+> I was struck by how all of the pieces were evocative of the landscape of rural Norfolk in the UK where I spent a lot of time when I was a boy, an endless flat landscape where the tide would take the sea out for miles and at times the sea / the sky / and the weather all gradually merge together. I remember how as a boy I would spend hours sitting on a small hill looking out to sea watching the light / clouds and weather gradually change… I hope the listener catches something of the feeling of that place and time by listening to this work.
+
+I believe Harris has succeeded admirably in conveying just what he describes. The music on *The Angry Child* indeed evokes a grand sense of place and, through a nostalgic artistic lens, manages to capture many emotions experienced during youth. Harris reminds us childhood is sometimes an isolated and uneasy place ('the tributary_losing your way' and 'in spite of everything_the night that made the darkness'). Sometimes it is full of painful growth and regrets ('the angry child' and 'everything i did was wrong'). At other times it is full of mystery and wonder ('before you wake_or the fool who mimics the sun') and, not to be overlooked, love and gratitude ('running forward\_ to the object of ones affection').
+
+All in all, *The Angry Child* is a very satisfying and polished outing for Mark Harris and would make a fine addition to any ambient music collection. With full appreciation of the manner it was created and the narrative surrounding it, the album should yield many enjoyable listening sessions, especially if you take the time to find the stillness and inner child within yourself when you lend your ears to it.
+
+Words by Brian Housman of **Stationary Travels**

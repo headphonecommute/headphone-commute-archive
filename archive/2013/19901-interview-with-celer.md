@@ -1,0 +1,32 @@
+---
+id: 19901
+title: "Interview with Celer"
+date: "2013-01-09T09:54:05-05:00"
+category: ["Artist Interviews"]
+---
+
+***Hey Will, how is it going? Where are you these days and what are you working on?***\
+I'm doing fine, it's a good year so far. I'm in Tokyo now. New year's eve was my 2 year anniversary of living in Japan. The holidays were good to work on a lot of projects, and it continues on into the new year even though the holidays are over. I'm working a lot on my new Oh, Yoko project with Miko, finishing up our first album... preparing for a European tour with Christoph Heemann for our Hollywood Dream Trip project, and working on a new solo synth/sequencer no-drone project. I'm trying to finish up a new Celer album for Baskaru also, one that I've been working on for several years, so it will be great once it's finished. On and on...
+
+***The title of this album, "Without Retrospect, the Morning" has been created by your late wife, Danielle Baquet-Long. I know this may be a tough and private matter, but would you care to share with the world some more background about this?***\
+I actually have no idea of any background related to the title. It was just something she wrote in a notebook that seemed to me to fit for the title of this. She had created the titles for the other two albums of the trilogy as well, and when I made the third, it seemed to fit for me, especially how in Alberta the snow seemed to cover up the sunrise... it would just gradually become light, even if it was 10am in the morning. It never seemed to get really bright, and suddenly it would be fading again at before night. The title was almost ironic of that, but seemed to me to fit.
+
+***Relative the most albums I've listened to in 2012, the volume on this particular release is pretty low. What was your particular approach to dynamics?***\
+Yes, it is significantly lower, but it is entirely on purpose. So much of the time albums are best listened to at a certain volume, and when it is too low, or too high, it changes the character of the album completely. I've made albums in the past that were meant to be listened to at very mid-range levels, but when the volume is turned up very high, it sounds like a completely different style, almost aggressive, and can ruin or change the entire character of the album. For "Without Retrospect, the Morning", I decided to control that by mastering it so that the maximum volume is the intended volume (or close) for listening. At the maximum volume, the sound is perfectly clear, and can't be changed by going higher. It limits the possibilities of listening, but it also cements the intention of the album with the listening possibilities, to experience in it's most purely true form.
+
+***Glacial Movements is all about arctic aesthetic and isolationist ambiance. How did you land on this Italian label?***\
+Glacial Movements has a great reputation in it's genre with a very clear theme. When I made "Without Retrospect, the Morning" it really perfectly fit with the aesthetic of the label, so I think in that respect it was a great opportunity to be able to work with the label. Alessandro is also a very supportive label owner, and I can fully recommend the experience of working with Glacial Movements. He was generous enough to consider my album, and it is even better that it worked out as a successful release.
+
+***Tell us a bit about this final chapter and your water-themed trilogy that includes Cursory Asperses (2008) and Escaping Lakes (2009).***\
+It was started vaguely as a mixture of water-themed field recordings, and using that as a basis for shape and movement of the sounds for the first two albums. Cursory Asperses was based on the movements of small streams, and In Escaping Lakes obviously about the peacefulness and depth of lakes. Of course inside each there were more personal and interesting stories than simply that it was water-themed music based on field recordings, but it's where it all started. Without Retrospect, the Morning was my attempt at continuation of this series. I had initially intended for it to be a much more fluid album, but when I happened to end up in snowy frozen Alberta, it changed to more icy textures. Though, that of course still runs with the water theme, and backstory.
+
+***What were you doing in South Alberta, Canada in 2009?***\
+I was given a short term job as a photographer for a land development project by the park service. It was interesting because most of the places I was photographing and mapping out were places where new buildings or hotels would be built. The purpose was for an idea of the landscape for investors and designers, but it seemed like I was actually just capturing snapshots of the last moments of peace in those places, despite the fact that the snow obliterated most of my attempts at taking normal photos.
+
+***What were some of the triggered memories when you worked on this album and when you listen to it now?***\
+Like many albums going back to it again after a long period of time brings back memories of when I worked on it, but also a lot of new feelings that didn't happen or I wasn't as aware of at the time. It's like forgetting about a particular memory, then having a dream about it and remembering it again. It doesn't just come to you for no reason, but you're not in direct control of it. I remember the most being cold, and how bright the snow made the light. And how cold I was... but when the sun came out, the streets would sparkle like it was just after a summer rain. Conversations in the local restaurant below my room, and a lot of 'why did you come here' questions.
+
+***What can we expect from Celer in 2013?***\
+There will be a new LP on Streamline called Zenith, the fifth and final LP of my self-released black vinyl series Diving Into the Plasma Pool, a CD release of I, Anatomy on Streamline (a different version than the LP), two releases on Spekk (a Celer album and collaboration with Mathieu Ruhlmann), the Viewpoint CD on Murmur Records from Japan, an album called Climbing Formations on Entropy Records, the 2xLP remastered reissue of I Love You So Much I Can't Even Title This on Infraction, Voyeur LP on Humming Conch, a collaboration cassette with Hakobune on Chemical Tapes, a split with David Tagg, and maybe a couple of other things.
+
+Read review of *[**Without Retrospect, the Morning**](../2012/19532-celer-without-retrospect-the-morning.md)*

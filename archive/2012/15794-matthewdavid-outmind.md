@@ -1,0 +1,14 @@
+---
+id: 15794
+title: "Matthewdavid - Outmind"
+date: "2012-03-03T08:52:44-05:00"
+category: ["Albums"]
+---
+
+*Outmind* descends upon your waking ears with a suffocating density of Los Angeles morning smog. **Matthew David McQueen** produces captivating lo-fi leftfield beats that fall somewhere between the mysterious ambiance of **Boards of Canada**, the exotic selection of **Demdike Stare** and the esoteric rhythms of **Flying Lotus**. Somewhat psychedelic, a little hungover, and a tad blunted, the shuffling sound is packed through a never-ending corridor of effects, making the music sound old and worn out. The above mention of Flying Lotus is not purely accidental. Steven Ellison indeed noticed the beauty in **Matthewdavid** and signed him onto his **Brainfeeder** label, home to many like-minded west coast beat masters like **Teebs**, **Lorn**, and **The** [motha-bleepin’] **Gaslamp Killer.**
+
+Picture yourself walking on a beach in Santa Monica and accidentally kicking up an abandoned cassette tape. The label is gone, and the plastic housing has melted from the hot sand, but the magnetic tape looks to be intact, even if a bit chewed up in places. So you go home, and spend an hour carefully removing the screws from the casing and transporting the reel into a brand new housing, just so that you can hear the contents. And when you finally press play, all of that hard work pays off. Beneath the sounds of stretched out tones and the over dubbed rumbling bass, you instantly fall in love with the music… This is the sound of **Matthewdavid**.
+
+> Matthewdavid is a man who builds with warm tones. He travels new paths gathering sounds to enhance the intricate dimensions of his creations. Outmind was lovingly crafted and resonates with Matthewdavid’s heartfelt glow. His music’s mysterious simplicity sparks senses. These songs come from far out to resonate within. Rotate your dial to a space between frequencies. Catch these ghost channels of golden pop. Outmind blends familiar rhythms with those lost long ago and others yet to come.
+
+I first discovered Matthewdavid’s sound when I heard him play live at the Seattle’s Decibel Festival. His live performance followed the experimental glitch of **Oval** and the blissed out ambient drones of **Christopher Willits**, and I don’t think I was prepared for his unique sound. Yet *Outmind* is not a debut release for McQueen – in 2008 **Plug Research** published a digital only EP, *Spills*, and in 2009 McQueen formed his own label, **Leaving Records** (along with a visual artist Jesselisa Moretti), on which he later released a cassette collaboration with **Sun Araw** titled Livephreaxxx!!! (2010)… The bad news is that many of these limited editions are long sold out! The good news is that Matthewdavid is only getting better, so there will be plenty more to buy!

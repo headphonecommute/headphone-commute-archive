@@ -1,0 +1,14 @@
+---
+id: 30910
+title: "Pinkcourtesyphone - Taking into Account Only a Portion of Your Emotions"
+date: "2016-12-28T06:45:58-05:00"
+category: ["Albums"]
+---
+
+There was a time, oh, back in 2012, when **Richard Chartier**'s newly discovered project felt like a playful outlet for his experimental and minimal works, wrapped in a concept of an enigma, obscurity, and veil. But two years into the making and this thought-to-be one-off is taken more than seriously, picked up by the notable imprints, such as **Room40**, **Important** and **Dragon's Eye**. [Editor's note: the concept itself began back in 1997] In fact, during this past year, Chartier hasn't even released any of the music under his real name, with the *Interior Field* (2013) being the last solo album, on his very own **Line**. With his eighth release under the guise of **Pinkcourtesyphone**, Chartier lands on **Editions Mego**, forever cementing the promise that this project is here to stay.
+
+*Taking into Account Only a Portion of Your Emotions* is immediately recognisable with that special Pinkcourtesyphone trademark – from the veiled female voices to the drifting ambient pads to the background ringing of the telephone. "Hello? Hello? Is there someone there?" The silence on the other end of the wire hangs still, in a clouded shroud, bordering on the ghostly, spiritual, and the occult. This is the sensation that is particularly evoked within this album, like a rip in a fabric of space, transforming some daydream into an unlikely remembered past. Suddenly, this fabricated memory floats to the surface, and I am dancing in slow motion, in a backroom of a warehouse rave of the 90s, slowly dissolving in a pink fog of a smoke machine.
+
+> Pinkcourtesyphone is dark but not arch, with a slight hint of humour. Amorphous, changing, and slipping in and out of consciousness, operating like a syrupy dream and strives to be both elegant and detached. Please don't hang up. This call is important. You're coming with Pinkcourtesyphone… leave everything… it's getting late.
+
+There is a very special place in my heart for music that is poised yet polished. Like a deliberate painting of a winter meadow covered in a heavy mist of nearly crystallised water vapour, its sound descending on my mind and wrapping it into a mild stupor, slumber, and daze. The trance-inducing arpeggios hypnotising my perception, confusing the sensors, in a synesthetic single-tone-coloured spell. This feeling is particularly acute on my favourite track of the album, "Reference Point Intermission 2," and once again, I am mesmerised, back in that flashback of a warehouse trip. Highly recommended for fans of everything Chartier touches, plus recent ambient noir-fi movement by the likes of **The Caretaker**, **William Basinski**, **The Inward Circles**, **Black Swan**, **Thomas Köner, Lustmord** and **Stephan Mathieu**.

@@ -1,0 +1,14 @@
+---
+id: 16579
+title: "Kane Ikin + David Wenngren - Strangers"
+date: "2012-04-11T06:21:11-05:00"
+category: ["Albums"]
+---
+
+After falling in love with music by **Library Tapes**, I learned to memorise **David Wenngren** by his real name, so that I can keep track of all of his projects. This is how I recognised his collaboration with **Danny Norbury** on **Le Lendemain** (see *Fires*, released by **Home Normal** in 2009), his work with his girlfriend, **Ylva Wiklund**, on **Murralin Lane** (see *Our House Is On The Wall*, released by **12k** in 2010), and his pairing with **Christopher Bissonnette** for an album titled *The Meridians Of Longitude And Parallels Of Latitude* (**Home Normal,** 2011). A few years ago I added **Kane Ikin** to the list of 'real names' I'll keep track of! After all, he's one half of a beautiful project, **Solo Andata**, with **Paul Fiocco** (see the self-titled album followed by *Look For Me Here* EP released by **12k** in 2009), and a wonderful 7″ EP, *Contrail* (12k, 2011). So when **Simon Scott** reached out and mentioned a new release on his **Kesh Recordings** by **Kane Ikin and David Wenngren**, I immediately jumped at the opportunity to secure a promo copy of *Strangers…* and it's a pure intoxicated bliss.
+
+**Kane Ikin** and **David Wenngren** spread the sounds on a sonic canvas with a palette knife covered in clay. Thick textures of frequencies spread out and solidify throughout the pieces, washed out by field recordings of ocean waves, white noise, and ambient chastity. Single-word titles, such as *'Swell'*, *'Call'*, *'Veil'*, and *'Drifter'*, keep the complexity of album at bay, leaving the minimalism at the forefront of imagination. What we are left with is genuine music – heartfelt, organic, and incredibly warm – with traces of guitar, strings, and analogue consoles. The story of making the *Strangers*, however, is just as honest and simple as the record. The two musicians approached the album without preconceived ideas, allowing the music to speak for itself.
+
+> This record was made without ever meeting, without real discussion or a plan. The concept is simply just communication though sound and that is what informed the title Strangers. -Kane Ikin
+
+Personally, I get all warm and fuzzy inside when any two of my favourite artists decide to collaborate together. It's like learning of a perfect matchmaking among the two distant friends, when individual eccentricities compliment each other's talents and fulfil the missing void. It is even more exciting, when the matchmaker is one of my favourite labels. Simon Scott's **KESHHHHHH Recordings** has been responsible for putting out **Saito Koji**'s *Theme* (2008), **Hannu**'s *Hintergarten* (2009), **Martin Herterich**'s *Silent Fields* (2009) and most recently a 12″ from **Isan**, titled *Easside* (2011). *Strangers* is available on the label's site. Oh, and yes, it was mastered by **Taylor Deupree**!

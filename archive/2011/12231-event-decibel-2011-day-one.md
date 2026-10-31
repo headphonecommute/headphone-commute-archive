@@ -1,0 +1,32 @@
+---
+id: 12231
+title: "Event : Decibel 2011 : Day One"
+date: "2011-10-04T06:33:05-05:00"
+category: ["Festivals and Events"]
+---
+
+**DJ Krush** (Photography by [**Angela Dawn Paterson**](http://www.flickr.com/people/99111879@N00/))
+
+Arriving at Seattle's downtown hotel, the first thing I realized was that I was under-dressed. The 70-degree crisp weather felt cooler on my skin than the New York's same-temperature-stale-smug-mist, and even a cup of dark roasted Starbucks' coffee failed to warm up my three-hour jet-lagged bones. Checking in at the press booth I ran into **Uwe Schmidt** (**Atom™, [Atom Heart](http://www.atom-heart.com/)**), and having completed my first artist interview of the festival, my musical vacation was off to a good start! With the night's super tight schedule presenting its first challenge of the week, I set off to an opening reception hosted by [**SXSW**](http://sxsw.com/), for a few cocktails with the [**Decibel**](http://www.dbfestival.com/) folks. On the way to the ***FRED Wildlife Refuge*** art center, I encountered my first record shop of the city, [***Wall of Sound***](http://www.wosound.com/), and after complimenting the proprietor on his amazing taste (the walls were lined with everything from **Ninja Tune** to **Dragon's Eye**), I made a mental note to return with a larger bag in tow.
+
+**DJ /rupture** (Photography by [**Ngoc Tran**](http://www.flickr.com/people/dustyfootsoldier/))
+
+At the reception, where just a few hours ago [**DJ /rupture**](http://www.negrophonic.com/) held a presentation on real-time performance with ***Serato***, ***Ableton*** and ***Reaktor***, I shared a few drink tickets with **Thomas Meluch** (**Benoît Pioulard**), **Simon Scott**, and my good friend **Rafael Anton Irisarri** (aka **The Sight Below**), until RAI dragged me away by the sleeve yelling "SHIGETO!" over the loud breaking beats. As we walked over to *Neumos* for the first official party of the night, Simon described some of the mishaps at their previous night's performance, where he shared a stage alongside **The Sight Below** and **Marcus Fischer** at ***Eat. Art. Theater.*** in Portland - the show got shut down due to a noise complaint.[ † ] I'm sure an occasional disruption to a performance is not a huge surprise to many of the touring musicians, but ambient music being a bit too loud? A noise complaint against Marcus Fischer? Pretty funny…
+
+**Shigeto** (Photography by [**Heather S.**](http://www.flickr.com/people/heather23/))
+
+At ***Neumos*** I walked into the crowd with **Zach Saginaw** ([**Shigeto**](http://iamshigeto.com/)) already behind the decks, twisting and turning the knobs on his controller, glitching percussion and synths. The crowd was moving with drinks in hands, most gathering close to the stage observing the real-time manipulations of sound. And then Zach grabbed the drum sticks and blew everyone away! The abstract, jazzy, and hip-hop beats were now complimented by raw live percussion, as Shigeto cringed through the sweat of his own workout, punishing the drums with unprecedented power. Watching this performance not only increased my respect for Shigeto's musicianship, but also changed my future perception of his unique sound. With a few EPs behind his belt on [**Moodgadget**](http://moodgadget.com/) and a debut LP, *Full Circle* on [**Ghostly International**](http://ghostly.com/) in 2010, Shigeto is sure to turn heads in the years to come.
+
+**Atom™** (Photography by [**Nic Launceford**](http://www.flickr.com/people/nlaunceford/))
+
+As Shigeto ended his performance, I glanced at my watch and realized that it was time to cab over to ***Re-Bar*** where **Atom™** was about to perform. On the stage, 43-year old Schmidt, "*the father of electrolatino, electrogospel and acid-reggaeton,*" also known as **Señor Coconut**, stood behind his beloved ***Akai MPC***, loading 4k patches, changing the frequency cut offs, and triggering the loops, as visual output of the sampler was broadcasted on the screen behind him, intertwined with real-time manipulated visuals created by Schmidt himself. Here was a green terminal ASCII art of Schmidt's rotating head, pulsing in sync with the triggered sample of his now famous cell phone interference tone, with an occasional millisecond cutover to a pixelated scene of a man's member in a woman's mouth (think subliminal messages of *Fight Club*). At one point, Schmidt folded his hands along his precision ironed German suit and stood back watching the audience, as a short film played itself out on the screen. Yes, he wasn't doing a damn thing for a period of ten minutes on the stage, but at least he wasn't faking it! A unique performance to say the least!
+
+**Zomby** (Photography by [**Nic Launceford**](http://www.flickr.com/people/nlaunceford/))
+
+My night ended with a show from a mysterious artist on [**Hyperdub**](http://www.hyperdub.net/) and now **4AD**, known to the world simply as **Zomby**. Staying true to his wish to be anonymous, the skinny kid with a gold chain around his neck kept taking reefer puffs behind the mask, as he spun a warehouse set of old-skool rave, jungle, dubstep, and everything in between. Occasionally, Zomby would disappear behind the curtains, returning to pick up his set where it was left off. Unfortunately the shortest tracks from his latest album, *Dedication* (4AD, 2011), were cut even further into what seemed like minute-long vignettes, interrupting the rhythm and flow of his performance with those d'n'b air-horns and '92 rave samples. But I get the point. With my jet lag, burning calf muscles, and a few beers, I decided to end the night at 2am and save the energy for the days to come. My only regrets for the night were missing performances by **214**, **Araabmuzik**, **DJ Krush**, and a drum'n'bass showcase by **Hive** and **Total Science**, which I heard were outstanding!
+
+Read more on Decibel
+
+[ [**preview**](11473-decibel-2011-preview.md) ] [ [**day one**](12231-event-decibel-2011-day-one.md) ] [ [**day two**](12257-event-decibel-2011-day-two.md) ] [ **[day three](12296-event-decibel-2011-day-three.md)** ]
+
+\* [Erratum] In my earlier version of this article, I incorrectly referred to the promoters of Portland's show as being uncooperative... In fact, it was the LA show where Simon Scott and Mountains were treated unfairly by the promoters. The Portland show was only shut down by the police, and was put together by **Mike Jedlicka** from **Optic Echo.**

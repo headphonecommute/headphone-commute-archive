@@ -1,0 +1,16 @@
+---
+id: 19729
+title: "Willits + Sakamoto - Ancient Future"
+date: "2013-05-15T06:05:53-05:00"
+category: ["Albums"]
+---
+
+This is not the first time that San Francisco based multimedia artist **Christopher Willits** and the New York slash Tokyo based Japanese award-winning film composer **Ryuichi Sakamoto** have collaborated together on a project. Five years prior the duo released a record, *Ocean Fire*, which appeared on **12k**. This time, *Ancient Future* is released on Ann Arbor (Michigan, US) based label, **Ghostly International**, which has been popping up on my radar a lot lately, and not just for its crunchy IDM and downtempo records. If you're a fan of Japanese cinema, then Sakamoto needs no introduction. When I went to see his live performance in New York, the line of Japanese fans snaked around the corner, and they were not aware of his separate musical career in the modern classical and ambient scenes. I actually felt a little out-of-place as well, because I only know this piano master for his non-film works.
+
+On *Ancient Future* I hear the good ol' Sakamoto-san behind the keyboard, sparsely filling the silence with his abstract melodies and chords. There's a resonating presence in the mid-range, at times skydiving into deep and rumbling bass. The atmosphere is filled with ambiance of Christopher's reverberated guitar. And the two instruments take turns plucking at the notes between the slowly thumping heartbeat. The recordings appear to sound like an improvisational performance, but at the same time well orchestrated and produced. This later phenomenon is explained in the process behind Ancient Future. The music on the album is "built around a series of piano pieces that Sakamoto sent to Willits after the release of the duo's first record together, 2008's Ocean Fire."
+
+> As a whole, Ancient Future functions as a piece about the creation, acceptance and completion of one's fate and all of life's experiences, following a trajectory through inner conflict, resolution and, ultimately, acceptance. The six-song cycle moves through a narrative of sorts, each piece with a story to tell and an aspect of life to explore.
+
+Fans of intricate textures, slightly jazzy keys, and gratuitous atmospherics will appreciate the environment produced by *Ancient Future*. It is a meditative state in which without thoughts one can become aware of awareness. It is a daytime dream in which the major tones radiate in soft sunlight. It is a tranquil place where one becomes the one with the one and only. And the thumping pulse beats on…
+
+If you're somehow new to both musicians, may I recommend you explore Willits' past catalogue starting with his three collaborations with **Taylor Deupree**: *Invisible Architecture #8* (Audiosphere, 2003), *Mujo* (Plop, 2004) and *Listening Garden* (LINE, 2007). Sakamoto's catalogue, on the other hand, is rather enormous, with records dating back to 1978. However, you absolutely must hear his works with **Christian Fennesz**: *Cendre* (Touch, 2007) and *Flumina* (Touch, 2011); as well as his celebrated collaboration with Carsten Nicolai as **Alva Noto**: *Vrioon* (Raster-Noton, 2002), *Insen* (Raster-Noton, 2008) and *Summvs* (Raster-Noton, 2011). I promise, you will not be disappointed.

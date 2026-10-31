@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{- $s := site.Data.statistics }}
+{{- $m := site.Data.manifest }}
+<h1>Archive statistics</h1>
+<p class="page-intro">Generated from the archive's own catalogue (<code>data/statistics.json</code>). Archive version {{ $m.archive_version }}.</p>
+<div class="figures">
+  <div><b>{{ $s.totals.documents | lang.FormatNumber 0 }}</b><span>articles</span></div>
+  <div><b>{{ $s.totals.words | lang.FormatNumber 0 }}</b><span>words</span></div>
+  <div><b>{{ len $s.by_year }}</b><span>years</span></div>
+  <div><b>{{ len $s.by_category }}</b><span>categories</span></div>
+</div>
+<h2>By year</h2>
+{{- $max := 0 }}{{ range $s.by_year }}{{ if gt . $max }}{{ $max = . }}{{ end }}{{ end }}
+<div style="overflow-x:auto">
+<table class="data-table">
+  <thead><tr><th>Year</th><th class="num">Articles</th><th class="num">Words</th><th><span class="visually-hidden">Share</span></th></tr></thead>
+  <tbody>
+  {{- range $year, $n := $s.by_year }}
+    <tr><td><a href="{{ printf "years/%s.html" $year | relURL }}">{{ $year }}</a></td><td class="num">{{ $n }}</td><td class="num">{{ index $s.words_by_year $year | lang.FormatNumber 0 }}</td>
+    <td style="width:40%"><span class="bar" style="width:{{ div (mul $n 100.0) $max }}%"></span></td></tr>
+  {{- end }}
+  </tbody>
+</table>
+</div>
+<h2>By category</h2>
+<div style="overflow-x:auto">
+<table class="data-table">
+  <thead><tr><th>Category</th><th class="num">Articles</th></tr></thead>
+  <tbody>
+  {{- range site.Taxonomies.category.ByCount }}
+    <tr><td><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></td><td class="num">{{ .Count }}</td></tr>
+  {{- end }}
+  </tbody>
+</table>
+</div>
+<h2>What is not included</h2>
+<p>{{ $s.totals.excluded }} published items are outside the archive's scope, each listed with its reason in <code>data/exclusions.json</code>:</p>
+<table class="data-table">
+  <tbody>
+  {{- range $reason, $n := $s.excluded_by_reason }}
+    <tr><td>{{ $reason }}</td><td class="num">{{ $n }}</td></tr>
+  {{- end }}
+  </tbody>
+</table>
+{{ end }}

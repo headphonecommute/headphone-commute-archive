@@ -1,0 +1,47 @@
+---
+id: 11829
+title: "Conversations with Sean Horton"
+date: "2011-09-10T08:04:15-05:00"
+category: ["Artist Interviews"]
+---
+
+***What are the roots of the festival? How did it come to existence, what was the original idea behind it, and what does the name, Decibel, represent?***\
+The roots definitely came from my upbringing in Detroit, where I was exposed to early 90s warehouse party culture in high school. It was there that I first encountered Detroit Techno, acid, minimal, ambient and house music, all of which have been incorporated into Decibel over the years. Though Seattle is my home, my soul is from Detroit.
+
+Shortly after moving out to the West Coast in 1996, I started throwing events in Olympia where I was going to school for audio engineering (The Evergreen State College). As an event producer/curator in the underground electronic music community, I met dozens of DJs, promoters, artists, writers and venue managers in the Seattle and Portland area, many of whom I still work with today. In 2002, I moved to Seattle for employment and started up a production company called Dreaming in Stereo, that focused on live underground dance music. Between May of 2002 and July of 2003, I booked Funkstorung, Matthew Dear, Richard Devine, Lusine, T. Raumschmeire, Apparat and several other acts, many of whom I work with to this day. After attending the MUTEK Festival in Montreal in 2003, I was inspired to form an electronic music focused festival in Seattle, which became Decibel. We celebrated our first event in December of 2003 and inaugural festival in September of 2004.
+
+The word Decibel, is a technical term used for a wide variety of measurements in science and engineering, most prominently in acoustics and electronics. To me it sums up what we're really about, which is music and technology. Visual art does play a key role as well, which is why we also host events and showcases under the OPTICAL branding.
+
+***What is the main focus of the festival and how does it set itself apart from other international electronic music events all over the world?***\
+From day one, the three primary elements that make up Decibel are, electronic music performance, visual art and technology based education/communication. When combined you have the ability to create a unique and immersive experience that can be communicated and taught across a several channels. When we first began, there really wasn't anything else in the US that was focusing on these three areas in such an interactive way, but now there's several festivals that I think have embraced digital technology, social media and interactive a/v art in an effort to both entertain and educate attendees.
+
+What has always set us apart is the curation and heavy North West focus. If you compare our format, lineup and overall program to other festivals, it's quite unique in that we're utilizing a dozen venues - many happening simultaneous - that range from art museums, to concert halls, to dance clubs, to parks. Each venue is specifically tailored to each showcase and performer in a way that allows attendees to become part of the experience, which as curator I sincerely hope allows both rich exploration as well as pure indulgence. I want inspire people intellectually, without losing the visceral experience of dancing until dawn.
+
+***Do you remember the very first year? What were the initial challenges in pulling something off on this scale? Any particular lessons learned?***\
+I remember every year in great detail, but the first is perhaps the most vivid. The initial challenge, which continues to this day, was simply finding new and creative ways to function as a grass roots, volunteer run, community arts festival. For the first seven years, we were funded primarily through personal credit cards that I racked up about a dozen of. Up until this year, that was really our initial source of funding. Another initial challenge, that we also face today, was the perception that we're throwing "raves" which is a word I've tried to distance myself from as it has a somewhat negative connotation and perception attached to it. It really took a great deal of PR, marketing and community outreach to get Decibel the type of image/perception that I was comfortable with. Because we were exploring experimental a/v art and leading-edge technology via performance, we really didn't want to be lumped in with DJ-based drug parties, which at the time had really been exploited to death.
+
+***How would you say the festival has changed and evolved over the years, since its inception in 2004?***\
+We've grown substantially (2,500 in 2004 to over 18,000 in 2010) which has created both new opportunities and challenges. We're still a volunteer based organization, but we're working on a much larger scale. 2011 has seen significant growth in terms of venues, many of which we're working with for the first time (e.g. The Paramount Theatre, The Showbox, The Crocodile). We've more than tripled our venue capacity this year, which was needed in order to make attendees happy that in previous years couldn't get into venues or that were complaining about lack of room. From a curatorial standpoint, nothing is really changing, just the size in which we do it. We're still a technologically driven arts festival that focuses on electronic music performance, interactive visual art and education.
+
+***Do you have a few memorable moments from the past installments that you'd like to share?***\
+In 2006 when Speedy J grabbed the mic out of my hand to exclaim "This is the best festival in the world". Can't think of a better way to close out a festival then having one of your heroes offer that sort of praise.
+
+***In your mind, what effect does Decibel have on the US West Coast electronic music scene?***\
+I hope that we're exposing folks to styles of music and art that aren't particularly known on the West Coast. I'm a firm believer in giving people a bit of what they want and countering it with a bit of something new. I feel this is something most festivals in the US lack. So many of them are just booking the same acts over and over and over again. I'm all for bringing in artists that carry with them a fan base, but you'll see that our supporting line ups and overall programming is quite unique overall.
+
+***What local talent has benefited from Decibel as a platform to launch their career?***\
+I never want to take credit for an artists success. I do have my personal favorites, including Lusine, The Sight Below, Pezzner, Truckasauras, Ill Cosby, 214 and Jon McMillion, all of whom have celebrated monumental years of touring, releases and personal achievements. They're all friends and people I adore, so I can't help but take pride in their success. This cities owes them all a lot and I don't feel they get the credit they deserve.
+
+***What is the process of showcase selection for the festival? Are there particular aspects of electronic music and visual art that you feel you must represent?***\
+It's been a combination of influential artists and personal discoveries that I come across through my day job, through DJing and through traveling to festivals like Movement, Sonar, MUTEK, Coachella and Communikey. I generally won't select an artists without having seen them perform, which I feel is crucial considering we're a festival that focuses on performance (roughly 80% live and 20% DJ based). We do have our regulars that I've asked back multiple over the past eight years (Apparat, Thomas Fehlmann, Green Velvet, John Tejada, Carl Craig, Fennesz, Murcof) but I always do my best to pair them up with emerging talent that I'm personally just as excited to host. In terms of the themes tied to each showcase, those vary between labels, promotional crews/partners, geography and sometimes even genres, which is something I try to avoid as I personally feel that people often have a preconceived notion of a genre that rarely aligns with my own experience. Overall, I want the program to feature a percentage of legacy artists, a percentage of leading-edge artists and a percentage of emerging artists. The more international the scope, the better. This year we have 125+ artists hailing from 13 different countries, across 28 showcases, which is on par with last year's addition. What is different is the scale on which we're doing it.
+
+***What can we expect from Decibel 2011? Care to share any specific performances that you are looking forward to?***\
+Without question, Amon Tobin ISAM LIVE is going to be a highlight for many. I'm personally very excited about Friday's Blurring The Lines Showcase with Martyn (North American live debut), Martin Buttrich, Max Cooper and Egyptrixx, all of whom will be performing live. I'm also incredibly excited for both OPTICAL showcases, that will be featuring Oval (World Debut A/V set), Ryoichi Kurokawa (US Debut set of RHEO), Mountains and Urlich Schnauss who will be performing with ex-Slowdive drummer Simon Scott. Lastly, Green Velvet, Motor City Drum Ensemble, Atom TM and Zomby are all on my "must see" list.
+
+***Is there anything new that you are trying out this year?***\
+As I mentioned, several new and prestigious venues that will be housing some of our larger showcases.
+
+***Any closing words?***\
+Hope to see in September! Seattle is absolutely gorgeous that time of year btw :)
+
+**[dbfestival.com/staff/sean-horton](http://www.dbfestival.com/staff/sean-horton/)**

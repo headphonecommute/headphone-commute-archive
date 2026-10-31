@@ -1,0 +1,21 @@
+---
+id: 29439
+title: "Alessandro Cortini - Risveglio"
+date: "2016-02-11T06:55:59-05:00"
+category: ["Albums"]
+---
+
+**Alessandro Cortini** might be best known in the context of his collaborations with **Trent Reznor** over the last several years, serving time in **Nine Inch Nails**' performing lineup and appearing on a few albums. He's also quietly been releasing his solo music for a few years now, on **Important** and **Hospital Productions**, and in hearing these I realise just how integral he must be in those scoring projects. There is an understated tension in most of *Risveglio* that comes through in a similar way to his work with Reznor, but the production is more crude, more synthesised, less clear, less elegant. Those aren't criticisms in the slightest; it all comes together fantastically well.
+
+The arpeggio warbles of a track like "La Sveglia" has all of the woozy otherness of modular synth artists like **Nathan Fake** or **James Holden**, but without any of the dance music framework or foundation. Instead these cuts stand alone as instrumental and often beatless journeys. It's also not hard to hear what Reznor heard in Cortini's talents, as his often midrange and microtonal bending productions feel very much in line with some of Reznor's own box of tricks, letting the tension hang in the details. But the similarities end there; Cortini's modular creations are stark and minimal, but he gets a lot of mileage out of them.
+
+> With Risveglio, Cortini implores and emphasises the imperfections and visceral textures of electronics vacant from so much contemporary solo synthesizer music. Furthermore Cortini carves out a similar space to what Kevin Drumm's Hospital releases have done for the worlds of Drone and Noise by finding the emotional and ultimately human voice within synthesis.
+
+There are rarely more than two layers of sound in any given track, but his talent for slowly shifting effects lends these pieces momentum rather than merely feeling repetitious. Consider the simple patterns of "Lotta," for instance, the longest cut centred in the album's playlist: this is not what one would typically associate with synthesis, because its prolonged tones are melodic and accessible, but it's against the odds as Cortini amps up the distortion, mids, and reverb on his small palette of sound. This gives it both a larger than life quality but also feels claustrophobic as the effects close in and nearly swallow the sounds they are enhancing.
+
+At its most stark, *Risveglio* can be truly haunting, such as on "La Via," a creeper built entirely around an undulating pattern and melodic accents... it's cases like this when Cortini's effects really carry the track to a new place, with a broad decay on his synced delay accruing both distorted noise as well as that sort of implied doppler effect of layering. "LA Guardia" is one of my favourites, built around a 303 acid pattern that starts off unassumingly and then reveals itself as he dials up the filter. It's a simple enough trick but it's so effective that I can't help but love it. His scaled down productions with so few layers, relying heavily on looping patterns and arps, inevitably brings to mind some of the haunting and inspired scores of **John Carpenter** in the late 70s and early 80s (especially *Halloween III* — an often overlooked gem, I always say), but the murkier mids and rougher edges take it to a darker and more obscured place, bringing to mind once again that claustrophobia that I mentioned earlier.
+
+The overall finish of *Risveglio* makes it feel right at home on **Vatican Shadows**' Hospital Productions imprint, feeling like a more organic and aged tape transfer, and the contrast between a slow, muddy burner like "Posso" and the disorienting warble of "La Sveglia" makes what could be a predictable set of tracks — if only by virtue of Cortini's fairly focused and consistent process here — rich and varied. Recommended listening for fans of **M. Geddes Gengras**' ambient excursions or **Boards of Canada**'s most esoteric and darkest pieces, as well as anyone with a curious ear for stripped down electronic atmosphere with a pulse.
+
+Words by Matthew Mercer of **Ear Influxion**\
+Additional editorial by **HC**

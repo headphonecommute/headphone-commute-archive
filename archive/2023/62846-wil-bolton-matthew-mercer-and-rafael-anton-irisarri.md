@@ -1,0 +1,26 @@
+---
+id: 62846
+title: "Wil Bolton, Matthew Mercer, and Rafael Anton Irisarri"
+date: "2023-08-05T06:05:47+01:00"
+category: ["Sound Bytes"]
+---
+
+# Wil Bolton
+
+## Swept
+
+**Audiobulb**'s press release for *Swept* describes **Wil Bolton** as "*a London-based artist whose work uses synthesizers, guitars, acoustic instruments and effects to create warm and emotive melodies, fragmented and submerged among beds of droning ambient textures and environmental sounds.*" But when it comes to understanding all that is Wil Bolton (and his music, of course), one realizes that trying to capture it all with these adjectives and nouns is a futile attempt (sorry, David). Take away other factual pointers of time and place, and suddenly the organic ambience around us could be conveyed with slow-moving sounds emanating from our modular synthesizers, plucked and bowed string instruments and field recordings that somehow engage the mind with the minute details of the sonic phenomena. And yet, Bolton's aesthetic in compositional-meets-accidental performance is very much unique and, indeed, very special. If you traverse his immense discography with records appearing on numerous labels, including **Home Normal**, **Hidden Vibes**, **Krysalisound**, **Hibernate**, **Eilean Rec.**, **Dronarivm** and **Sound In Silence**, among the many, you will begin to understand that organic, atmospheric, and textural sound that appeals so much to my ears, and, clearly, **Ian Hawgood**'s who has mastered this album and scheduled a few upcoming releases on his label as well. In the wake of the post-pandemic world, *Swept* is a slowly unfurling collection of pieces exploring "*emotional turbulence, resilience and rejuvenation*" that comes into our lives as we face this new reality. But all of these are still mere words, and to truly appreciate Wil Bolton's artistry, you must listen to his music.
+
+# Matthew Mercer
+
+## Sub/Super
+
+**Matthew Mercer** is a Portland-based electronic musician, a music journalist, and a friend responsible for exposing me to the many eclectic, challenging, and beautiful works via his site, [**Ear Influxion**](http://earinfluxion.com/). In fact, I have republished many of his musings on Headphone Commute before [which is why you may have recognized his name], indebted to his keen ear for picking up the albums that have missed my radar. As one-half of **Microfilm** (with Matt Keppel), he has released numerous synth-pop, chillwave, and abstract techno records over the years. In 2002, Mercer began self-releasing many of his solo works, traversing many experimental genres, until he began honing in on minimal ambient and drone [see *Hypnagogia* from 2022]. This music, as you may have already guessed, got noticed by **Yann Novak**, who runs the venerable **Dragon's Eye Recordings** out of Los Angeles. The two long-playing pieces on *Sub/Super* perfectly fit along the many celebrated releases on the catalogue, with its full spectrum harmonic whir that evolves over the course of 36 minutes in "Sublimation" and a further-reduced 14+ minute "Superliminal" with "*hypnotic soundscapes that reflect a sense of formless, boundless time.*" The work builds upon archival source tapes from experiments in the 90s, working with the original lo-fi material to blur it into a vaporous, organic din. "*Its swirl of sound is immersive and comprehensive, a prolonged state of colloidal suspension.*" This is a deep, introspective, and meditative experience which I am extremely happy to see appearing on such a celebrated label! Well deserved!
+
+# Rafael Anton Irisarri
+
+### feat. Rachika Nayar, Dear Laika, James Heather
+
+## Encore (Live at Cafe OTO)
+
+Albeit just a single, nearly 14-minute track [something I very rarely cover on Headphone Commute due to a huge backlog of full-length albums I want to share with you!], *Encore (Live at Cafe OTO)* is a beautifully recorded live performance, or I may even go as far as calling it a "conversation", between four fantastic musicians and the audience, which took place in London's ***Cafe OTO*** during **Rafael Anton Irisarri** and **Rachika Nayar**'s European tour dates in 2022. The duo was joined by **James Heather** and **Dear Laika** "*to create an enchanting tapestry of sounds, melodies and textures, wrapping listeners in their sonic alchemy.*" The slow-evolving guitar-driven ambient pads, the field recordings, and the sparkling sprinkling piano keys create a gorgeous atmosphere, perfect for nearly every occasion, especially if you're a fan of all the words on this site. It reminds me a lot of one of my favourite pieces by Irisarri, back in 2010, when he got together with **Kelly Wyse** to record their take on **Arvo Pärt**'s "Für Alina" - you can find that track on a 3-track EP titled *Reverie* (Immune, 2010), or, retitled as "*Seattle"* on a collection of *Live* performances from 2010. "*The result is a truly immersive experience that invites listeners to close their eyes and embark on a serene and introspective journey as they surrender to the uncharted harmonies embodied in this release.*" You can grab this piece directly from Irisarri's **Bandcamp** as a digital track at "Name Your Price". Mastered by **Stephan Mathieu**.

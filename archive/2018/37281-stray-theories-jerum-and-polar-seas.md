@@ -1,0 +1,24 @@
+---
+id: 37281
+title: "Stray Theories, øjeRum, and Polar Seas"
+date: "2018-08-22T06:51:52+00:00"
+category: ["Sound Bytes"]
+---
+
+# Stray Theories
+
+## All That Was Lost
+
+**Stray Theories** is a project by the Australian born and New Zealand-based composer, **Micah Templeton-Wolfe.** Previously appearing on these pages back in 2014 with *Those Who Remain* album, it seems that Stray Theories has matured over the last four years, and in turn, may I even say "graduated" to a release on **n5MD**, awarding his excellence in this quality production with a limited edition, transparent blue 180g vinyl. This is a beautiful, pensive, and nostalgic record, one which would appeal to fans of organic ambiance by the likes of **Hammock, Balmorhea, A Winged Victory for the Sullen,** and **Slow Meadow**. Gentle and warm swells of leisurely transitioning waves of strings and synth atmospheres cover the pastures of Templeton-Wolfe's expanse like sunshine would shelter the wintry. The sonic scenes offer their gift like a first morning light, cautiously peeking from beneath passing clouds, then splendidly wrapping the soul with the sound. Suddenly you're bathing in abundance of light, and all the despair becomes into hope. "*All That Was Lost is a cinematic ambient gem brought into the world at a time when we need it most.*" It's nice to one of my favourite labels continue and expand its catalogue with more cinematic works, improving its output with each and every release. I also spy a photograph by **Alex Kozobolis** who, besides his piano work, has been slowly making a name for himself for visual contribution on more than a few albums. Recommended for the above-mentioned artists.
+
+# øjeRum
+
+## Stilhedens Strømmen I Fuglenes Blod
+
+Previously self-released as a limited edition cassette in 2015, this single track 30-minute piece is a slow-release pill of organic and ambient bliss that begs to be on repeat in the morning hours. Danish collage artist (responsible for his own cover art) and musician **Paw Grabowski** is back on my rotation with *Stilhedens Strømmen I Fuglenes Blod* for **KrysaliSound** imprint. His previous appearance was with *Væv* which was released by **Eilean** in 2016. Centered on solo-guitar motifs, Grabowski uses repetition of phrases, offset by field recordings of a natural environment, to create a neo-folksy reverie, played around the campfire in a brisk and quiet dusk. "*The result is a spiritual and meditative flow where the listener can dive and let himself be lulled by repeating melodies, evocative small variations and a great hypnotic style.*" Besides the latter citation, I also want to quote **Brian Housman**'s words for ***Stationary Travels***, calling this a highly meditative piece: "[...] *this is one of Grabowski’s most sparse, delicate, and beautiful works as he allows generous space around the clean guitar lines, bathing them in light filtered through the sheerest of veils. Cue the subtle chorus of birdsong in the background and we are gently transported away to an Arcadian dream...*" Be sure to also check out Grabowski's alternate soundtrack to **Chris Marker**'s 1962 film, *La Jetée*, which is titled *He remembers there were gardens*, along with nearly 20+ releases in the last four years alone from this prolific artist. Things can only get better from here on out.
+
+# VA
+
+## A Light, A Glimmer
+
+Since starting out mostly as a home for the Canadian duo **North Atlantic Drift** and the side projects of members Brad Deschamps and Mike Abercrombie, **Polar Seas Recordings** has expanded its reach in recent years and boasts a surge of excellent new releases for 2018 by artists such as **Celer** and **Hakobune**. The most recent of these is an outstanding new charity compilation called *A Light, A Glimmer* which will support of [Wishing Well Sanctuary](http://www.wishingwellsanctuary.org/index.php), a farmed animal sanctuary in Ontario that provides both for animals in need and education for children and adults with the goal of promoting compassion for other species. The album includes music not only from artists who have appeared in the label’s roster, but other luminaries from the ambient, drone, and electroacoustic music communities such as **Benoît Pioulard**, **Ian Hawgood**, **Hotel Neon**, **Northumbria, Valiska, David Newlin,** **Secret Pyramid** and many others. All in all, it contains 22 tracks offering over 2 hours of immersive atmospheres, beautiful, slow-turning soundscapes and entrancing sonic sketches. Offered at the mere price of a hand-crafted coffee drink (digital edition), it becomes a very easy and rewarding decision to add this to your collection. *A Light, A Glimmer* was also released as a limited edition CD run which is unfortunately sold out, but the compilation remains available as a digital download well worth obtaining for both the breadth and quality of the contributions and the cause it supports.

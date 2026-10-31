@@ -1,0 +1,16 @@
+---
+id: 17208
+title: "Birds of Passage - Winter Lady"
+date: "2012-06-10T07:35:12-05:00"
+category: ["Albums"]
+---
+
+To say that **Alicia Merz**'s sound is 'subdued' is an understatement. Perhaps 'sublime' is a much better word. And even though her voice does not 'subside', it definitely 'sub-' something. The overall aesthetic of **Birds of Passage** occupies that subliminal place in your mind, where the sound and space perform a ritual dance, allowing the emptiness to take on the lead. In this negative space the minimalism of the music maximizes its perceived simplicity, and true songwriting shines through. And then there's Alicia's voice. Barely resonating through the whispers, quietly revealing its secrets in the middle of the night. And Alicia simply sings…
+
+The other day, my close friend and I had yet another long discussion on vocals in music. Specifically he wanted to know why I was always listening to mostly instrumental music, and I, also, was curious about my bias towards lyrics. I tried to explain how the words added a sort of linguistic constraint on the experience, trapping my mind in the conceptual prison of the message. Instead, I simply want to close my eyes and drift away with the sound, creating images to music through the best cinematographer I can find – my mind. While my friend arguably claimed the importance of voice in a song as its own instrument, with all the rhythm and intonation that the words add to the experience. In the case of **Birds of Passage**, Alicia's voice is that instrument.
+
+I first got introduced to Merz's **Birds of Passage** solo project with the release of *Without The World*, published by **Denovali** in 2011. I was still planning on telling you about that album and then the New Zealand based Merz followed it up with *Winter Lady*. Together, both albums showcase Alicia's masterful control of textures, through ambient drones, drowned out piano, and reverb drenched instrumentation. The lyrics only add to the experience.
+
+> With Winter Lady, Alicia presents us with an endearing invitation into her fragile world, a captivating journey through the landscapes of her emotional euphoria and agony, a further commitment to musical experimentation… The cold minimalist-drones, distorted field recordings, and sparse instrumentation, illustrate an icy, desolate and dark world. It's as if we are listening to the sound of winter itself; an audio exposure to the unforgiving elements of winter…
+
+Perhaps it's also worthwhile to mention that the album is mastered by **Nils Frahm** (who, presumably, with this credit put his stamp of approval on the release). Merz has also captured the ear of the prolific **Aidan Baker**, who contributed to a track *"Forbidden Love"* featured exclusively on the *Highwaymen In Midnight Masks* EP, released by Denovali as a 10" vinyl EP and co-published by **Sweat Lodge Guru** label as a limited cassette. A digital release of both records and the EP are available via Denovali's MP3 Shop. While you are there, be sure to also check out Alicia's collaboration with **Leonardo Rosado** on *Dear And Unfamiliar*. Recommended for fans of **Her Name Is Calla**, **Blueneck**, and of course, **Grouper**.

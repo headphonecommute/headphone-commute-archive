@@ -1,0 +1,40 @@
+---
+id: 16099
+title: "Interview with Robert Raths"
+date: "2012-03-24T13:54:49-05:00"
+category: ["Artist Interviews"]
+---
+
+***Hey, Robert... Congratulations on reaching five years with Erased Tapes! How has it been?***\
+Hey there. It's been great, thanks. Sofia threw a little surprise party for me on the actual birthday, February 5, and it was so wonderful to see Nils, Peter and Martyn play a spontaneous birthday song for me and the label. It still feels like it was only yesterday that I received Ryan's work as Aparatec on a Tesco CD-R. Time flies...
+
+***So why did you decide to run a label in the first place?***\
+It wasn't planned or anything, maybe not even a conscious decision as such. But honestly, I wouldn't want to change a thing. I count myself lucky that I finally found something that gets me excited about getting up every day.
+
+***And where does the name 'Erased Tapes' come from?***\
+It's a romanticized idea really. I realized that a lot of people take sound for granted. I for myself can't imagine the universe without any sound at all. The world would be a less lifeless, that's for sure. When I was a teenager I once recorded a friend's guitar part at home. After a dozen takes with his electric guitar, I convinced him to play it on an acoustic guitar. It was a spontaneous idea, an accident really. But it was the perfect take, fully improvised and filled with pride we listened to it a hundred times in a row. The next day we pressed the wrong button and accidentally erased the tape. After endless attempts to recreate that solo, we finally gave up. Some things you just cannot undo.
+
+***I always wanted to know - do you play any instruments or produce any music yourself?***\
+Nothing well enough to improvise freely. I used to pick up any instrument and just kept practicing it until I found a row of notes that perfectly expressed what I felt. Nowadays I listen more than I play. I create the visual counterparts to the music I hear - in my head, on paper or on the screen. I prefer helping others produce their work. Sometimes it's already there and it just needs someone to tell them it's perfect the way it is. Other times I find myself sitting in the recording studio, adding some guitar lines to the mix or arranging a brass section. "Impossible" isn't really part of my dictionary. I truly believe everything IS possible.
+
+***How do you go about signing new artists? What is it that makes you say "I must release that on Erased Tapes"?***\
+It can be a lot of things. Most of the time it's the atmosphere someone creates with their work that appeals to me. I like minimalism, but also maximalism. I know some people have their problems with that, but I believe in a natural balance between chaos and still. I also like artists who leave blanks between the words, gaps between the lines for the listener to fill with their own imagination. If someone can express more with one instrument than others can with a full orchestra, then that's wonderful. Restraint is a gift, also the ability to throw everything off the table and to start from scratch. But I also love it when someone can create chaos yet keep it in control. I like contrasts in sounds. The unusual in the usual. The perfect marriage of electronic and acoustic sounds, digital and analogue production. I like it when someone becomes more of a musical medium and doesn't take themselves too serious. I like how Peter likes to sing but also likes to try anything. How Nils cares about production. How Óli likes to be precise. How Ryan creates a whole symphony with electronic instruments.
+
+***You have a small but incredibly talented roster. It definitely feels like a family. Talk a bit about the relationship between the artists, the label, and the industry.***\
+Yes, we were there for each other from the beginning really. Everyone gets stuck here and there. The people that surround you help you get through these times and find new inspiration. I always encourage my artists to collaborate. Remixes are also a nice way to mix things up and put things into a whole new context. Ryan is very good at breathing new life into existing ideas by taking them apart and reconstructing them in a completely different configuration. The remixes he did since the early days of the label just don't seem to grow old on me. His most recent ones for Code and Jon are killing me every time. Justin also has a keen ear on electronics and how to implement them into an acoustic environment in a subtle yet otherworldly way, like he did for Óli's song Fok back in 2008. Also what Nils has done with 7fingers is more than just a cellotronica record. To me it's like the perfect record one could write to showcase all the things Anne can do with her cello. He built a whole world for her. We're a family now and I couldn't have hoped for more. The industry bit is not the centre. The music is what hold us together. It doesn't even feel like work when you have so many great people working with you. Life is so much better when you're not alone.
+
+***And how many people do you have running behind the scenes of Erased Tapes these days?***\
+I'm so happy. It used to be just me in a subterranean London flat, outsourcing a lot. Now I have a secret weapon in the shape of Sofia, handling my crazy calendar, helping me realise my kooky ideas and keeping me sane in the process. Then there's some wonderful people helping out with in-house PR in each territory and our now in-house graphic designer Torsten. Then there's all these amazing people booking the tours for our artists and the label, not to forget our amazing distributors all around the world. They are the people that believed in us from the very beginning. Most of them I tried to meet in real life as it was very important to me to know we're in kind hands.
+
+***Tell us about your experiences and feelings when you released your very first record, and how have those moments changed through the years with each subsequent release.***\
+Nothing has changed really when it comes to what I feel when I plan a new release. It's still the greatest feeling in the world when every single bit comes together and you know the record is ready to go out there into the world to make a lot of people happy. Peter always notices the look on my face when I talk about a new discovery. He'd say "Rrrroberrrt! Someone's excited..." haha. I most love it when my artists surprise me. Nils and Óli recorded a record together and kept it a secret for so long. They gave 'Stare' to me - all mastered and with print-ready artwork files. These guys are priceless...
+
+***You've managed to survive for five years... talk a little about the economics of running your own label in this financial environment.***\
+It's funny how I always get asked this question. Seems like everyone thinks it's a miracle we survived in this day and age? To be honest. I simply don't know the difference. I started the label in 2007, not in the 90s. It was the year MySpace had its peak and Radiohead let their fans decide how much their music is worth. Since then the only way was up really. With each release we reached out to a wider audience. With each new contact we'd infect someone new with our music. It's been a natural growth, which I am incredibly thankful for as our audience is the most loyal and grateful bunch of people out there.
+
+***Thank you for your time, Robert… Any last words for the readers of Headphone Commute?***\
+Thank you, HC. I just want to say that I have the greatest respect for what you do. We've all been following your site since day one and it made us really happy to hear you're running a label feature on our output. The musical landscape would be a lot less bright without you. Hope to see you on the road somewhere some time soon. Love, Robert
+
+For more info about upcoming releases and 5th anniversary events, visit [erasedtapes.com](http://www.erasedtapes.com/)
+
+Don't forget to check out Headphone Commute's **[Erased Tapes](16017-erased-tapes-records.md)** label special!

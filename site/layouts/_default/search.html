@@ -1,0 +1,26 @@
+{{ define "head" }}
+<link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
+{{ end }}
+{{ define "main" }}
+<h1>Search</h1>
+<p class="page-intro">Full-text search across every archived article. Filter results by category or year.</p>
+<div id="search"></div>
+<noscript><p class="note">Search needs JavaScript. Everything is also reachable without it: browse <a href="{{ "years.html" | relURL }}">by year</a>, <a href="{{ "category.html" | relURL }}">by category</a>, or the <a href="{{ "archive.html" | relURL }}">complete list</a>.</p></noscript>
+<p class="note" id="search-offline" hidden>Search needs the archive to be served by a web server; it does not run from files opened directly on disk. Browse <a href="{{ "years.html" | relURL }}">by year</a> or <a href="{{ "category.html" | relURL }}">by category</a> instead, or use your computer's own file search on the Markdown files.</p>
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+(function () {
+  if (location.protocol === "file:" || typeof PagefindUI === "undefined") {
+    document.getElementById("search-offline").hidden = false;
+    return;
+  }
+  // Results are stored relative to the site root; work out where that root
+  // is so the archive can live at any address or subpath.
+  var script = document.querySelector('script[src*="pagefind-ui.js"]');
+  var root = new URL("../", script.src).pathname;
+  var ui = new PagefindUI({ element: "#search", baseUrl: root, showSubResults: true, showImages: false, resetStyles: false });
+  var q = new URLSearchParams(location.search).get("q");
+  if (q) ui.triggerSearch(q);
+})();
+</script>
+{{ end }}

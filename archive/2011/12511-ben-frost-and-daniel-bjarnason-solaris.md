@@ -1,0 +1,18 @@
+---
+id: 12511
+title: "Ben Frost and Daníel Bjarnason - SÓLARIS"
+date: "2011-11-12T07:00:53-05:00"
+category: ["Albums"]
+---
+
+Learning that **Ben Frost** and **Daníel Bjarnason** decided to work together on a project has already sent torrents of anticipation through the experimental and modern classical music communities. Finally experiencing the album is a whole other journey. Part of me is not surprised that Frost and Bjarnason partnered for this collaboration. I have previously heard Ben publicly praise Daníel’s work. And with Bjarnason being one of the other prominent artists on **Bedroom Community**‘s roster, I’m positive that Daníel feels the same about Ben’s work. It’s a pleasure to see (and finally hear) the two working together. The only possible downside to the release is that instead of two amazing albums from these outstanding composers this year, we get just one! Let’s make it count twice, I say!
+
+Having been a huge fan of Frost’s past music, I am prepared to hear a brutal onslaught of razor-sharp frequencies shattering like sonic crystals to reveal the beauty of silence. Having dissected, digested and consumed Bjarnason’s orchestral work, I am prepared to get enveloped in the arrangement of weeping instruments and exhilarating symphonic score. With this serious predisposition, I sit down to consume the duo’s latest ode inspired by the classic science-fiction work by the same name. But taking a look at the cover art, I unwillingly burst out with laughter. Having met Ben Frost just a few years ago at a music festival, I can’t help but smirk at the dark sense of humour displayed with a photograph of him lying on a bed, wearing an ageing wife-beater shirt, and a dazed look on his face, while Daníel focuses a stern expression into the distance. A gun is lying by Ben’s feet as he is clutching Daníel’s hand in his. I know the two must have had a laugh when setting up the scene. But all joking aside, I recognise the visual message expressed in the cover art – that of insanity brought on by the solitary stillness of SÓLARIS.
+
+> The power of Andrey Tarkovsky’s Solaris is not in its futuristic sets, or in the hypnotic shots of the alien planet’s weird, fluid surface, but its in the way he juxtaposes his alien, futuristic elements against the intimately familiar. This is a future not just of flashing lights and video screens, but of wood and wool and leader, of dogs and horses, books and photographs.
+
+This mixture of the synthetic components of the future and the organic elements of the present is evident in the slowly evolving, quiet, and vividly gorgeous symphonic piece. One of my favourite instruments, a prepared piano, introduces a passage picked up by wind and strings, slowly building into a torrent of sound, exploding with a whiplash of eerie silence.
+
+The duo produced the album through a unique series of processes: the initial improvisations to the film were fed through software that corrected the human errors in the sketches, producing a digital sequence of numbers crunched from a dense and distorted sonic input. This source was then transformed into an orchestrated score, following the patterns of the film’s main theme of memory, loss, and feedback loops. The final result is executed with the orchestral instrumentation of Poland’s **Sinfonietta Cracovia**, producing one extraordinary, grandiose and haunting score. The album was recorded at **Alwernia Studios** in Poland – home of **Stanisław Lem**, Polish writer of science fiction, author of *Solaris* (1961).
+
+Highly recommended for all fans of ambient and modern classical music. Followers of **William Basinski, Jóhann Jóhannsson, Nico Muhly, Olan Mill, Greg Haines, Richard Skelton,** and **Danny Norbury** will be in awe…

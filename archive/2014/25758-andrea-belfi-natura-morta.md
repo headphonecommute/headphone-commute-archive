@@ -1,0 +1,16 @@
+---
+id: 25758
+title: "Andrea Belfi - Natura Morta"
+date: "2014-11-14T06:41:43-05:00"
+category: ["Albums"]
+---
+
+At first, the name **Andrea Belfi** may not trigger any particular memories. But dig a little deeper and you'll discover that this Italian electro-acoustic composer has appeared on your radar (and on these pages) before. As a solo artist, Belfi has been releasing on labels such as **Häpna**, **Die Schachtel** and **Room40**. The latter is responsible for his last two albums, *Dubbing & Doubling* and *Wege*, both released in 2012. As a collaborator, Belfi worked with **Machinefabriek** on *Pulses & Places* (**Korm Plastics**, 2009); as a member of **B/B/S/** along with **Aidan Baker** and **Erik Skodvin** on *Brick Mask* (Miasmah, 2013); and, most recently, together with **BJNilsen** and **Simon James Phillips** as **The Swifter** on a *Live At Maria Matos* (**Entr’acte**, 2014). That is a nice roster and range of projects, if you ask me. But what captured my attention is this latest solo release on Skodvin’s **Miasmah**…
+
+*Natura Morta*, or most commonly translated as "still life" (although the literal meaning is "dead nature"), is a six-piece electro-acoustic "study" of the art of the composition and performance itself, mirroring the artistic depiction of inanimate subject matters from the Renaissance period known as "nature morte". Elements of Italian minimalism, abstract percussion, modular synthesis and, of course, contemporary electro-acoustic aesthetics, construct an aural image of insentient objects, in which through repetitive rhythm and resolute harmony they slowly come to life.
+
+> The constant, unsteady sounds, wavering noise, swirling cymbals, and distant feedback gently pull the listener into the picture, letting them enjoy every detail of this beautifully staged composition.
+
+Released as a digital download, CD and LP, the highlight of *Natura Morta* for me tends to appear on the last track of Side A, titled "Roteano". After a three-minute buildup, or rather a drop-out, preceding the piece in a track called "Nel Vuoto", the vast and spacious din of reverberating acoustic and synthetic instruments spins into a steady percussive cadence. What sounds like a storm of hovering insects, gets vacuumed up into a warm, bass-heavy, minor-chord whirl, carried by a jazzy, organic, hallucinating beat. And even after nearly nine minutes of this passage I tend to play the piece again.
+
+Meanwhile, as Miasmah prepares its schedule of upcoming 2015 releases, it's not too late to turn your attention to the past few albums in this Berlin-based label's catalog: among them there is a *Soldier's Requiem* by **Gabriel Saloman**, *Sprang* by **Eric Thielemans** and a self-titled début by **Shivers**, which is another 'super-group' comprised of **Gareth Davis, Leo Fabriek** and **Rutger Zuydervelt** (that's **Machinefabriek** for you). And, since I already mentioned the label's founder and curator, Erik K Skodvin, I absolutely have to recommend his latest *Flame* appearing on **Sonic Pieces**, and [most importantly] his latest gorgeous collaboration with **Otto Totland** as **Deaf Center** with a two-track EP titled *Recount* as the very first entry in Sonic Pieces' ***PATTERN*** series. Yes? OK, now go and buy and listen!

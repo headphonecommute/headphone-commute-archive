@@ -1,0 +1,16 @@
+---
+id: 18674
+title: "Dalot - Minutestatic"
+date: "2012-09-20T05:45:59-05:00"
+category: ["Albums"]
+---
+
+It's been some time since I covered an **n5MD** release. Mike Cadoo's Oakland based label has been a favourite for over a decade now. So it's totally my fault for overseeing its releases in 2012. Here's how it this usually happens. A promo copy from the label lands in my mailbox. I open the package and think, *"Aha! Another n5MD CD! This is going to be fantastic! I need to do a label special soon!"* Then I carefully place the disc along with other n5MD releases... and there it stays... for months... I suppose that is how I missed out on the latest from **Light Out Asia**, **Crisopa**, **Asonat**, **Aerosol,** **Ex Confusion**, **Dreissk**, **Eleventhfloorrecords**, **Mike Harris**, and of course, **Dalot**.
+
+Well, the good news is that I didn't completely forget about any of the above, and that a label special is still in the works! Meanwhile, I'm in the midst of my **Decibel Festival** special, at which Dalot will be performing on the very first day, at *Optical 1 : Hosts In The Shadows* showcase, along with **Robert Henke** and **Brock van Wey**! Dalot is a London-based (just moved from New York City) Greek sound artist, Maria Papadomanolaki. She initially came on the scene with a *Flight Sessions* EP (Coorecords, 2009), and then immediately landed on n5MD with her full-length debut, *Loop Over Latitudes* (2010). On her second album, *Minutestatic*, Papadomanolaki managed to employ Cadoo himself to play bass and drums on a few tracks.
+
+The music on Minutestatic swirls around euphoric ambiance, skygazing post-rock, and blissful electronica. There are moments when I hear slight hints of **Telefon Tel Aviv**, **Boards of Canada**, **Stars of the Lid**, and even a touch of somewhat apocalyptic **Godspeed**. But the pensive guitar chords, slight effect manipulation, and barely distinguishable distant vocals are clearly Dalot's own. All of ten pieces on the album are tender, touching, and warm, carrying a sentimental message known only to the composer, yet in its beauty accessible to all. And as with any emotionally rich music, the sound seizes the listener with its strong, persuading hold, and carries him forward in a dreamy celestial cocoon.
+
+> The album was originally borne of late night improvisations that were sparked by events in Maria's life that created a sincere and richly emotional canvas. Over a period of a few months she took the 10 original sketches and sculpted them into something truly emotionally striking and texturally dense. […] Dalot has made an album that is personal and reflective while remaining personally accessible and compelling to the listener. In such is a journey that seems to reveal a cascade of emotions.
+
+Earlier this year, Papadomanolaki self-released a digital-only collection of reworks and unfinished ideas, titled *HAIKUS 23*. Consisting of 23 short tracks, the album pays a tribute to 23 people who backed Dalot's Kickstarter campaign, which helped fund her first ever tour in Europe. This particular release can be heard on Dalot's bandcamp. Thankfully, her next performance is in United States, at the above mentioned Seattle's Decibel festival, where I will have the pleasure of witnessing Maria play live. Hope to see you there!

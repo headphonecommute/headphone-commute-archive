@@ -1,0 +1,33 @@
+---
+id: 24087
+title: "Unsound Festival New York 2014"
+date: "2014-04-26T07:47:13-05:00"
+category: ["Festivals and Events"]
+---
+
+The fourth edition of ***Unsound Festival in New York***, presented by **Fundacja Tone** and the **Polish Cultural Institute New York**, rolled in on the last day of March, the streets of the city still covered in snow, the pavement frozen with perpetual layer of water. The official opening night featuring **EVOL** and **Oren Amabrchi** with **Sinfonietta Cracovia Quintet & Friends** was still a few days away, while the synesthetic installation of sounds, scents and visual elements, titled ***Ephemera***, already opened its doors for the first installment, featuring the work of Steve Goodman (aka **Kode9**) set to an olfactory composition. The "smell" of rumbling bass was strong, loud and acute, like the sharp angled waves of its saw-tooth aural accompaniment. The vibrations and their perfumes spilled onto the street, and an older couple walking through dusky New York alley couldn't help but peak inside. The other two installations, rotating on a daily basis, featured the scents set to the sounds of **Ben Frost** (for noise) and **Tim Hecker** (for drone).
+
+*Oren Ambarchi Presents Knots With Sinfonietta Cracovia Quintet*
+
+On the second day of the festival, I managed to squeeze in and grab the last seat at the *David Rubenstein Atrium at Lincoln Center* for a live performance of **Pietnastka** and a premiere of ***Lixiviation:*** **Suzanne Ciani & NeoTantrik**. The show was free with a limited capacity for seating (a few years ago I missed **Morton Subotnick** and **Atom TM** at the same venue), but that "last seat" ended up being to the side of the stage, and I felt like I was part of the showcase, peeking into the crate of obscure vinyl from one of the co-founders of **Finders Keepers Records**. Pietnastka opened the show with a set of psychedelic synth grooves, rolling arpeggios and a rocking drum rhythm, the drummer's visible jaw-lines clenching in time with the beat. This was an interesting demonstration of Poland's growing music scene, borrowing elements from ethnic melodies, krautrock and psych.
+
+*Suzanne Ciani, Sean Canty and Andy Votel of NeoTantrik*
+
+**Suzanne Ciani** is one of American electronic music pioneers out of ***Stanford University's Artificial Intelligence Lab***. Sitting behind the Buchla modular synthesizer, Ciani was joined by **Sean Canty** (of **Demdike Stare**) on the laptop and Andy Shallcross (aka **Andy Votel**) on the turntable. Analog sweeps, abstract bleeps and just as bizarre projected visuals, created a gray atmosphere of esoteric environment, which was chilled even further by the wide-opened door (to please the gathering crowd outside). The frigid April air spilled into the atrium and immediately picked up the mid frequencies of howling ghostly voices, sending chills down the isles, wires and strings. Soon darkness set in with the drones dropping into the lower register and semi-sinister beats courtesy of Canty's vast library. Like an abstruse variation of *Lifeforms*, the sound mutated into complex organisms of generated waves, triggered glimpses of pre-recorded media, and plucked metal fed through a complex chain of DSP effects.
+
+*Miles Whittaker of Demdike Stare*
+
+Of course I couldn't miss the long-awaited showcase by **Demdike Stare** with **Michael England** and **Sinfonietta Cracovia** performing their commissioned work, titled *Concealed*, a highly visual experience by England matched with a sonic accompaniment by the duo and the string quartet. The event took place at ***Brooklyn's First Unitarian Church*** on a rainy Friday night. There are some things that I do only once every few years: run frantically around the city only to arrive at an event hours before the start, walk in the freezing rain while eating a steaming cheeseburger between the shows, sit on a wooden creaking pew in a church to listen to music... and at the end it's all worth it! If you're an avid follower, and familiar with the sound of Demdike Stare, then suffice it to say that the group delivered. Backed by an equally mystic cinematic atmosphere, the church seemed to melt at its sides, transporting me into the worlds of occult. arcane and supernatural. The sounds of Demdike Stare often leave no words to follow, and the experience remains the highlight of the year.
+
+*Phil Niblock*
+
+The opening acts for *The Long Tone* showcase included **Stara Rzeka**, a Polish composer of "magical brutalism", blending elements of looped guitar riffs that slowly swelled from their dark ambient counterparts, to drony noise, and finally full on black metal. The sweep of genres in the hands of Jakub Ziołek demonstrated incredible versatility and control of his guitar - a performance which I'm glad I was able to catch. This followed with what seemed like an hour-long single-tone frequency drone from the mind of **Phil Niblock**, a New York based composer, filmmaker, and director of Experimental Intermedia, a foundation for avant-garde music. Niblock's early recordings go back to the 80s, with most recent albums released on **Touch** (see the latest, *Touch Five* double CD). Time stood still, as this master of minimalism (who is now over 80 years of age) transformed multi-timbres into their individual harmonics, blending organic matter and its synthetic counterpart into one continuous (long) tone.
+
+*Andy Mellwig and Thomas Köner of Porter Ricks*
+
+On Saturday I was able to catch a few free talks, one of them featuring **Thomas Köner** discussing sources of his inspiration for current and earlier works (including as member of **Porter Ricks**) while listening to snippets of familiar pieces, sipping espresso and awkwardly laughing with the audience (when he failed to recognize one of his own earlier works). Unfortunately I wasn't able to attend some of the late night events, featuring performances by **Deepchord, Porter Ricks,** and **Miles** - I think it has something to do with the late night shows having close proximity to home, when by midnight I begin to question my commitment to an all-night fete at the cost of a beautiful Sunday morning. There'll always be another time. With that, I'd like to thank [**Mat Schulz**](23917-interview-with-mat-schulz.md) for bringing the festival to New York once again (one day I promise to catch its full programming in Krakow). Big thanks to Gamall of **Backspin Promotions** for organizing my press pass for all the events - looking forward to many more in the future!
+
+**[unsound.pl](http://www.unsound.pl/new-york-2014)**
+
+Words by **HC**\
+Photography by **Bart Babinski** of [bartbabinski.com](http://www.bartbabinski.com)

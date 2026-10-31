@@ -1,0 +1,30 @@
+---
+id: 43623
+title: "Black Swan, 36, and zakè"
+date: "2020-04-24T06:15:37+00:00"
+category: ["Sound Bytes"]
+---
+
+# Black Swan
+
+## Evolution
+
+Today I am visiting four lovely EPs that are tied together by their creators. Each featured artist brings a unique style to their compositions, and throughout a collaboration, we get a taste of understanding both. It's like delicious mango sorbet, which, when combined with a raspberry flavor, creates a delectable, new tasty treat. We begin our sonic culinary sampling with a New York-based artist named **Black Swan**. I have been following and covering this mysterious composer since his 2010 debut, *In 8 Movements* released on his very own **Ethereal Symphony**, on which this five-track EP appears as well. What I love the most about this music is its gradual, lo-fi expansion, like a small empty room filling up with white fog. It occupies every small frequency on a wide spectrum and saturates every cell, every pore, every breath. During the longer dynamic build-ups, the intensifying drone-like orchestral pressure is nearly stifling in its harmonic din, but as its aural vapor subsides, we are left on a cliff of a clear-headed thought, and that's where we find the beauty. The music on this limited-edition tape is "*inspired by obscure new age cassettes of the '80s*", but don't let that "new age" term scare you away - this is some of the most cinematic and epic music you'll hear in a while. Here's my 2012 [Interview with Black Swan](../2012/14613-interview-with-black-swan.md).
+
+# 36 & Black Swan
+
+## In Four Parts
+
+Honestly, if I had to pick someone for **Black Swan** to collaborate with, I wouldn't think of anyone better than **36**. The two individuals already bring plenty of transonic pleasure into our lives, so it's an absolute delight to hear them together on their first collaboration. Well, that's not exactly true, the two artists have self-released a single in 2012, titled "Mist," but I'll count that more like a teaser for this official four-track EP for **Past Inside The Present**. Across the four pieces *In Four Parts*, Black Swan's textural and orchestral drones [for bleeding hearts] are complemented by **Dennis Huddleston**'s signature synth pads and soft piano keys. The music is not as bleak as the album cover suggests (although I wouldn't mind a bit of darkness) and features ethereal major chords that raise into the heavens with choral, celestial tones. Some further detuned strings and rustling loops create an eerie atmosphere that makes you just a tad uncomfortable if you were listening to this record at night. The blue-marbled transparent vinyl was immediately sold out (although I hear there are a few copies left at Juno). Still, the American ambient label has a few remaining copies left on a limited-edition lavender shell cassette tape. Pick this up on PITP Bandcamp along with other featured releases from the imprint, like **T.R. Jordan**'s *Just For You* and **Erinome**'s *Low Priest*, and the very next entry in this column.
+
+# 36 & zakè
+
+## Stasis Sounds For Long-Distance Space Travel
+
+Moving on across our collaborative journey, we come to an album, which is anything but a short EP. On *Stasis Sounds For Long-Distance Space Travel*, **Dennis Huddleston**, who, once again, appears here as **36**, and **Zach Frizzell**, the very founder of the **Past Inside the Present** label, who also records under his **zakè** moniker (also known as **扎克**), offer us over 90 minutes of space roaming drift. The yellow and red swirly transparent vinyl and its beautiful transparent cobalt brother featured the first four stages of this extended voyage, while the digital release on Bandcamp includes the *Extended Hypersleep Program* [this one is composed solely by Huddleston] and additional "reductions" [in turn composed solely by Frizzell] to truly bring your self-inflicted chaos to a still. *"The world has found itself in a significant hurry. We have also found ourselves in the most distracted period of time in history; finding it tremendously difficult to remain in a moment of stillness, quietude, or allow time for self-reflection [...] These arrangements represent a group of celestial transmissions that are delicate in nature and intended for the listener to embrace moments of stillness, quietude, and reflection, of which are on a trajectory of extinction at a place we call Earth."* The release is an ideal selection of mind settling music, especially during these times of self-isolation, where, interestingly enough, the [human] world found itself slowing its pace.
+
+# zakè
+
+## Carolina
+
+I conclude this column with an EP for **Polar Seas** imprint, titled *Carolina*. This could have been a nice circular feature, if only we had an album where **zakè** also collaborated with **Black Swan**. Perhaps sometime in the future (hint, hint)? This gorgeous transparent colored vinyl (available in yellow, green, and blue) is the first full-length for **Zach Frizzell** outside of his very own **Past Inside the Present** label. As the title and the cover of the album suggest, for these four pieces, Frizzel focuses on the environmental ambiance inspired by his four-day exclusion throughout the Cherokee and Spartanburg counties of South Carolina. "*The primary emphasis in each composition is field recordings captured in the quiet hills of rural Chesnee, solemn wooded areas of Gaffney, and hidden creeks in the outskirts of Spartanburg [...] Carolina is a solemn yet joyful paean to seclusion, and the awe beyond our doors.*" The sounds of low ambient drone mix with the captured sonic postcards of the flowing waters, singing birds, and swaying trees. Just listening to this recording while I'm writing these words makes me want to escape into nature, which appears to be thriving while humans have hidden away. Listened to at low volume, *Carolina* can serve as a perfect escapist tool from our current surreal predicament, which I hope one day soon will be only reduced to a meme. Until then, there's music...

@@ -1,0 +1,12 @@
+---
+id: 12668
+title: "Maps And Diagrams - Get Lost"
+date: "2011-10-21T20:22:32-05:00"
+category: ["Albums"]
+---
+
+The traditional record industry is still having major trouble finding its place in the new age of music distribution. But while they're fighting what seems to be a death struggle, the artists that did not rely on this business in the first place seem to have settled for two different kinds of distribution. The first is, of course, DIY independent digital distribution: you may have noticed that a lot of the albums mentioned here are available through Bandcamp. The second is embraced by the *'labour of love'* labels, run by people definitely not into it "for the money", pressing extremely limited physical releases mostly packed in hand-crafted artwork so delicate and complex that it would be impossible to create more than 50 copies of a release.
+
+One of these labels is **Time Released Sound** – *"a lovingly hand-made, limited edition release music label that is as much an art project as it is a musical outlet."* If you take some time to look through the label catalogue, you will understand why most of these releases sell out very quick! This may be frustrating for collectors that find out too late, but fortunately, the limited releases are followed by a less limited digipack release. **Maps And Diagrams** (Tim Martin) has been releasing albums on a number of labels, such as **Expanding Records** and **Handstitched Recordings**. *Get Lost* (which came with a mini compass included in the limited release!!), is *"a combination of live-instrumentation and original and resampled and sequenced electronic sounds. Added to these successfully intricate patterns of waves and static are field recordings and live synthesizer."* The fourteen relatively short tracks (the full album is somewhat short of an hour) indeed feel like travelling different landscapes.
+
+When trying to describe the music on this album, I simply cannot find better words than those of the accompanying notes: *"And like any voyage, either purposeful or directionless, the songs on this release proceed in an ever-changing yet perfectly smooth and continuous manner. As we and our ship are now out on the waves, the sound swells, then dips, then swells fuller and finally flattens slowly and melodically into an extended peaceful calm…then just as we realise that we are in sight of land, the wind begins to rise again!"* Get Lost, indeed.

@@ -1,0 +1,22 @@
+---
+id: 43154
+title: "Nautilis - Are You An Axolotl"
+date: "2020-03-18T08:30:25+00:00"
+category: ["Daily Spin"]
+---
+
+### Release Notes
+
+**Label:** Planet Mu\
+**Released:** April 2002\
+**If You Like:** Skee Mask, Metamatics, Jega, Bola, Kettel, Proem, and Arovane
+
+Look, we don't know how long this thing will last. It can go on for weeks, but most likely, it will last for months. For now, we are all cooped up in our cozy dwellings (hope yours is a comfortable abode), and we might as well make the best of it. I'm taking this opportunity to [re-]listen to some of my vinyl. In fact, I've given myself an objective to spin at least one vinyl per day. No streaming, no CDs, and no ones or zeros of any kind - just a precision diamond inside a calibrated cartridge with a tonearm scratching at a plain hard wax. Given the fact that I've been collecting records for more than a quarter of a century, there is plenty to choose from, but I'll probably begin revisiting some of my all-time favorites. I also occasionally display a random [is anything truly random?] album on my shelves, and then it stands just there, looking at me, reminding me to play it. Today I reach over into my archives and pull down a 2x12," which used to be on heavy rotation back in 2002 when I used to DJ electronic music. I wonder if you've heard it before, or if my words will inspire you to find it...
+
+Texas-based electronic musician, **Skyler McGlothlin**, came out of nowhere, first with his 7" single, *Marufo*, then with a 6-track EP, *Sketches Vol. 1*, and finally a full-length, titled *Are You An Axolotl*, all released on **Planet Mu**, all within the same year. Sadly, that's all there ever was from **Nautilis**, throughout 2002. A bit later, *Sketches* came out as a full-length album, compiling the previously released tracks on the EP with a remix and six more explorations. Meanwhile, McGlothlin put out two more full-lengths under another alias, **Malcolm Kipe**, on the now sadly defunct **Merck** imprint: *Breakspiracy Theories* (2005) and *Lit* (2005). It was still the same ol' Skyler behind the music. Yet, these particular records were more glitch-hop oriented beats, versus the abstract and even melodic electronica showcased on *Are You An Axolotl.* I've had the pleasure of [interviewing](http://headphonecommute.blogspot.com/2008/06/two-and-half-questions-with-skyler.html) McGlothlin in 2008, but since then, we haven't heard a peep. And, since I'm still playing these records, I have to say - I really miss him!
+
+*Are You An Axolotl* is full of incredible ideas - fifteen of them, to be precise. Each lasting somewhere around the 3-minute mark, the musical trajectory is explored across a medley of genres (there's even jazz if you listen closely), often combining synth and sampled drum loop with the sounds to create a head-nodding atmospheric beat that evolves even further with glitch, re-trigger, and occasional jitter. None of the pieces on here sound like a bedroom jam session - each comes with a unique conception that seems to have a story of its own. The tunes are incredibly intelligent, but they are also super fun - like the little interludes about Astro Glide or the turtles in the pond. Further deconstruction of the sounds, samples, and the rhythms make this one of the most impressive records from the era of electronic music which was full of abstract experimentation, IDM and glitch coming from the likes of **Boards of Canada**, **Funkstörung** and, of course, **Autechre**.
+
+> The combination of breaks and weird samples along with sweeping strings and heart-tweaking melodies mould together in these rhythmic pieces of compositions [...] This is a field with positive energy, continuously surprising by its perplexing creativity and its innovative approach to the multitude of genres.
+
+As I have already mentioned, Skyler never managed to return to the electronic music scene. In my interview, he said that the theft of his laptop in 2006 inspired him to quit making beats for a while and turn his attention to a new band, **Shapes Have Fangs**, but even the latter had a short-lived discography with *Dinner In The Dark* released on **The Reverberation Appreciation Society** in 2010, and that's all. Meanwhile, my favorite tune of his, "All I Have" is permanently implanted in my mind from one of my most memorable times of musical discovery. It's time to give it yet another spin!

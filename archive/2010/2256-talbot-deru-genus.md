@@ -1,0 +1,16 @@
+---
+id: 2256
+title: "Talbot & Deru - Genus"
+date: "2010-01-23T08:27:39-05:00"
+category: ["Albums"]
+---
+
+The sound is born out of electric static, slowly penetrating through the thick veil of noise until it rolls over a thump. The tremolo-affected voices grow into a ten-part choir consisting of members of **Tenebrae** professional chamber choir. The strings provided by **The Duke Quartet** become rhythmical, accentuated by a pulsing metallic micro beat, until with a swoosh of white noise, resembling a raging storm, this progression evolves into something bigger, stronger, and primordial. Enter the sound of *Genus* - an electro-acoustic score for the ballet choreographed by award-winning **Wayne McGregor**. Commissioned by **The Paris Opera Ballet**, the work is based on Charles Darwin's discovery of evolution. Hence the growth, the organic development of the sound, and 'the musical evolution of its own,' as adopted throughout this eight-part composition by **Joby Talbot** and **Benjamin Wynn**.
+
+Since I started talking about the composers, let's get all the credits over with. Los Angeles-based Wynn should be already known to the electronica and IDM community as **Deru**. He has released two solid albums, *Pushing Air* (**Neo Ouija**, 2003) and *Trying To Remember* (**Merck**, 2004). Both of these, along with a 10" single, *Pushing Soil* (**Delikatessen**, 2004) are among my top absolute favourites. Wynn's ability to create crispy, glitchy, hip-hop influenced rolling-bass rhythms got me bopping my head, and hunting down everything that he touches. *Genus* is no exception. It's no wonder that **Ant-Zen** picked up this amazing release. No wonder at all.
+
+Talbot is a British film and TV composer. With numerous commissions from the BBC Symphony Orchestra, London Sinfonietta and the BBC Proms, Talbot is known for his musical arrangement for *The League of Gentlemen* and a soundtrack for *The Hitchhiker's Guide to the Galaxy*. Talbot's previous ballet score experience includes an orchestral arrangement of music by **The White Stripes** for *Chroma*. His education in composition at both Royal Holloway and Bedford New College completes the qualifications required to produce this haunting piece, and I have no doubt that *Genus* will be added to his further list of outstanding accomplishments.
+
+Spread over eight tracks (and 44 minutes), the released score is actually made up of three movements: *The Transmutation of Species*, *Genus* and *The Great Tree of Life*. Each part is considerably different from the previous. On *Genus*, for example, **Louisa Fuller** picks up her violin and guides us towards the mathematical passage of neo-classical progression with a slight touch of time-based effects. Released by **Ant Zen** in collaboration with **Dear Oh Dear Records**, the CD edition is limited to 100 copies, including a hardcover sleeve and a 20-page booklet. The disc also contains two video clips and a digital document.
+
+This is a marvellous release. And when it rolls over you with its top-notch production, expert composition, and overwhelming concept, you can't help but play it again. Be sure to also keep your eye on Deru's upcoming album, *Say Goodbye To Useless*, which is scheduled to hit the streets sometime in early 2010 on **Mush Records**.

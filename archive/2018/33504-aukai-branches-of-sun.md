@@ -1,0 +1,16 @@
+---
+id: 33504
+title: "Aukai - Branches of Sun"
+date: "2018-04-30T06:47:28+01:00"
+category: ["Albums"]
+---
+
+What can I say? Among the excess of all the beautiful sounds, which seem to impregnate our ears in their constant satiation of overabundance, it's wonderful to be snapped back into reality with a surprising new album, of gorgeous textures and stunning atmospheres, and this one landing on my studio desk without the help of a label to add! It simply makes me stop, jot down "*what's this; a must!*" before I'm able to move on [on my commute] in the ever-expanding search through a cacophony of sounds, to seek out that rare gem, before I realize that... wait, this must be it! Returning to the album a week, a month, a quarter later, I'm reassured that my initial note was not for nought. So here we are, in the company of the latest finding.
+
+Surprisingly, this is **Markus Sieber**'s sophomore release, under his moniker **Aukai**, with the self-titled debut appearing back in 2016. I say "surprisingly", because I managed to miss the first one. And since this follow up is shopped as "*darker and more layered than the last one*" I'm more inclined to let it drown me in its world. Sieber's cinematic soundscapes are based around his guitar, with the help of **Anne Müller** on the cello (she's collaborated with **Nils Frahm** before) and a production aid of **Martyn Heyne** of **7K!**
+
+The meditatively strummed *ronroco* (a Bolivian nylon-string relative of the *charango* from the lute family, which is also coveted by **Gustavo Santaolalla**) is submerged in the soft bowed ambience of the strings, synths, and piano. The shimmering daylight and shadowy melancholy of the album are framed by the titles of the tracks, such as "Turning Days", Distracted by Clouds", "Nightfall", and "Closed Eyes", with the story echoed by the surroundings in which it was composed - the album was recorded "*in a small cabin high up in the mountains near the Old Spanish Trail in Colorado last winter, free of any outside human or technological influences.*" And when I close my eyes, I feel like I'm really there.
+
+> ***Aukai** is a Hawaiian word for seafaring traveller or sailor, a suitable metaphor for the musical project of the same name from **Markus Sieber** conceived after a move from Europe to Mexico and born from his desire to create music that could work in tandem with film, video, theatre and the visual arts. [...] The mood is a bit more austere and contemplative this time as the pristine, remote atmosphere of the high-mountain country looms in the background, but the luminosity and nomadic spirit in the music remains irrepressible and life-affirming."*
+
+Again, the wonder here remains that *Branches Of Sun* is self-released - an album, which no doubt could be repressed by (or reappear on) the likes of **Western Vinyl**, **Lost Tribe Sound**, **Fluid Audio**, **Serein, Sonic Pieces,** **hibernate** and **Home Normal**. If any of the above labels envoke a particular aesthetic in your mind, then you will surely love the sound of Aukai. Fans of **Hotel Neon, Billow Observatory, Siavash Amini,** **High Plains, Slow Meadow** and **Marcus Fischer** will surely fall in love. And yes, I absolutely adore the bonus **Ben Lukas Boysen** remix on the album! And don't forget to check out the debut!

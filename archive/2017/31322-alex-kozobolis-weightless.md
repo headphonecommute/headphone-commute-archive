@@ -1,0 +1,14 @@
+---
+id: 31322
+title: "Alex Kozobolis - Weightless"
+date: "2017-03-27T00:56:08-05:00"
+category: ["Albums"]
+---
+
+In the past year, the newly formed **1631 Recordings** curated by David Wenngren of **Library Tapes** and **Mattias Nilsson** of **Kning Disk** imprint, brought us nearly two dozen solo piano, modern classical and ambient releases. This is both, good and bad: "good" because I can never have enough of this music (and, admittedly, I found 1631 Recordings as an avenue for my very own output), and "bad", well, because, as nearly every follower of this genre will admit (especially if you are a journalist of sorts), it could be overwhelming and almost impossible catch up and cover in time. So far, I have been personally impressed by nearly every single album published by 1631, not to mention a few EPs by some of my favourites, like **Hauschka** and **Dustin O’Halloran**. Along with many already known names, Wenngren and Nilsson tend to find some amazing composers I haven’t ever heard of before. Among them, **Alex Kozobolis** is a name that definitely stands out.
+
+Kozobolis first appeared with a ten-track self-titled album on 1631 back in March of 2016, and it looks like a few months later, he decided to follow it up with *Weightless*, a mini-album of sorts, with four short pieces and four remixes by **Tom Adams, Siavash Amini, Hedia** and **Transept**. The original compositions are solo piano pieces that shimmer and shine in the upper register of the piano, with delicate keys, soft hammers, and luminous melodies that will immediately immerse themselves with your memory and become part of your whole. Closely mic-ed, these somewhat nostalgic reflections remind me of my favourite works by **Nils Frahm**, **Luke Howard**, and **Julien Marchal** – a sound that I am personally in love with.
+
+> His touch on the piano is light and fluid; moving between dense sustained runs, which evaporate as soon as they are heard, to spaciously plotted notes. Weightless is the sound of weight itself lifting, of the earthly effect of gravity removed and allowing the listener to be suspended within mid-air, uninterrupted by pressures and restraints of the physical world. Coursing with energy, and running to take flight.
+
+The follow-up interpretations are just as interesting, imploring ambient soundscapes, and even lighthearted beats. Tom Adams’ remix of "Weightless" sounds like something Tycho would conceive, while Siavash Amini’s ethereal take on "And Find Yourself" is atmospheric and airy. Hedia tends to modulate the original "Closure" in a hallucinatory echo of the piano tones. And Transept saturates "Unravel" in reverb with an arrangement of strings and barely audible percussion. A beautiful extension to the already beautiful base. Also, available on vinyl and CD! Highly recommended for fans of any of the above-mentioned names. Don’t forget to pick up the *Alex Kozobolis* self-titled début!

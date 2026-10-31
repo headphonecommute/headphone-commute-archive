@@ -1,0 +1,4 @@
+# For the checks in tests/ and for tools/catalogue.py
+PyYAML==6.0.2
+markdown-it-py==3.0.0
+pytest==8.3.3

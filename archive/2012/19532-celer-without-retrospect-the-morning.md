@@ -1,0 +1,16 @@
+---
+id: 19532
+title: "Celer - Without Retrospect, The Morning"
+date: "2012-12-22T07:35:52-05:00"
+category: ["Albums"]
+---
+
+Take a look at **Celer’s** discography and you won’t see a single disruption in an ongoing flow of creative output. Never mind the unfortunate events of 2009, which till this day can’t escape my concealed lips. If anything, the frequency of releases only increased, peaking at ten albums in 2011, most of which were self-released by **Will Thomas Long**. In 2012, however, Long managed to transgress his ambiance across a variety of highly respected and independent labels, including **Low Point**, **Futuresequence**, **Constellation Tatsu**, **Experimedia**, and now **Glacial Movements Records**.
+
+For the latter Italian label, run and operated by **Alessandro Tedeschi**, Celer creates a minimal soundscape, tranquil in volume and tamely sublime. The hour-long journey, titled *Without Retrospect, the Morning*, is incredibly fitting for the arctic aesthetic of a wintry space. The icy sculptures of moving frequencies slowly travel along frozen lands. This music is placid, muted and cold. Tones, as gentle as sine waves, flow down the elongated ice spikes and instantly freeze. Images of desolate places with resonating winds groaning through hollows cover my mind, and I reach for a hot cup of tea to inhale the warm vapour. The album is actually a third and final part of the water-themed trilogy that Celer began with *Cursory Asperses* (**Slow Flow Rec**, 2008) and *Escaping Lakes* (**Slow Flow Rec**, 2009).
+
+Having spent a few months in South Alberta, Canada, during the winter of 2009, Long used an “endless delay system between the two open reels” to record and layer the textures. The dubbed sounds of piano and synthesizer, while fed through an old pair of speakers, slowly began to decay. This decomposition was in turn processed again, adding contact microphone field recordings of ice, snow and wind. The final output stayed dormant for two more years, until Long brought the recordings, and memories, back into life.
+
+> Some days the snow would be so heavy the sun would never show, and ice covered the windows in the mornings. The wind rushed up the banks of the nearby mountains, and whipped against the buildings. […] The effects of the cold, the sudden sunsets through the snow, and the night winds still stay in my mind, like a soundtrack to those two months, not without their own songs of loneliness but with also beauty, sounds seeming like a siren, embracing every unchangeable and otherwise forgetful moment, even in the bitter winter.
+
+As I have already mentioned, Celer’s vast catalogue spans months of continuous, uninterrupted listening. If you find yourself gravitating towards this type of glacial ambiance, I highly recommend you also pick up *Engaged Touches* (**Home Normal**, 2009), *Capri* (**Humming Conch**, 2009), *Discourses Of The Withered* (**Infraction**, 2008), *Pockets of Wheat* (**Soundscaping**, 2010), and *Dying Star* (**Dragon’s Eye**, 2010). And while exploring releases on Glacial Movements, I must suggest that you simply complete your collection of the entire catalogue from this label – these are all truly wonderful gems!

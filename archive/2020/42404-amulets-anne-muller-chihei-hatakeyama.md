@@ -1,0 +1,24 @@
+---
+id: 42404
+title: "Amulets, Anne Müller, Chihei Hatakeyama"
+date: "2020-01-27T06:31:41+00:00"
+category: ["⟪ REW | FF ⟫"]
+---
+
+# Amulets
+
+## Between Distant And Remote
+
+On today's quick look back at the albums, which I have missed in the last months of 2019, is a gorgeous, gritty, droney, loopy, entry from **Randall Taylor** recording under his **Amulets** moniker. I put on *Between Distant And Remote* and immediately think **Rafael Anton Irisarri** [who, upon further inspection, is also the mastering engineer on the album], **Lawrence English**, and **Ben Frost**. The guitar-driven collection of seven pieces occupies that special place where ambiance and noise come into a marriage of perfect harmony, at times with build-ups crashing on the beach, at times with waves receding into silence. Distortion, spaciousness, and textures are highlighted throughout the edges of the album, while at the center, melodies unfold into a beautiful and lovely song. "*Exploring narratives of longing, dislocation, and rediscovery, 'Between Distant And Remote' invites you to dive in and break down the boundaries between yourself and the world around you, reaching into the past to deconstruct the present.*" Taylor employs cassette tape, field recordings, and a chain of effects to process his guitar into unnoticeable loops of fragments that make up a perfect whole. I love when the distorted riffs break through the lo-fi warped recordings. The album appears on a Portland-based **Beacon Sound** imprint [and a famous record shop!], home to **Coleen**, **Benoît Pioulard**, and **Gareth Dickson** among the 40+ releases. I make a mental note to dig in further through its bins.
+
+# Anne Müller
+
+## Heliopause
+
+Berlin-based **Anne Müller** may not have had an opportunity to work with the late **Jóhann Jóhannsson**, but she did work with **Nils Frahm**. Their 2011 collaboration, titled [*7fingers*](../2010/6635-nils-frahm-anne-muller-7fingers.md) (Hush), was well received with critical acclaim. It's no surprise then that the London-based label **Erased Tapes** kept their eye on this cellist, and subsequently signed her for the 2019 release, *Heliopause*. Also, in 2017, Headphone Commute has premiered the **Solo Collective**'s video, titled *Solo? Repeat!*, which, now appears on the album as a second track. And so, Anne Müller may not be the most prolific of composers out there, but the quality is a sure substitute for quantity with her works. "*The album is named after the boundary where the sun's wind ceases to have influence. It is ultimately, the border of our solar system.*" Venturing into the modern classical scene, for the first time as a solo artist, Müller shares her intricate cello pieces, weaving passages around repetition, minimalism, and texture of the stringed instrument. This is a graceful, intimate, and slightly melancholic record, on which we hear Müller in her raw, uncensored form, and where she finally reveals that she has got a lot to say. No wonder this album was highlighted on Music For Walking And Not Crying In The Autumn Rain. A nod to **Martyn Heyne**, who mixed and mastered the album. "*Heliopause marks the end of a long journey but also the start of voyages to explore strange new worlds."*
+
+# Chihei Hatakeyama
+
+## Forgotten Hill
+
+**Chihei Hatakeyama** is a Japanese musician living on the outskirts of Tokyo. His works have been constantly praised among the purveyors of ambiance, minimalism, and soundscapes, with numerous releases peppering across the labels such as **hibernate**, **Home Normal**, **White Paddy Mountain**, **Constellation Tatsu**, and, of course, **Room40**. In the last few years, he put out at least a dozen and a half records, so you have a lot of music to consume! Here I pick a place for you to start. It suffices to say that whenever I listen to an ambient album on Spotify, let it end, and autoplay into a random radio session, inevitably a track by Hatakeyama will appear. But it takes a special one for **Lawrence English** to pick up and sign on his Room40 label. *Forgotten Hill* is based on the sonic impressions and strange feelings that Hatakeyama experienced upon his visit to the burial grounds in the Asuka region. The aural palette of this record traverses luscious washes of reverb, carrying sketches of the guitar, strings, and synth pads, creating a sense of timelessness, weightlessness, and endless space, in a nearly forgotten landscape. "*This is a record about time, about losing direction in time and wondering where it is exactly the past, the present and the future might meet, and under what circumstances this might happen,*" says Hatakeyama at the end of his story, describing the record on Bandcamp. Recommended for fans of **Stars Of The Lid**, **Christopher Willits** and **Willian Basinski**. Lose yourself.

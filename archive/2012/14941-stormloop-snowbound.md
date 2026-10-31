@@ -1,0 +1,22 @@
+---
+id: 14941
+title: "Stormloop - Snowbound*"
+date: "2012-01-22T10:22:51-05:00"
+category: ["Albums"]
+---
+
+Before I go into the details of this review, I’d like to take a moment and talk about the label. **Glacial Movements** is an Italian label, specialising in “glacial and isolationist ambient”, founded and curated by **Alessandro Tedeschi**, also known as **Netherworld**. The label was launched in July of 2006, with a customary introductory compilation. The second catalogue release was Netherworld’s *Mørketid* (2007), followed by **Rapoon**‘s *Time Frost* (2007). The minimalist aesthetic of the dark ambiance and icy drone continued with releases by **Lull, Skare, Aqua Dorsa,** and **Francisco López**.
+
+I finally discovered the label with a beautiful album by **bvdub**, *The Art Of Dying Alone* (2010), and then kept my ears open for **Netherworld**‘s follow up, *Over The Summit* (2011), **Loscil**‘s *Coast/ Range/ Arc* (2011), and of course **bvdub**‘s return for the interpretations on Tedeschi’s above mentioned first release – *I Remember (Translations Of Mørketid)*. It’s no wonder that the label quickly climbed to the top of my favourites, as I tracked down and purchased the back catalogue. Here’s an introductory paragraph from the label’s page:
+
+> *Places that man has forgotten… icy landscapes… fields of flowers covered eternally with ice… Icebergs colliding among themselves… The boreal dawn that shines upon silent white valleys in the Great Northern lands… an explorer lost among the Antarctic glaciers looking for the way home… The cold and silent night that falls upon the glacial valleys… creatures that look for shelter from the Great Northern cold… Glacial Movements is a label born to describe and spread these thoughts/images through sound.*
+
+Yes, fans of **Biosphere, William Basinski, Deathprod,** and the minimalism of **Taylor Deupree, Robert Henke, Richard Chartier** and **Yann Novak** will appreciate any and all of the above mentioned albums. Not to mention the most amazing upcoming release schedule from **Pjusk, Marsen Jules, Phobos, Aidan Baker & Troum**, and **Celer**!!! Did that get you excited? OK, now back to Snowbound!
+
+**Stormloop** is the brainchild of Leeds based (England) **Kev Spence**, who has been producing and self-releasing ambient albums since 1999. There are about a dozen albums available via his bandcamp page, if you get hungry for more. *Snowbound\** (written with an asterisk), is Spence’s very first release for a record label, and it is a perfect fit for Glacial Movements! Collecting the material recorded during a two-week snow fall in December of 2009, the album tells the story of solitude and detachment through slow evolving sound and straightforward titles such as *“Cold Winds”, “Dense Fog”, “Melt”* and *“A Blizzard”*.
+
+Soft layers of synth pads and bass drift through the landscape like a heavy cloud. It is impossible to avoid references to early mist, murky fog and smoky vapour when describing a hazy atmosphere painted by Spence. But unlike the organic ambiance of guitars and strings by some of the above mentioned artists, the music of Stormloop is a little synthetic, spacey and futuristic. As if *Snowbound\** is a soundtrack for an alien planet, covered in gaseous atmosphere and frozen rock. Wind picks up, but it lacks the oxygen. Instead it is thick with heavier elements that cover the caverns hungry for sun. Just writing these words with the music in the background sent chills down my spine…
+
+> *Composing usually late into the night, watching the heavy snowfalls was the inspiration for these tracks, and the feeling of been lost in some remote cabin, safe but warm, with good food and drink, staring out at the depths of winter snow that covers the land… These crystalline soundscapes, take us from the cold winter nights, then out towards the bleakness of space. Snowbound\* is an authentic full-immersion into the cold, and you can really feel the snowflakes on your skin.*
+
+Spence has also released a complimentary album, *Snowbound\*\* The Tracks Left In The Snow,* as a ten track digital-only download via his bandcamp, recorded during the same sessions as *Snowbound\**. Photography by **Bjarne Riesto** is once again featured on this **Glacial Movements** release, adding to the overall aesthetic of the label that I’m falling in love with… Now I need to go and boil some water for my green tea…

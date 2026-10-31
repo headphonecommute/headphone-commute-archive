@@ -1,0 +1,14 @@
+---
+id: 17388
+title: "The Pirate Ship Quintet - Rope For No-Hopers"
+date: "2012-06-19T05:43:38-05:00"
+category: ["Albums"]
+---
+
+There’s no doubt that **Denovali Records** has a grand vision. Since its first catalogue release back in 2006, the Bochum (Germany) based label, continued to systematically sign and publish some of the world’s top talent in a variety of genres. When it comes to instrumental rock, shoegaze, and post-rock in particular, Denovali picks projects that are absolutely at the top of their game. These are the bands to which Headphone Commute sang many a praise in the past: from **Blueneck** to **Her Name Is Calla** to **Aun** and of course **The Mount Fuji Doomjazz Corporation**. This time, Denovali managed to secure one of the bands with which I fell in love back in 2007 – **The Pirate Ship Quintet** – a group consisting of Ziapour (bass guitar), Jona (drums), Alex (guitar), Alphie (guitar), Sandy (cello), Moo (trumpet) and Terrence (vocals).
+
+The debut self-titled release by the British seven-piece quintet was a humble three-track EP. Yet somehow, in just a little over thirty minutes, the band managed to capture the essence of everything post post-rock, from the emotionally deep progression, to the organically enriched dynamics, to elegantly produced song structure. On their first full length, *Rope For No-Hopers*, the group continues to pull at the melancholy strings which build with the tension and finally discharge into indiscernible screaming. The cello picks up the tempo and plunges into a virtuoso dance, slowly receding into the background before the trumpet takes its queue. And there are always the drums – meticulously measuring away the constantly shape-shifting bars that set the skeleton of the compositions in place.
+
+> The name of the new album evokes both solemnity and catharsis, while the track titles are references to abstract ideas and in-jokes, products of the bands notoriously dark sense of humour. ‘Horse Manifesto’ for example details the imagined uprising of an equine regime, bent on recompense for man’s inhumane exploitation of their kind.
+
+With a despairing title like *Rope For No-Hopers*, the five tracks on the album, averaging about ten minutes a piece, demonstrate once again that post-rock is alive, and breathing fire. Over the five-year hiatus, the group quietly slipped away from the scene, but that doesn’t mean that during their absence the music refrained. In fact, the pieces on the album have been selected from the many past few years, during which time the band disappeared from the live scene. This time, the roller coaster is bigger, its dark foundation heavier, and its cinematic atmospherics lighter – all designed and upgraded for the most exhilarating ride. One to which you will be returning over and over again.

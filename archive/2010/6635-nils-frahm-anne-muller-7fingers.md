@@ -1,0 +1,18 @@
+---
+id: 6635
+title: "Nils Frahm & Anne Müller - 7fingers"
+date: "2010-09-29T06:39:54-05:00"
+category: ["Albums"]
+---
+
+What’s great about this album is that there were more than a few times when I had that “aaaah…” moment. Perhaps what drove me to write this raving review about *7fingers* is that there were those moments one too many. On every single track. I first found out about this album when the new release from **Nils Frahm** popped up on my radar. But as many anticipated moments in life, that July came and went, and another two months went by before I realised that I have missed this **Hush Records** release. And here I was, listening to **Nils Frahm**‘s latest EP on **Erased Tapes**, *Unter | Über*, wondering, whatever happened to that collaboration with **Anne Müller**? And what’s this genre that it’s listed under – modern classical and glitch. Modern classical and glitch? What what?
+
+As soon as the second track on the album, similarly titled, *7fingers*, came on, I knew that I was in for a trip down my favourite lane of clicky electronica, glitchy elements and most importantly, elegantly produced musical pieces. Here, in Müller’s hands the cello cries, then hiccups, skipping through Frahm’s piano notes, and dropping on the floor in tiny granulated frequencies, then re-arranging back and flying up in the reverse, into the wood from whence it came, all obsessively constrained with micro programmed beats and rhythms. The clicks and cuts are composed of chopped up seasoning, gently sprinkled over a smooth, and creamy melody, oozing with melancholy out of every pore.
+
+The album’s tracks flip between the glitchy tracks that I keep rating with 5 stars, and strictly modern classical pieces, composed of experimental swirling cello work, some field recordings, and of course, Frahm’s piano keys. Besides the obvious string arrangements by Müller, and contemporary classical progressions by Frahm, it’s tough to tell where the collaboration comes together – where one begins and another ends – it is a single unit. Yet, for a better picture, I’d love to quote this section from the press release:
+
+> Two heads, four hands, 7 fingers that want to and are able to, that search and that find. Their company are raging and resting machines, algorithms, oscillations and scratches at the window. They create the broken orchestra, the smooth club drive, the acoustic reflections, fireworks, tiny gramophones. „7fingers“ dissolves into sound, combines into rhythm, becomes pulse and motion and sleep and acceleration. **Nils Frahm** and **Anne Müller**, cello and piano and all that is good and music.
+
+And what is this Hush label? I am embarrassed to admit, but the only artist I seem to recognise from the roster besides **Nils Frahm** is **Peter Broderick**. In fact, there’s a “free gift” from the two artists titled, *Two Tracks*, available as a free download directly from the Hush shop. But with over 60 releases, this Portland based label, seems to keep on pumping beauty out of its heart into ours with a great tagline: *“Not so much a business as an unstoppable force of nature, not so much a label as a shield, not so much a publisher as a conduit, not so much an enterprise as an uprise, not so much commerce as community, HUSH is here to BRING IT.”*
+
+I’ve listened over half a dozen times since I got 7fingers, and I can’t stop listening!!! I can’t recommend it more for followers of glitchy goodness, like **Lusine**, **Ametsub**, **Arovane**, and the beautiful **Yasume**. Intoxicating and delicious!!! And while you’re dropping this into your shopping cart, be sure to grab the latest from **Peter Broderick** – *How They Are* released by Hush as well!

@@ -1,0 +1,21 @@
+---
+id: 1834
+title: "KiloWatts - Undercurrent"
+date: "2009-10-10T15:30:28-05:00"
+category: ["Albums"]
+author: "Tigon"
+---
+
+In terms of technique, **Jamie Watts**, the man behind **KiloWatts**, is an extremely accomplished producer; he knows how to make music that sounds great. His last full-length album, *Ground State*, released on **Evan Bartholomew’s** **Native State Records**, stood out for its fresh and chunky sound. It featured a rolling mid-tempo groove, using mostly an acoustic drum sample set, to go with dynamic and full-bodied synths that displayed Watt’s taste for thick, growling lead sounds in the lower register. At times, the bass took centre stage and propelled the music forward, like on the excellent track *Dub Serious*.
+
+Watts has tried his hand at a variety of genres. His last few releases have ranged from the mid-tempo IDM grooves of *Ground State* to the tech house of the *Snakewinds* and *Love on Saturn* EPs, both released on Noah Pred’s minimal techno and house offshoot of Native State, **Thoughtless Music**. Now, with *Undercurrent*, he’s followed Evan over to his new **Somnia** label for a stab at downtempo/ambient.
+
+> With this album, I wanted to focus on the essence of melody and expose it in a raw form through the electronic medium," says Watts. "The source of the main melodies came from repetitive hooks I found myself sporadically singing or humming during day to day business. Think of the joyful tunes whistled during a walk. These melodic mantras seem to pop up out of nowhere and go on repeating forever… From a larger perspective, I felt that the search for these melodies was similar to unearthing subconscious archetypes that drive reality. the process was like discovering an ever-flowing undercurrent of reality that can be translated directly into melody.
+
+The funny thing is that taken as a whole, the album is not defined by the strength of the melodies. There are a couple of standouts – *Rode Falls* and *Ayandan* – that are blessed with the kind of riffs that seem to have been around forever. They’re like old friends you haven’t seen for a while. The *Undercurrent Is Love* is also hummable if not as memorable.
+
+But more often than not the album is defined by the mood it evokes. Most of the tracks are based on short repeated motifs that ebb and flow with the undulating tide or the movement of the current. Opener *Cascade Serenade* flows by effortlessly, but most of the album is tinged with a darker hue. As if grey clouds are gathering and the waves are beginning to swell. There’s an ominous undercurrent to *Couette* and *Seed* is vaguely sinister, like a snake slithering along just underneath the water’s surface. On *Nightshade*, the crickets and other creatures of the night come out to play. The album culminates in the 12-minute *The Moment Just Before Dawn*, with a single phrase repeated over and over again like a persistent mantra, slowly building toward a majestic crescendo.
+
+The sonic landscape of *Undercurrent* is compact, with clearly defined boundaries. The sounds mostly seem to originate from the same source, as if Watts decided to stick with one trusted synth and one electric piano throughout the making of the album. Most significantly, he has largely – though thankfully not completely – done away with the beats that have been such a defining feature of his music until now. It has to be said that while there are moments of beauty on *Undercurrent* and the album as a whole grows on you, the tracks that make the biggest impression are the ones that have a pulse. Watts is most in his element when he’s working with a beat, or at least a strong rhythmic element, such as on *Rode Falls*, *Seed* and *Nightshade*. The percussion, although further in the background than is usual for him, gives the songs a much more vivid presence and sense of development.
+
+Nevertheless, it’s clear that *Undercurrent* has served to expand KiloWatts’ horizons, even if the addition of one more genre to his discography risks confusing some of his audience. Be sure to check out Watt’s digital releases on **Thoughtless Music**, **Harmonious Discord**, as well as his own outlet, **KiloWatts Music** (see *Six Silicates* EP). Also, it looks like Jamie finally re-released his collaboration with Peter Van Ewijk as **KiloWatts & Vanek** titled *Focus and Flow* (Dependent, 2009).

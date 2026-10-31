@@ -1,0 +1,12 @@
+---
+id: 4880
+title: "Hammock - Chasing After Shadows... Living with the Ghosts"
+date: "2010-05-26T07:18:25-05:00"
+category: ["Albums"]
+---
+
+I know that an album is timeless when, after many years, I return to it and it still sounds fresh. Not only does the sound not age, but I feel like I should tell everyone about it all over again! And the music… it slowly hovers over the roofs of the sleepy houses, swirling down the chimneys into my cold morning room, and slips into my mouth with the steam of the freshly brewed coffee… This soaring quality is the staple sound of **Hammock**. I first became aware of the band with their 2006 release, *Raising Your Voice… Trying to Stop an Echo*. There is a special quality to that album. Like an old friend, it can bring back the eternally haunting feelings of belonging with a simple gentle hug.
+
+The fourth LP by **Marc Byrd** and **Andrew Thompson**, *Chasing After Shadows… Living with the Ghosts*, is a follow-up to the duo's *Maybe They Will Sing for Us Tomorrow* (**Hammock Music**, 2008). Hammock returns with the multi-layered, reverb-heavy, sonic drifts, blending organic ambient with shoegaze and skydrift. The guitars again play as the foundation of every composition, complimented with the resonant voices of strings and subdued percussion, ready to lift you above the trees and let you fall with leaves and the warm summer breeze. Washing away the edgy remainders of last night's bad dreams, Hammock paints a soundscape of pillow-soft meadows, deep ocean breathing, and boundless time. These ethereal lullabies are perfectly accented with track titles like *"In The Nothing Of A Night"*, *"The World We Knew As Children"*, and *"Something Other Than Remaining"*.
+
+In addition to the six-panel digipack, the album is released as a limited edition book collaboration with photographer **Thomas Petillo**. This hardback volume, *North West East South*, includes a four-track ambient EP. Make sure to also pick up Hammock's prior releases, *The Sleep-Over Series (Volume 1)*, and *Kenotic* (**Hammock Music**, 2005). *Chasing…* is quickly rising to the top of my favourite albums of the year so far… Highly recommended for the followers of **Lights Out Asia**, **Port-Royal**, **July Skies**, **Stars of the Lid**, and **The American Dollar**. This is music for driving with the top down in the back country. This is music for meditating on a cliff above the ocean. This is music for chasing after shadows… and for every one of us, living with the ghosts.

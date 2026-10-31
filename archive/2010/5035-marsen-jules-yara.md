@@ -1,0 +1,12 @@
+---
+id: 5035
+title: "Marsen Jules - Yara"
+date: "2010-05-18T05:37:01-05:00"
+category: ["Albums"]
+---
+
+My Reflections on the music I listened to one, two and three years ago, has guided me to revisit previously loved albums by **Marsen Jules**: *Herbstlaub* (**City Centre Offices**, 2005) and *Les Fleurs* (**City Centre Offices**, 2006). While I was digging through my collection, attempting to dust off these gems for yet another rotation, I noticed that they were missing from my library. So I had to go ahead and purchase them [again?]. Oh, and what's this? An album originally released on **Thinner**'s sublabel, **Autoplate**, has been remastered and re-issued! I vaguely remember this 6-track digital release by **Martin Juhls** from 2004 as a digital modern classical marvel. So it's no surprise that I jumped at the opportunity of upgrading it to a remastered version.
+
+With two bonus tracks, that extend the original release by 22 minutes, Juhls brings back his masterfully woven neo-classical pieces that gently loop to the singing of organic instruments. The sources of the original acoustic recordings, as manipulated by Juhls, come from a classical trio Yara. Field recordings of atmospheric elements softly sway to soft piano phrases and the tender strumming of Meike Rath's harp. Occasional pads swell up in the background and exhale into the soundscapes of oscillating delays and ghostly vocals. The composition's building blocks slowly build up, then drop out, disintegrate, and rise into thin air, gradually evaporating, to become one with breath. It's easy to become lost, entranced, and saturated by the light aural fog surrounding your mind with this enchanting meditation.
+
+*Yara* is being released by a mysterious **Oktaf** label – 'a place for authentic music and art', owned and operated by Martin Juhls himself. Kicking off the label's existence with a remastered edition of Marsen Jules' another wonderful work, *Lazy Sunday Funerals*, the label plans on releasing ambient, electronica, contemporary classical and modern jazz albums. Maybe we will see the City Centre Offices releases being remastered as well… Be sure to pick up Juhls' previous releases on **Kompakt, Miasmah** and **Genesungswerk**. And don't forget Juhls' deeply submerged dub ambient aquatic exploration, *Nautica*, released under his **krill.minima** alias on **Native State Records** back in 2007. Recommended for fans of **Julien Neto**, **Klimek, Ryan Teague, Deaf Center** and **Rafael Anton Irisarri**.

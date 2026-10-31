@@ -1,0 +1,21 @@
+---
+id: 874
+title: "Two and a Half Questions with Bruno Miguel"
+date: "2009-03-08T09:20:46-06:00"
+category: ["Artist Interviews"]
+---
+
+***What instruments do you play on Lylac?***\
+Piano, acoustic guitar, xylophone, melodica, synth & sampled strings. Some instruments I was taught to play, others I just learned the basics by myself. But the piano has been my main interest for some time now and I recently got back to some classical studies with a great professor I met. There are just so many layers and different ways you can approach it...it truly is an amazing instrument!
+
+***What elements, would you say, are present in a composition to label it with "pop"?***\
+I'm guessing you're asking me that since :papercutz has been labeled by Apegenine recordings as (intelligent/experimental) Pop which some people find it strange. The fact is I think the music I make is on the borderline of what could be considered Pop music or just plain electronic or leftfield music. You could say Pop music is a music genre that features recognizable melodies and some conventional structure. But don't confuse that entirely with mainstream music. As most musicians know you could play almost every piece of mainstream music with a variation of three to four major chords, almost always the same ones just in different sequences. But Pop music is music that gets to people's hearts by a common language.
+
+***So what does that have to do with :papercutz?***\
+Simple, even if I do like and use this sort of musical signatures and the reaction they cause on listeners one of main motivation is to try to subvert what's expected... I mean experiment with structure (verse, chorus, bridge), vocals (which can play part as a lead, or just as percussive element or as background atmosphere), using known acoustic instruments but processing them with electronics, try out different spoken languages or work out album transitions or live shows sequences so songs feel connected as a whole but always try to convey feelings and emotions not just pure music rationality. I mean, I could do more experimental stuff, I like all types of music, and there's no telling I won't do stuff like that in the future but for now this is where I feel comfortable and where I think as a musician I have something different to offer. At the end of the day things just come out naturally when I compose and I hope that definitions will be surpassed by the music itself. Funny enough I caught your interview with one of the artists that did a remix for us, The Sight Below, and he mentioned “*I do not view Glider in any other way than a very personal and emotional album. It grew out of a lot of things that were happening at the time I wrote it, so I wasn’t really trying to make music to fit a certain genre. It just went that direction naturally*”. Just goes to show how two supposedly very differently labeled artists try to convey exactly the same.
+
+***There is a much deeper side to Lylac, asking the questions of being, in the past, present and future. What role does time play in your conceptual work as well as every day life?***\
+On a macro scale :papercutz concepts have been following what I've gone trough in life. So there is a definitely timeline although somewhat blurred by flashbacks and future insights. What makes us is what we were, are and what we'll become. Sometimes people remember you from one definite time period and in their mind that's what you are but we're always growing and defining ourselves. If that's one thing I'm learning is that we're always changing, inside and out, and that's a good thing as long as you don't let go of what you you've gone through. I don't really focus on everyday life, but all those micro events can be use full if they can tell a bigger story.
+
+***What is the relationship between "complexity" and "simplicity" on your album?***\
+That has to do with my second answer really. I think :papercutzs music and "Lylac" in particular comes in layers. You can get some of it at first glance but as you dwell deeper you'll find there's a lot more be it musically, lyrics, concept, visuals,...just like you'd find on great Pop artist. Poor mainstream music however has nothing else underneath.

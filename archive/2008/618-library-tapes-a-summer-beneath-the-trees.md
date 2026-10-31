@@ -1,0 +1,12 @@
+---
+id: 618
+title: "Library Tapes - A Summer Beneath the Trees"
+date: "2008-11-08T15:56:19-06:00"
+category: ["Albums"]
+---
+
+All the recent sounds from **Hauschka**, **Max Richter**, **Peter Broderick**, and **Eluvium** literally guide me towards the latest album from David Wenngren, who is now the single member of **Library Tapes** (previously joined by Per Jardsell). Well, that's not actually true. On the latest album titled, *A Summer Beneath the Trees*, released on **Make Mine Music** (more on this great label later), Wenngren is joined by the above-mentioned **Peter Broderick**. He contributed a multitude of instrumentation: guitar, banjo, trumpet, accordion, viola, and others. Broderick, by the way, I hear has moved to Copenhagen to join **Efterklang**. So among the many latest releases from this young man (*Home* being the latest on **Type Records**), and his collaboration with Library Tapes, I'm sure we'll be seeing his name pop up here and there for years to come.
+
+On *A Summer Beneath the Trees*, the subtle melodies are woven in between Wenngren's soft piano and Broderick's singing violin, and upon numerous listens begin to implant themselves among the nostalgic memories. The music has a slight contemplative breeze to it - definitely not too happy, yet not too sad - mostly neutral in just being, as is the rest of our perceived reality. These sounds accompany the silhouettes moving in the office windows across the street, the rising white clouds from an industrial factory across the lake, and the slowly falling autumn leaves. Listening to the music gracefully moving my meagre existence I am reminded once again that there is no such thing as bad weather. The weather just is.
+
+*A Summer Beneath the Trees* is a great addition to **Make Mine Music** catalogue, with already an excellent roster of artists like **Yellow6**, **Epic45**, **July Skies**, and **Portal**. Meanwhile, the latest from Wenngren was his 2008 release on his very own label, **Auetic**, under **Forestflies** alias, titled *Structure/Chaos* - so be sure to grab that as well. Another interesting release from Wenngren is his 2007 *Litotes* album on **Symbolic Interaction**, under yet another collaboration alias with Erica, **Xeltrei**. *A Summer Beneath the Trees* gets better and better with every single listen. Highly recommended if you like the above-mentioned artists plus **Deaf Center**, **Swod** and **Balmorhea**.

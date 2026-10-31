@@ -1,0 +1,14 @@
+---
+id: 38927
+title: "Luke Howard - Open Heart Story"
+date: "2018-07-11T06:54:09+01:00"
+category: ["Albums"]
+---
+
+**Luke Howard**‘s compositions have been organically developing throughout the years, slowly growing in their scope, execution and themes. There is still a melancholy side to all new pieces, the one that is unquestionably “Luke Howard,” even as they picked up in orchestration for the accompaniment after being signed to **Mercury KX**. These are the motives of self-reflection, memories, and even painful affairs [as the title of one track, “I Still Dream About You, Sometimes But Not Always” will remind]. This is a self-inflicted surgery of time, renewing barely healed old wounds, refreshing childhood mementoes, and rediscovering the self – all that would contribute to a sorrowful reveal, in a story of the heart.
+
+Opening with a solo piano piece in veneration of **J.S. Bach**, Howard immediately dives into a cinematic composition of a two-part “Bear Story,” walking down the board with keys of crashing chords, before the mournful strings begin their tale, akin to themes from *Schindler’s List*, which are so permanently planted in my mind. These harmonies and these progressions are executed with a dramatic narrative in mind, the subject of which is explored with solo piano keys and carried forth by a 23-piece orchestra [a trained ear will also pick up a rumbling bass, which is a source of something deep and not acoustic – a gentle supplement for frequencies perceived]. There’s also something elevating in the compositions – I wouldn’t say ‘uplifting’ but still exalting in the ride, like a decelerating roller-coaster of your life, with all its ups and downs, but nevertheless restraining to a stop.
+
+> Having made many recordings of small ensembles in less than ideal rooms,” says Luke when I asked him about composing for an orchestra in mind, “I’d been thinking about writing for and recording a larger orchestra for some time. After all, a 23-piece string section in a beautiful room is almost impossible to make sound bad! The record started with a bunch of improvisations I recorded at Martyn Heyne’s Lichte Studio: at the time, I wasn’t sure if these would be demos, a solo piano EP, or the beginning of an album.
+
+Halfway through the album, we come upon a personal favourite piece, “Hymn” – a minimal composition with the essence of **Max Richter**, the late **Jóhann Jóhannsson**, and now, **Luke Howard** at the helm. In 2014, when I reviewed Howard’s self-released *Sun, Cloud* album, I’ve closed my write up with the following words: “*If there was a [new and unsigned?] musician that a label would ask me to tell them about, I would certainly point them to Luke Howard in confidence that in the next few years we will surely hear from him again.*” I won’t claim that I had any foresight into the future, but, if a label like **Mercury KX** paid any attention to my words, then I’d say that my deed’s been done.

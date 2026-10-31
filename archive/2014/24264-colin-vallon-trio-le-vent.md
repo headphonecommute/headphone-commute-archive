@@ -1,0 +1,16 @@
+---
+id: 24264
+title: "Colin Vallon Trio - Le Vent"
+date: "2014-05-15T01:20:18-05:00"
+category: ["Albums"]
+---
+
+Swiss pianist **Colin Vallon** is new to me, but his collaborations with **Patrice Moret** (double-bass) and **Julian Sartorius** (drums) are stunning. *Le Vent* is Vallon's latest album with a trio, following up *Rruga* (ECM, 2011), *Telepathy* (ECM, 2011) and *Matanë Malit* (ECM, 2012), which also include Moret. Vallon has a particular style to his playing, his piano seeming in constant motion, insistent and driving the music forward or, sometimes, in circles to great effect. Opening track "Juuichi" is a real standout. Its convoluted meter continually changes and evolves over its six minutes, making it the most beguiling of the album for me, and a clear personal favourite.
+
+> Like the wind celebrated in the title track, the Colin Vallon Trio has a subtle, insinuating power. From a still and silent place its music may breathe gently, or steadily build pressure until attaining an eruptive forcefulness. This sense of poetic compression and quiet relentlessness was evident on the ECM debut Rruga, but with leader Vallon now writing almost all of the program and new drummer Julian Sartorius detailing its floating rhythms, the Swiss trio has entered a brave new space where touch and inflection are more important than soloistic gesture.
+
+Elsewhere the interaction between Vallon and his players is more patient and tempered, such as the elegant stroll of "Cendre." Listening to the varied and stark pieces of *Le Vent*, one can hear Vallon, Moret, and Sartorius all intuiting where Vallon's improvised lead will take them. The contrast between improvisation and recurring themes is subtle, with pseudo-refrains or motifs revealing themselves only faintly over time in each piece. The music roots in jazz make it unpredictable and fresh with each subsequent piece, but rarely does it feel couched too staunchly in that musical world; Vallon is unafraid to occasionally be sweet or even sentimental in his playing, so a piece like "Goodbye" resonates with an almost cloyingly human touch amidst some of the other more complex and daunting pieces.
+
+Likewise, "Le Quai" is languid and patient, letting the spaces between notes guide the way as much as the notes themselves. "Pixels," on the other hand, captures the plain geometry of its namesake with a rousing arrangement that shifts forms continually, ping ponging between time signatures before short-circuiting. The last stretch of *Le Vent* is a bit more sedate, with the highlight being "Rouge." It starts with a stark, prepared piano, but it evolves into something quite graceful and elegant once Vallon's players join in. "Styx" floats by like a dream, conjuring up visions of dark waters, while "Corialis" is a curious epilogue, embodying the distorted motion its title denotes with an assortment of high piano tones, chimes, and cymbals. It's a solid release from start to finish, showing off the talents of its players and somehow both fitting into the landscape of contemporary jazz without any of the cliches the genre might bring to mind. The balance of improvisation and solid musical ideas makes *Le Vent* satisfyingly unpredictable but not scattered.
+
+Words by Matthew Mercer of **Ear Influxion**

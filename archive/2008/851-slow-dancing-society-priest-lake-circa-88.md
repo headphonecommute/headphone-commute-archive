@@ -1,0 +1,10 @@
+---
+id: 851
+title: "Slow Dancing Society - Priest Lake Circa ’88"
+date: "2008-09-07T08:29:03-05:00"
+category: ["Albums"]
+---
+
+Hidden Shoal delivers once again! There are instant gems in my collection from this Australian label, including albums by Sankt Otten, Wes Willenbring and now the latest from Slow Dancing Society. To listen to Priest Lake Circa '88, I retreat into my solitary bedroom, fall over the covers, and press play on the player. It's not that I am ready for a nap. But I do want to close my eyes and let the sound swirl around me, like little specs of dust rising towards the ceiling in the ray of sunlight. With my eyes closed, I can truly hear. There are no distractions by the scrollies or the blinkies. With my eyes shut I can see the music. And it perfectly blends into an atmosphere of my surroundings. Somewhere a dog barks. A pigeon flutters. And my neighbour is working in his garden. The trees sway in the wind, softly brushing their leaves against my window. Or perhaps it is the sound of washing waves on one of the tracks, accompanied by a subdued strumming of a guitar. Soon I see the water. Drifting away on my hastily made raft I am slowly approaching the centre of the lake. Getting closer with every reverberated feedback, going farther into my saturated dream.
+
+Priest Lake Circa '88 is Drew Sullivan's third album on Hidden Shoal, serving as a conclusion to his double-album which began with The Slow and Steady Winter. The main theme of the album speaks of the nostalgic concept of "home", encompassing the things we leave behind and return to, within our short journey into this time slice we call "life". With Brian Eno serving as the main influence for Sullivan's work, I could attempt to classify the music as abstract ambient meeting experimental shoegaze. Or I could just name a few of my favorite artists that come to mind immediately upon my first listen: Stars of the Lid, Hammock, and Bitcrush. If those are the names on your watchlist, then you better rush out to secure a copy of the latest (and all) from Slow Dancing Society. And let me know about \_your\_ trip.

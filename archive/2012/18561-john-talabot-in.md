@@ -1,0 +1,12 @@
+---
+id: 18561
+title: "John Talabot - ƒIN"
+date: "2012-09-12T06:26:07-05:00"
+category: ["Albums"]
+---
+
+**John Talabot** is a mysterious fella… and John Talabot is not even his real name. It’s actually **Oriol Riverola** (he’s also been recording under the **D.A.R.Y.L.** alias). Riverola came on the scene in 2009, with *My Old School* 12″ on München (Germany) based **Permanent Vacation** label. But it was his fourth EP, *Families* (2011), which got picked up by **Young Turks** that finally caught my attention. This London-based label, by the way, has been home to a few of my favourite artists, such as **SBTRKT**, **The XX**, and **Holy F\*ck**, which is why, I suppose, I finally picked it up. The very latest, *ƒIN*, is Riverola’s debut full length album, this time back on the label he started with. The LP has caused a bit of stir in the indie community, especially amongst the followers of **Four Tet**, **Booka Shade** and **Caribou**.
+
+Barcelona-based John Talabot produces the kind of house meets disco meets indie-pop, which at first made me take a double take and wonder how to properly categorise the style. Upon my third and fourth and consecutively fifth listen I started to get completely hooked on his infectious sound. There’s a sense of mystery surrounding the swooshing synths, sporadic organic rhythms over the tribal housy beat and soft gliding sonic pads. *ƒIN* is the kind of record you wished you found in the 80s, when the world obsessed with pop and MTV started to dramatically separate itself from the underground cassette scene. At the end I decided against genrefication and leave the record to speak for itself. It’s no wonder that fans of electronic movement within the indie scene have developed a thirst for the quality-produced revived sound.
+
+The music on *ƒIN* maintains the kind of easygoing nonchalant atmosphere which at first makes you mistake it for the loop-driven sample-based simplicity. The record’s confidence begins to shine through upon further rotations, and now the multiple layers begin to reveal themselves throughout eleven uplifting tracks. I can totally close my eyes and picture myself dancing long into the late night to these contagious beats, which is precisely what I’ll be doing at the upcoming **Decibel Festival** in Seattle, where John Talabot will be performing alongside vocalist and producer **Pional** (who also appears on the record) at the ***dB Finale***. If you dig this, there’s also a *ƒIN Remixes Vol 1* featuring remixes by **Bullion**, **Pachanga Boys** and **Kenton Slash Demon**.

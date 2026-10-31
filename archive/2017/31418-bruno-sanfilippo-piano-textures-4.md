@@ -1,0 +1,16 @@
+---
+id: 31418
+title: "Bruno Sanfilippo - Piano Textures 4"
+date: "2017-03-29T00:00:05+00:00"
+category: ["Video Premiere"]
+---
+
+**Bruno Sanfilippo**’s fourth volume in his *Piano Textures* series came out in early December, and although that may have been a bit too late for many other Best of the Year lists, it nevertheless made it onto Headphone Commute one, in the proper *Music For Watching The Snow Slowly Fall In The Moonlight* category. And even though it has taken me yet another three months to get around for this proper review, I must admit that this *Piano Textures 4* release is one of my favourites, and feel that it would be yours too. In a way, Barcelona-based Sanfilippo managed to capture some of my favourite ‘textures’ [be that as it may] of my beloved instrument with a few distinguished nods towards some acclaimed composers, such as **Nils Frahm**, **Hauschka**, **Max Richter** and even **Ryuichi Sakamoto**.
+
+Beautifully produced, tender keys glide effortlessly over some gorgeous piano pads, prepared hammers, and even deep rumbling bass. The melodies are simple, delicate and unique, falling upon my ears like sparkling snowflakes in the reflected radiance of the orb in the night. Gentle tapestries of sound are cradled into a lazy dream with a little help of a timed delay, space reverb, and echo. The album approaches the category of ambiance, with its barely hesitant tempo, deliberate spacing, and leisurely paced flow. I especially love all of the fragile minimalism expressed through the pieces (really remind me of the above mentioned Sakamoto, and I hope that’s a compliment), exploring the distance between all the chords, measured in space, time, and something else, completely unmeasurable.
+
+> The newest installment of timelessly acclaimed picturesque storytelling, invites the listener into magnificently intense piano minimalism. These nine compositions are evocative sonic sculptures, meticulously carved, yet they indeed present different ‘textures’.
+
+As part of this album write-up, I’m also excited to run with an exclusive première of a *Piano Textures 4* video, released by Bruno specifically on Piano Day, the 88th day of the year (named by Nils Frahm after 88 keys on the keyboard). While you’re here, check out for all the exciting events (and many other surprises) happening throughout this week, and especially today!
+
+Obviously I recommend that you pick up the first three volumes of the *Piano Textures* series. I also want to point your attention to his recently published *The Poet*, released on **1631 Recordings** in April of 2016 (watch the music video above). There is also a 2015 remix album, *Upon Contact Reworked* with contributions from **Francesco Giannico**, **Olan Mill**, and **Hior Chronik** among others. The *Piano Textures 4* video was created by Jorge Haro, who also participated in *Upon Contact Reworked* as a musician. Catch Sanfilippo in concert if you can (one of the items on my “to-do” list, since I moved to London), and be sure to check out his past releases and collaborations on his very own **AD21** imprint – there are a bunch of albums for you to explore if you are new to this modern classical composer. Highly recommended!

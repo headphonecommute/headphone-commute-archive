@@ -1,0 +1,24 @@
+---
+id: 4919
+title: "Baconhead, Anodyne Industries, and Mormo"
+date: "2010-05-01T12:13:50+00:00"
+category: ["Sound Bytes"]
+---
+
+This installment of **Sound Bytes** features some of my latest picks among the net-label community. Distributing music digitally, and mostly for FREE, net labels are a collection of artists sprinkled across the domain of intarwebs with one goal in mind: make great music and spread it far and wide! Back in the early 90s even I was a member of a subculture of artists, musicians and hackers, known as the 'demoscene', uploading MODs to European elite HQs over a 1200 baud modem. Sigh... Am I dating myself here?
+
+Baconhead - Soap EP (Acroplane)
+
+What's that rumbling in the caverns of an abandoned tunnel? Why, it's the evil bass monster! C'mere, you poor creature, let me feed you some digital scraps. Whoah, don't be greedy! Let go of my 8-bit console! What's your name anyway? Oh, it's **Baconhead**, now, is it? And wipe your dirty bleepy mouth, or I may have to wash it out with *Soap.* So, who is hiding behind that green skin unleashed by the Irish net label, [**Acroplane Recordings**](http://www.acroplane.co.uk/)? It's Ben Hudson (aka **Ebola**) and Paul Bee (**Autobee**). This is their first collaboration together, producing saw wave synth stabs, laser sweeps, and deep bass sci-fi beats to wake you out of your day dreams back into nightmares of cartoon flowers and cutout trees. The six track *Soap EP*, is a nice addition to Acroplane's catalogue of digital releases, previously featuring **Igorrr**, **Somatic Responses,** and **Barry Lynn** (**Boxcutter**). While visiting the label's site, be sure to pick up Ebola's *[Brodmann Area](http://www.acroplane.co.uk/node/142)* available for FREE! Check out the track *Wookie*, to get your woopie wonking...
+
+Anodyne Industries - The Gateway EP (IDMf)
+
+A newcomer to the scene of digital bass is Aaron King, releasing under the moniker [**Anodyne Industries**](http://anodyneindustries.wordpress.com/). Hailing from the Bay Area of the States, King lands his first EP on [**IDMf Community**](http://label.idmforums.com), a net label spawned off of [**IDMforums**](http://www.idmforums.com/). With solid production, breaky beats, and beautiful harmonics, King climbs to the top, among the label's previous seven EPs and compilations. *The Gateway EP* collects five tracks across a few genres, including dark and crunchy IDM, melodic-vocal-anthem dubstep, and even drum'n'bass. The mood shifts from light to dark with appropriately titled *Make It Darker*, showcasing King's ability of combining ethereal synth chords with nasty bass stabs. The best part is that this and all previous label's releases are available for FREE - so point your clickers and download legally away! For a taste of IDMf, pick up the first few compilations, featuring tracks from the members of the forum community. Here's my advice to established labels: always keep your eyes on some of this fresh talent... Download 320vbr [MP3](http://label.idmforums.com/download/idmf008) or [FLAC](http://label.idmforums.com/download/idmf008flac) version.
+
+Mormo - Epicurean Swerve (Bedroom Research)
+
+Navigating through the web of net releases, I land upon a glitchy and abstract sound of Tomasz Kaye, aka [**Mormo**](http://www.mormomusic.com/), with his mind-bending experimental 8-track mini-album, *Epicurean Swerve*. Think **Funckarma, Phoenecia**, and dare I say **Autechre**. Put out by French collective of artists, [**Bedroom Research**](http://www.bedroomresearch.com), this release features a taste of bleeps, clicks, and heavily processed rhythms as warped, swirled, and bit-stretched by this Holland-based artist. At times chaotic, mind-bending and bizarre, Kaye's sound pushes the envelope further, past intelligent design and dance oriented beats. Always complex and never revealed at face value, the album begs for numerous returns, to peel back the intricate structure for a closer look at the splintered sound. Be sure to also check out Mormo's debut album, *Wasting 500 Sounds*, released by **Low Impedance Recordings** back in 2006. If you have more bandwidth, crawl around the net-label's site, and fill your queue with more freebies. Download the release [HERE](http://www.bedroomresearch.com/v2/DISCOTEK/BR025-Mormo-EpicureanSwerve(320).zip).
+
+More net labels to explore...
+
+If after this bass-heavy entry you're still hungry for more, check out this list of my favorite net labels to visit : [Sutemos](http://www.sutemos.net/), [Serein](http://www.serein.co.uk/), [Thinner](http://www.thinner.cc), [Kahvi Collective](http://www.kahvi.org/), [Monotonik](http://www.mono211.com/), [Controne](http://www.controne-records.net/), [zymogen](http://www.zymogen.net), [Stadtgruen](http://stadtgruenlabel.net/), [Polymorphic Music](http://www.polymorphic-music.co.uk/), [12rec](http://www.12rec.net/), and last but not least, [one - yet another netlabel](http://one.dot9.ca/).

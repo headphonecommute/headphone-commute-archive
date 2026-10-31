@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{- $stats := site.Data.statistics }}
+<h1>Years</h1>
+<p class="page-intro">Browse the archive by year of publication.</p>
+<ul class="tiles">
+{{- range $year, $n := $stats.by_year }}
+  <li><a href="{{ printf "years/%s.html" $year | relURL }}"><b>{{ $year }}</b><span>{{ $n }} articles</span></a></li>
+{{- end }}
+</ul>
+{{ end }}

@@ -1,0 +1,22 @@
+---
+id: 37150
+title: "Autechre - NTS Sessions"
+date: "2018-08-28T18:47:56+00:00"
+category: ["Albums"]
+---
+
+### Release Notes
+
+**Label:** Warp\
+**Release Date:** Aug 13, 2018\
+**RIYL:** Autechre
+
+The prolific and often elusive duo of **Sean Booth** and **Rob Brown** are back with another album as **Autechre**. And to be honest, I'm not even sure if we can call this one "an album". Consisting of four individual Sessions, each at two hours in length (!!!), this curated live recording from Autechre's residence of online ***NTS Radio*** station was originally broadcasted in April of 2018 (over four individual instalments) and immediately released as a digital download. Now, available as a physical release, this collection of original material can be yours on an 8xCD box set or a 12" LP set for each individual session.
+
+It feels like somewhere around 2013, with their *Exai* release, Autechre has given up on a standard definition of a "studio album", first releasing 10 live sessions from their European tour in 2015, followed by individual entries for *elseq 1-5*, and now this 8-hour-long performance archive. The catalogue completist and the connoisseur of Autechre sound is undoubtedly kept busy with these recordings (it must be hefty on the wallet, as well), but with so much material, one must really wonder at the ratio of signal to noise. First I must say, that even though this digital release is available on Tidal (as a lossless stream) I still purchased the CD box set. But to own all eight vinyl records sounds even hefty to me, especially since I don't think that Autechre's signature experimental digital glitch will translate any better on this analogue medium (if anything, the 24-bit WAVs is probably a better choice). By the way, neither AE_LIVE nor *elseq* were physically released. That being said, I do recognize the duo's challenge and the limitations of media, as well as a question as to what constitutes an "album" at all.
+
+But what about these eight hours of "music"? Is it indeed a progression into the next era of electronic sound, or is it a collection of endless tinkering and semi-live improvisation, distilled down to an endless stream of [as the group put it themselves] "fuckery"? In a way, I think, it's both. In many cases, some pieces are a bit too long, even for my own tastes (the last hour-long drone may be a challenge for many followers - I'm not sure if it's a post-processed orchestral piece or if I'm just hearing things at this point), some tracks sound like they could be diluted to only a few minutes of ideas, instead of an ongoing, ever-twisting stretch of time. But I suppose that the duo had to fill in all those broadcasting hours, so why not? And why not put it out for fans to download? And with Autechre's and Warp's esteemed history (and budget), why not press it on 12-inch? The question remains as to what you will extract from it, and whether, as a personal taste, the duo has met your expectations.
+
+Fans of intensely unique Autechre sound will be pleased. After all, most of the material is composed of the custom-built software with patches exceptional to the act. This is why no one else will ever sound like Autechre - the duo essentially has an instrument which is inimitable and one of a kind. Yet, a particular sequence can only be warped so far before a keen ear will recognize it as one of the previously used patterns on an earlier album. In this case, this remix of a remix, is a pleasant and tasty delight, as long as it doesn't grow tired on you and keeps on constantly transforming. Which is where Autechre really shine. Whereas **Aphex Twin** has said all the things he had ever have to say nearly two decades ago, Autechre seems to stay in touch with the evolution of [their] sound.
+
+On the other hand, even as they push the envelope outside defined boundaries, Autechre appear to water only the plants grown in their very own garden, rarely harvesting a new technique which some modern electronic musicians develop and embrace. Take a listen to a new offering from the God of modular synthesis, **Richard Devine**, and see what I mean when I speak of sound design. There is a lack of "freshness" in these mathematical machines, but that doesn't mean that it's unwelcome - as I'm sure the fans of this glitched out virtue will agree. Autechre is a particularly singular flavour of a drink, one that no other distillery can match because they own its land, ingredients, and waters.

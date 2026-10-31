@@ -1,0 +1,6 @@
+{{ define "main" }}
+<p class="eyebrow"><a href="{{ "category.html" | relURL }}">Categories</a></p>
+<h1>{{ .Title }}</h1>
+<p class="page-intro">{{ len .Pages }} articles, newest first.</p>
+{{ partial "listing.html" .Pages.ByDate.Reverse }}
+{{ end }}

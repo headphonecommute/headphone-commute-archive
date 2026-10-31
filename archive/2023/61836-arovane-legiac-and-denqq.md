@@ -1,0 +1,24 @@
+---
+id: 61836
+title: "Arovane, Legiac, and Denqq"
+date: "2023-08-09T08:44:26+01:00"
+category: ["⟪ REW | FF ⟫"]
+---
+
+# Arovane
+
+## Polymer
+
+Coming in at number seven, as in the 7th catalogue entry for the UK-based label **quiet details,** which was only launched this year, is a new album from the veteran of electronic music production and sound design, **Uwe Zahn**, here appearing, once again, as **Arovane**. Scheduled to be released on August 16th, this would be the fourth album (by my counts) just this year for this prolific German musician. There was *Sinter* on **LAAPS** in January, *Miniaturen* on **Puremagnetik** in April, and *Seismograf* on **Dauw** in June. Although it could be easy to dismiss these short 14 pieces as sketches fallen out of Zahn's almost daily routine of creating new patches for various [soft] synthesizers (you can purchase presets for Pigments, Hive2, Serum and more directly from [arovane-soundshop.com)](http://arovane-soundshop.com/), the reality is that each miniature composition is a little world of its own, breathing, pulsating, and fully alive. Deep textural atmospheres are the core of each explored sonic structure, keeping my ears and heart happy and my mind keenly tuned in. "*Deftly intricate sound manipulations and hyper-detailed digital textures somehow also breathing with a deep and enveloping warmth - each track a perfect prelude to the next in a mesmerising journey. Undulating drones and granular fragments melt into exquisite melody, then noise shapes and beyond...*" As with all previous instalments on Alex's imprint, each release interprets the idea of "quiet details". Thus, active listening is a must. A complex and highly sophisticated sonic journey, which I highly recommend you take on, especially in context with the above-mentioned releases. Out via the label's [Bandcamp](https://quietdetails.bandcamp.com/) shortly.
+
+# Legiac
+
+## Banisteriopsis Caapi
+
+**Legiac** is a project by the Funcken brothers (of the **Funckarma** fame) and **Cor Bolten**; these days, however, only **Roel Funcken** still produces music, while Don has sadly waned away. Thus, *Banisteriopsis Caapi*, which is the name for the yage (aka soul vine) - the main ingredient in the ayahuasca drink from Amazonia, is the revival of Legiac, now as a duo of Roel and Cor. This latest 14-track album delivers slow-evolving, atmospheric, and hallucinogenic electronica, where the rhythms are deconstructed to melt within the modulated frequencies of sound. It's a quiet, organically-grown flora of other dimensions, where synth stabs suddenly chirp like alien lifeforms and pads lay foundations to the space. "*Percussion is reduced to a texture, the duo finding structure in droplets of water, the stretch of steel and a litany of field recordings. The partnership dives deep into their chosen sounds, elongating and expanding tones to find harmony in the absence and isolation that is their focus.*" And just like the pounding techno of nightclubs, which can be reduced down to the bedroom experience of intelligent sounds, the complex twists of the ever-mutating post-glitch IDM are turned here into minimal ambient musings. The album cover is taken from one of Roel's paintings, "Scopolamine", which features an acrylic pouring pattern of vibrant colours in yellows and blues. "*Legiac achieve a distant intimacy with their listener, a relationship forged through complex compositions, gentle movements and subtle shifts.*" Stay tuned for a massive 9-hour ambient mix by Roel, which I will begin publishing on Headphone Commute's podcast in mid-August over several weeks.
+
+# Denqq
+
+## We Could Be Dead Soon
+
+With a title like *We Could Be Dead Soon,* Munich-based **Matthias Dengg** does not exactly inspire an immediate warm and fuzzy feeling. A quick glance at the track names unveils potential doom and gloom, but the music is not so defeatist, as the uptempo rhythms and post-techno beats hark back to the mid-90s electronic music when experimentation with new sounds still came from the heart and soul. Elements of **Basic Channel** percolate through the driving force of post-club morning-after chill-out rooms, where **Biosphere** and **Seefeel** dominate the floor. My carefully trained ear also picks up a loop from **Raime**'s "The Last Foundry" that Denqq recharges in his "Isso" with an alternate approach. It's a fresh look at the stolid state of sound where everything is just a remix of before. "*Stylistic devices currently popular are absent, but so is nostalgia. His tracks are sometimes softly driving, and then again, you feel the expansion, the experimental ambiance. All of them are infused with this almost mystical depth.*" A fun and immersive take on a deconstructed genre that seems to need a new injection in its vein. Released on Klaus Burkard's **normoton** imprint, on digital and vinyl.

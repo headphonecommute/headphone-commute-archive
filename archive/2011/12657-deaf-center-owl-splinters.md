@@ -1,0 +1,12 @@
+---
+id: 12657
+title: "Deaf Center - Owl Splinters"
+date: "2011-10-21T18:57:55-05:00"
+category: ["Albums"]
+---
+
+Is it possible that nearly six years have passed since I first heard **Deaf Center**’s *Pale Ravine* (Type, 2005)? At the time, the mysterious sound of **Erik K. Skodvin** and **Otto Totland** was almost defining the birth of cinematic dark ambient, haunting modern classical and eerie nostalgia for daydreams and false memories. Perhaps the latter is not really a genre at all, yet I could swear it exists, every time I hear a record by **Deaf Center**. And if I ever decide to showcase the style again, you can be sure that I’ll include a track (or two) from *Owl Splinters*. **John Twells**’ extraordinary **Type Records** must be proud, for the label continues to release some of the world’s most beautiful music from the masters thereof.
+
+For their second full-length album, the Skodvin and Otto duo are joined by yet another entity that adds an important component to the overall sound: **Nills Frahm**’s Durton Recording studio, where the sounds are mastered and polished to the shiny surface until the light bounces off the gloomy atmosphere layered with thick coats of frequency-heavy organic sound waves. And then the surface breaks… and a distant piano sings its song in a rainy street cafe… somewhere a waiter drops the spoon on the saucer, as the droplets of water fall on the glass… soon the cello breaks into a raspy monologue, its vocal cords aching with thirst. Music like this is rare. Like a dusty photograph found in a cardboard box of a small antique shop, it tells a story of the distant memory, left unattended to awake.
+
+In addition to the above-mentioned debut, *Pale Ravine* and the currently reviewed *Owl Splinters*, **Deaf Center** also released *Levende*, a live recording from Augsburg in 2005, on **Type Records** as a digital only one-track piece. There is also the debut EP, *Neon City*, released on **Type** in 2004. **Erik K. Skodvin** is also responsible for his 2010 critically acclaimed *Flare* released by Berlin based **Sonic Pieces**, as well as his multiple albums under the **Svarte Greiner** alias on **Type** and **Digitalis**. And who could forget Skodvin’s curation of his very own **Miasmah** label? **Otto Totland** should be known to most of you through his outstanding collaboration with **Serein**’s label head, **Huw Roberts**, as **Nest** and their amazing 2010 release, *Retold*. Highly recommended!

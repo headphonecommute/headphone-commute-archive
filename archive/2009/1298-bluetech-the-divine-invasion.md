@@ -1,0 +1,14 @@
+---
+id: 1298
+title: "Bluetech - The Divine Invasion"
+date: "2009-05-17T09:08:16-05:00"
+category: ["Albums"]
+---
+
+**Evan Bartholomew** drops another album for our hungry ears. This time, his groovy downtempo sonic treatments are released under his renowned moniker, **Bluetech**. For *The Divine Invasion*, Bartholomew puts aside his ambient and modern classical work under his real name, and returns to his tight IDM, digital funk, and tech-dub beats with a touch of masterfully produced atmospheres and spacey psychedelia. Here's Bluetech with his staple sound of micro-programmed clicks and stereo bouncing bleeps. Here's the never-ending echo of the minor dubbed-out chords. Here's everything we have grown to love from one of the pioneers of PsyDM sound. Listening music meets dance floor meets contemplative far away places where dreams recursively collide.
+
+Aleph Zero is an Israeli label putting out downtempo and psychill records, as spearheaded by its co-owner, Yaniv Shulman (one half of **Shulman**). Bartholomew has found a home on Aleph Zero for Bluetech releases since *Elementary Particles* in 2004. This is Bluetech's fourth full-length release, including the subtly slipped in *Phoenix Rising*, released on his own, predominantly minimal, modern classical, and ambient-focused label, **Somnia**, just a few months prior. Did you catch that one? On *The Divine Invasion* we hear Steve Hillage (**Mirror System**) return for a contribution of his guitar sweeps, after a very successful collaboration last year with Bartholomew, under his dub techno slotted moniker, **Evan Marc**, on *Dreamtime Submersible* (Somnia, 2008). We are also treated to a track of collaborative work between Bluetech and Eitan Reiter, who has made numerous appearances in the past on **Aleph Zero**, **Dooflex** and **Iboga**.
+
+*The Divine Invasion* is at once more mature and playful. Following Bartholomew through his ambient and techno releases, I can hear both sides converge on the Bluetech sound that steers clear of stylistic constraints and genre-defining elements. This is not a futuristic science fiction space odyssey, where the newly technological advances can be disproved by today's early adopters. This is a mysterious world of dreams and psychedelic visions. And in such alternate realities, unfathomed by our limited senses, anything goes. This surreal music of no limits and boundaries is the perfect candy for your reality-smothered mind.
+
+With numerous appearances on a roster of respectable labels, **Interchill**, **Yellow Sunshine Explosion**, **Platipus**, and his own **Native State Records**, this is one of Bluetech's finest contributions towards the evolution of psychedelic sound. For an ambient exploration in sound, pick up Bartholomew's releases on Somnia. Make sure you also check out Bluetech's *Sines and Singularities* (Aleph Zero, 2005). Recommended if you get down with **Plaid**, **Jon Hopkins**, **Kilowatts** and **Ott**.

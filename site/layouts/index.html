@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{- $stats := site.Data.statistics }}
+<h1>Headphone Commute, the text archive</h1>
+<p class="page-intro">{{ site.Params.description }} This archive keeps the writing — reviews, interviews, studio visits and essays — as plain text that anyone can read, search, download and copy.</p>
+<div class="figures">
+  <div><b>{{ $stats.totals.documents | lang.FormatNumber 0 }}</b><span>articles</span></div>
+  <div><b>{{ len $stats.by_year }}</b><span>years</span></div>
+  <div><b>{{ div $stats.totals.words 1000000.0 | lang.FormatNumber 1 }}M</b><span>words</span></div>
+</div>
+<form class="quick-search" action="{{ "search.html" | relURL }}" method="get" role="search">
+  <p><label for="q">Search the archive</label><br>
+  <input id="q" name="q" type="search" placeholder="Artist, album, label…" style="width:100%;max-width:28rem;font:inherit;padding:0.45rem 0.6rem;border:1px solid var(--rule);border-radius:4px;background:transparent;color:inherit">
+  <button type="submit" style="font:inherit;padding:0.45rem 0.8rem">Search</button></p>
+</form>
+<h2>Browse by year</h2>
+<ul class="tiles">
+{{- range $year, $n := $stats.by_year }}
+  <li><a href="{{ printf "years/%s.html" $year | relURL }}"><b>{{ $year }}</b><span>{{ $n }}</span></a></li>
+{{- end }}
+</ul>
+<h2>Browse by category</h2>
+<ul class="tiles wide">
+{{- range first 8 site.Taxonomies.category.ByCount }}
+  <li><a href="{{ .Page.RelPermalink }}"><b>{{ .Page.LinkTitle }}</b><span>{{ .Count }} articles</span></a></li>
+{{- end }}
+</ul>
+<p><a href="{{ "category.html" | relURL }}">All {{ len site.Taxonomies.category }} categories</a> · <a href="{{ "archive.html" | relURL }}">Every article in one list</a> · <a href="{{ "statistics.html" | relURL }}">Archive statistics</a></p>
+<h2>About this archive</h2>
+<p>The archive is made of ordinary text files, one per article, in a public repository that anyone can download, verify and mirror. It does not depend on the original website, its hosting or its domain. <a href="{{ "about.html" | relURL }}">Read how it works</a>{{ with site.Params.downloadURL }} or <a href="{{ . }}">download the complete archive</a>{{ end }}.</p>
+{{ end }}

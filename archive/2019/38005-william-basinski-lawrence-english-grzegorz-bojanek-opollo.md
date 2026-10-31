@@ -1,0 +1,24 @@
+---
+id: 38005
+title: "William Basinski + Lawrence English; Grzegorz Bojanek / Opollo; and Porya Hatami | Aaron Martin | Roberto Attanasio"
+date: "2019-03-19T06:01:18+00:00"
+category: ["⟪ REW | FF ⟫"]
+---
+
+# William Basinski + Lawrence English
+
+## Selva Oscura
+
+*Selva Oscura* is the long-awaited collaboration between the two "heavy-hitters" [if one may call them that] of the ambient world. For this writeup, I will omit the introductions to the composers, as I believe it's safe for me to assume that you already appreciate all of their works. So let's get right into the album. This beautiful vinyl collects two long-playing tracks: "Mono No Aware", which is a Japanese term, roughly translating to something akin to empathy towards the impermanence of all things; and "Selva Oscura", which in turns translates to a "Twilight Forest", drawing its roots from "Dante's Inferno" and referring to "*those who find themselves on the unfamiliar path and more explicitly the nature of losing one's way in place and time.*" So, there you have it - the titles setting the stage for what's about to unfurl. And unfold it does. The sounds emanating from my speakers fill the room with a dense atmosphere of an aural ephemera, slowly fluttering the mist from the incense, which rises and floats on the waves of the vapour. It fills every crevice across an entire frequency spectrum, vibrating each atom in solids and gas. These reverberations then displace the pressure and enter my cells where they turn to ideas and lastly become all as one with myself. These nostalgic textures are mild in timbre - not overly dark and not narrowly thin - instead, they mould into shapes that adapt to each setting, like deep inner silence, like trembling calm. "*Each of the extended pieces on this record maps an acoustic topography that draws on the concept of drifting into the strange familiar. The works each dwell in an ever-shifting, yet a fundamentally constant state of unfolding.*" An intricate meditation on space and time which is essential for any serious listener.
+
+# Grzegorz Bojanek | Opollo
+
+## Heatwaves
+
+*Heatwaves* is only a 5-track EP, but during its short run-time of unfolding dense throbbing soundscapes, it manages to capture my notice for more than one play. The record collects compositions "*inspired by natural forces, seasonal weather, and the human condition.*" recorded by the duo from their respective varied locations in a collaboration that shares a summer's heat. During some beautifully stifling solid drone walls of sound, as witnessed on "No Clouds Outside", the slight glimpse of a melody breaks through the draught, sharing an atmosphere of encompassing calm. Similarly, on "Stagnation", the listener is faced with the crinkle aesthetic of lo-fi, as if the dry branches of trees are all ready to be set aflame in the heat, or perhaps it is the sound of a cassette tape slowly melting away in the seat of your old car. Whatever the images this scorching ambient palette triggers in your mind, it is safe to conclude that they are full of emotion - and that is all that we ask of in music that makes us connect. **Grzegorz Bojanek**'s previous favourite piece, [*Stories Of An Old Man*](../2017/31957-grzegorz-bojanek-stories-of-an-old-man.md) (2017), is still reappearing on my monthly rotations, while works by **Jarek Leskiewicz**, recording under his **Opollo** alias, are new to my ears, and I may just have to dig back through his catalogue on the wonderfully named **We Are All Pacinos Records**.
+
+# Porya Hatami | Aaron Martin | Roberto Attanasio
+
+## Sallaw
+
+A short (36-minute) ambient exploration arrives at my doorstep courtesy of **Dmitry Taldykin**'s Moscow-based **Dronarivm** imprint, which I have recently celebrated with a label showcase of the upcoming releases on Headphone Commute podcast. This is yet another beautiful example of a collaborative composition, where some of my favourite artists come together to create a gorgeous amalgamation of textures that neither one of them could construct on their own. Thus, here we have a vista of majestic atmospheres courtesy of the Iranian sound artist, **Porya Hatami**; the cello treatments from the one and only Kansas-based **Aaron Martin**; and the piano echoes from the Italian **Roberto Attanasio**. The name of the album is a Kurdish word that expresses the passing of time through the four different seasons (each piece is titled after one), and the unhurried splendour of the sonics carefully cradles each moment in time. And as my good friend **Brian Housman** of *Stationary Travels* has already pointed out: "*each leaves ample space for one another’s most nuanced expressions while not a single note ever feels the least bit contrived.*" A perfect example of this is on my favourite track, "Gelarêzan". An intricate gem of a modern classical ambience to which I have returned over and over again, and I hope that you will too.

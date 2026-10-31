@@ -1,0 +1,30 @@
+---
+id: 22114
+title: "Interview with Frank Bretschneider"
+date: "2013-08-21T06:05:47-05:00"
+category: ["Artist Interviews"]
+---
+
+***Hi Frank. What's been going on in your daily routine life besides making music?***\
+Part of my daily routine I spend with the usual office work, maintaining social and business contacts, answering emails, having appointments. Or I'm busy with developing the graphics for my live visuals. Apart from that I like to read, also I have a large music collection and need always some time to keep it up to date. Otherwise I like to go out, visiting galleries, art exhibitions, concerts, meeting friends.
+
+***Super.Trigger is a very rhythmic album. Can you please comment on the aesthetic and concept behind the music?***\
+After the more experimental stuff I've done over the past few years, with EXP in 2011 and KIPPSCHWINGUNGEN last year, I really wanted to do something more rhythmic again, kind of extension what I did in 2007 with RHYTHM. I wanted to have something what is fun to play, something simple and groovey. I love to listen to black music: funk, r&b, jazz, dub, hip hop... it's a certain feeling for rhythm. I really admire all of these great musicians and bands, the moments they're getting tight when they play together and interacting with each other, when music speaks for itself and reaches a certain amount of »soul« or »deepness«. On the other hand I'm this kind of German intellectual middle class guy, probably a bit over-educated from listening experimental, highly abstract »avantgarde« music. So I try to bring together both worlds: my love for rhythm, the joy of listening to urban contemporary music and my desire to explore and experiment and to see what I can do with computer generated music.
+
+***You've seemed to concentrate a lot more on the actual groove this time, with some rhythms even approaching "funk". What was the particular mix of organic vs. synthetic that you tried to maintain within this work?***\
+For me working with rhythm is always a bit a strain. I mean its pretty easy nowadays to construct an even more complex rhythm track with the help of computer/machines. But to reach a real organic feel is quite a challenge for me. And I like to struggle with the material till it fits 100% my imagination. I try to keep a balance between abstractness and a certain kind of accessibility, try to keep it organic with computed methods; for example programming a familiar hip-hop groove with using just abstract, high artificial noises. So it sounds familiar but still strange and exceptional. I think its pretty much OK to use a cliché, but also to break it and turn it into something unexpected. I think it leaves a bit more room for imagination.
+
+***The samples seem to be all sliced and chopped up, but I have a feeling that they had some past 'recycled' origin. If it's not a secret, can you describe the process of production and sound source?***\
+Yeah, there are some samples. Probably most prominent with »Overload« which is partly made from samples of an unreleased track of my former band AG.Geige. »Pinkthrill« contains a few samples from a jingle I made a couple of years ago for Spanish web radio station »Sub-zero«. Also I use a few sounds from the Elektron library: the synth sound in »Flickerfunk« and the bass line in »Meanstreak« for example. There are some found sounds too, like the 1975 interval signal of Norddeutscher Rundfunk (North German broadcast), what serves as a kind of melody in »Daydream«. Or the noise pad in »Blackout« what is actually a heavy amplified tape noise from an analogue VHS video tape. Usually I start a new track with running through my archive of unfinished stuff and ideas. Putting together phrases, loops, samples and see what fits together, changing speed and tuning, programming additional sounds and so generating some first sketches. After collecting a certain amount I choose what sounds promising and start with arrangements, cutting and altering loops, changing sounds again, adding some effects, eq-ing etc. Most often I leave the material then for a while, to get a bit a distance again. Later on I listen again, take what sounds best and transfer the songs to Logic for final arrangements, fine tuning and spices.
+
+***Where do you draw your motivation from and what are some of your inspirations?***\
+In a wider range the circumstances of life, things I experienced recently or long time ago, the environment, the weather and daytime (making music at night changes the sound significant). Science is an inspiration as well, astronomy, psychoacoustics, optics. Or things I found by chance, like recently a collection of interval signals and signature tunes from radio stations. I thought I want to make a whole album just using these sounds. Music of course is a major influence, all kinds: jazz, rock, electronic, contemporary. I regularly go to concerts and listen to music I get from friends, colleagues, etc. Same important is art, architecture and literature, reading, visiting museums and galleries,.
+
+***Tell us about some of the upcoming exciting developments for Raster-Noton.***\
+At the moment I look pretty much forward to play at Electric Campfire, our annual raster-noton party in Rome. The next couple of weeks I'm busy with co-production (with Robert Lippok) for a new album by Japanese artist Kyoka. It will be her first full-length album for raster-noton after the EP »iSH« last year. Otherwise I'm about to work on music for a next album, basically similar to SUPER.TRIGGER, maybe not that intense in terms of rhythm, but more focused to explore the possibilities of distortion, probably a bit more »psychedelic«. And recently, when I run-through my archive, I found some unreleased material, outtakes and various compilation contributions from the past. Lots of stuff and maybe worth to collect for a compilation album.
+
+Be sure to check out review of [***Super.Trigger***](22003-raster-noton-special-frank-bretschneider-kyoka-pixel-and.md)
+
+[frankbretschneider.de](http://www.frankbretschneider.de/)
+
+Photography by Arne Reinhardt.

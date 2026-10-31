@@ -1,0 +1,66 @@
+# Headphone Commute text archive: static website.
+# Build with tools/build_site.sh (Hugo, then Pagefind for search).
+# The canonical Markdown in ../archive and ../pages and the catalogue in
+# ../data are mounted read-only; nothing here modifies them.
+
+baseURL = "/"
+title = "Headphone Commute Archive"
+languageCode = "en"
+
+# Every link is written relative to the page and every page is a plain
+# .html file, so the site works at a domain root, under a subpath such as
+# GitHub Pages, on any mirror, or opened straight from a downloaded copy.
+relativeURLs = true
+uglyURLs = true
+
+disableKinds = ["RSS", "sitemap", "robotsTXT"]
+enableGitInfo = false
+summaryLength = 40
+
+[params]
+  description = "A permanent, text-only archive of Headphone Commute, an independent music publication writing about electronic, ambient, modern classical and experimental music since 2007."
+  repoURL = "https://github.com/headphonecommute/headphone-commute-archive"
+  repoBranch = "main"
+  downloadURL = "https://github.com/headphonecommute/headphone-commute-archive/releases/latest"
+
+[taxonomies]
+  category = "category"
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "../archive"
+    target = "content/archive"
+  [[module.mounts]]
+    source = "../pages"
+    target = "content/pages"
+  [[module.mounts]]
+    source = "../data"
+    target = "data"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      # The archived text is shown exactly as written: no smart quotes,
+      # no automatic links.
+      linkify = false
+      strikethrough = true
+      table = true
+      footnote = false
+      definitionList = false
+      [markup.goldmark.extensions.typographer]
+        disable = true
+    [markup.goldmark.renderer]
+      unsafe = false
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+
+[outputs]
+  home = ["html"]
+  section = ["html"]
+  taxonomy = ["html"]
+  term = ["html"]
+  page = ["html"]

@@ -1,0 +1,14 @@
+---
+id: 38590
+title: "Kuba Kapsa - Supersonic Moth"
+date: "2019-05-30T05:09:48+00:00"
+category: ["Albums"]
+---
+
+Here's a surprising entry in the ever-growing **Denovali** catalogue. I say, "surprising", because, well, I've tuned my ear to the wonderous and moody darkness of explosive storms coming from this German label (with the exception of a few lighthearted delights, which I'm sure Timo and Thomas can rush to correct me on), yet here we are, with a delight nevertheless, courtesy of a Polish pianist and film composer, **Jakub Kapsa**. I love the twilight of the imprint, from **Dictaphone** to **Blackfilm**, from **Birds of Passage** to **Subheim**. And I love how the label maintains its aesthetic in sound while incorporating various genres, from ambient to electronica to post-rock and to jazz. And now, I'm happy to add Kuba to my list!
+
+*Supersonic Moth* is a solo-piano album, with cinematic treatments and wide sprawling soundscapes across its introspective scenes. It's a beautiful traversal across all of my favourite elements of the evolving modern classical genre, with each contributor expanding its horizons even more. No longer simply felted keys (although, there's nothing wrong with that, I tell you - no meme will turn that wrong!), no longer vast reverberations, and barely audible delays. On the album, Kapsa weaves a storyline that's rich in tone and texture. *"Some titles refer to the final poem at the end of the album about a moth which ends up dead, flying towards the light."* There is a melancholy flutter of the sonics (like on a gorgeous piece named "Exciting The Last Flight") paired with some pretty field recordings (who can resist the combined sounds of the rain pouring at a train station?), and absolutely gorgeous sullen melodies (ala **Deaf Center**) on my favourite track from the album, titled "Swarm".
+
+> 'Supersonic Moth' is the musical realization of a specific trait in human existence, dealing with the disruptive contradiction of desiring something that might break one down or even kill. Everything that might be tempting. Everything that can push you down. And you know it. But you can't resist it.
+
+*Supersonic Moth* is pretty different from Kuba's past releases, like the 2016 release on Denovali titled *Vantdraught* *4* (a followup to a predecessor a year prior), which is a lot more experimental, eclectic, and jazzy. The other contrast is that this is Kapsa's meditative solo work, versus his **Kuba Kapsa Ensemble** project, in which, perhaps, he has a moment to reflect on "everything that might be tempting" and the condition of a human mind to fight the urge to flock into the fire. Perhaps we won't resist at all... Perhaps we simply will accept, embrace, and burn, like those who've turned before us into ash... Highly recommended for fans cinematic classical music [let's make that a new genre, shall we?].

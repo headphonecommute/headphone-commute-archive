@@ -1,0 +1,12 @@
+---
+id: 1328
+title: "Giuseppe Ielasi - Aix"
+date: "2009-05-10T09:33:01-05:00"
+category: ["Albums"]
+---
+
+A few steps in an empty gym, an organ chord, some pouring water, and we're off... *Aix* is a slight departure from the Italian artist's, **Giuseppe Ielasi**, previous release on **12k**, *August*. The latter is a work of restraint ambiance with electronically treated acoustic instrumentation, which was a perfect fit for **Taylor Deupree**'s minimal label. While the former album, the one we're concerned with in this review, produced in Aix-En-Provence (a city in southern France), is a juxtaposition of found confetti of sound, glitched trite and stitched tight into rhythmical structures and repetitive patterns. Like a winter coat glued and sewn together from ripped pieces of fabric, the sporadic collection of sounds seems obscure, that is until you get closer, and you realise that it's warm and fuzzy, even if the colours don't match.
+
+The selection of tracks on this "grid" album are groovy, funky and jazzy, drawing an imagery of street performers playing on buckets, rubber bands, zippers, aerosol cans and an array of homemade percussion. In fact, this album strangely reminds me of a recent internet video I saw, *Music For One Apartment and Six Drummers*. Yet this concoction of dusty sounds does not feel muddy or loose. In fact, it is light and bouncy, leaving plenty of room for each sound to evolve and breathe in its own sound spectrum. **Ielasi** becomes a master chef, walking into your abandoned kitchen and while opening a rusty refrigerator door, mumbling to himself, "Now what do we have here?" While folding the samples of micro textures and handfuls of semi-random rhythm into a boiling pot of bouncing echoes and stirred grooves, **Ielasi** delivers an exquisite course of contemporary musique concrète, best served warm, while the melody's still lingering...
+
+Overall, this is an interesting sidestep for **Ielasi** and **12k** as well. Don't expect the warm **Fennesz** like layers and washes reminiscent of *August*. Enter with an open mind, and *Aix* will surely leave an imprint and beg you to return again. Besides releasing albums on **12k**, **Sedimental**, and **Häpna**, **Ielasi** is also a founder of **Fringes Recordings** [now defunct] and a co-founder of **Schoolmap Records**. Be sure to pick up his one-track 30-minute masterpiece, *Plans* (Sedimental, 2003), as well as the above-mentioned *August* (12k, 2007).

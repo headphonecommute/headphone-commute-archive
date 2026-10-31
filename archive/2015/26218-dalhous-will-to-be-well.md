@@ -1,0 +1,18 @@
+---
+id: 26218
+title: "Dalhous - Will To Be Well"
+date: "2015-02-11T06:30:24-05:00"
+category: ["Albums"]
+---
+
+If you've been paying attention, another amazing record that was selected for Headphone Commute's Best of 2014 list, Music For Capricious Souls Adrift In Noir-fi, and a double entry from **Blackest Ever Black** label (the other on the list was recently reviewed **Black Rain**'s Dark Pool), was this second full length release, written and produced by Marc Dall as **Dalhous**, titled Will To Be Well. I'm only asking if you've been paying attention because, whenever two albums from one label show up on one list, as is the case here, it kind of means something very special for me, as if two parts of an ingredient, the root and the leaf, are thrown into a cauldron, to simmer and steep, in one wicked brew. These parts may be variant (and some may be toxic, like the fruit of a flowering potato plant), but knowing that each was birthed within the same family, makes one appreciate the essence that much more. But I digress…
+
+Will To Be Well is a noir-fi, lo-fi, mind-fi, swirling in the perimeters of slowly awakening mind, dusty with old synths, warble and hiss. Surprisingly [for the label's beloved output], the album is not entirely a dark affair, and many pieces feature nearly major chords, still drowned in post-everything pre-nothing genreless approach. The album's elusive stylistic manner is exactly what makes the neurons work at disentangling its deeper secrets, peeling apart the layers of the message buried within. The sample-based approach of looped phrases echoes the psychedelic dystopia of some future sound of London, Tokyo or Berlin (no doubt influenced, as we all were, by FSOL in early 90s). But **Dalhous** also offers up a concept, a storyline behind a veil, influenced by writings of R. D. Laing, a Scottish psychiatrist, focusing on the experience of psychosis as it pertains to an experience of life. An aural existentialism, if you will, perceived through a kaleidoscope of sound.
+
+> Distress is a condition not of the body or the brain, but of the mind or self or soul – the thinking and feeling essence of the human being. But we have been tending to deny the existence of this 'self' as an independent, decision-making entity with a nature of its own. We have been denying our own humanity, and identifying ourselves merely with body and brain as rather clever but essentially reactive machines.
+
+Although the words like 'distress', 'anxiety', and 'anguish' do not properly describe the emotive response to Will To Be Well, the music nevertheless explores Laing's anti-psychiatry movement, of "dangerously seductive theories and conjectures that exist in the space between science and mysticism, experiment and ritual, knowledge and intuition." In addition, one would rather feel prosaic at consumption thereof, as if the Will To Be Well is the answer to those aching universal questions, itself just being murky, tranquil and serene. Even on the edge of the "Abyssal Plane", one feels to be accepting of this thing in life that we call 'fate', or rather be in peace with the experience of our perception, not focusing on deconstruction, logic, and the predetermined course.
+
+For more from **Dalhous**, check out the 2013 **Blackest Ever Black** release, An Ambassador For Laing, which, as you can tell from the title, is the precursor to this theme, its cover featuring the remains of the last line from Laing's The Politics of Experience : "If I could turn you on, if I could drive you out of your wretched mind, if I could tell you, I would let you know". Also, BEB just released a 100-press limited edition cassette of **Dalhous**' Demos 2009-13 [sorry, already sold out].
+
+Words by **HC**

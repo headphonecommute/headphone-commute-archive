@@ -1,0 +1,19 @@
+---
+id: 25935
+title: "A Winged Victory For The Sullen - ATOMOS"
+date: "2014-12-15T07:01:46-05:00"
+category: ["Albums"]
+---
+
+The second full-length album from **A Winged Victory For The Sullen** (let's just call them **AWVFTS** from now on), a follow-up to their 2011's self-titled debut, was an eagerly anticipated event. The release of the preceding 12" EP last April (featuring *Atomos VII* with an additional remix version by **Ben Frost**) was just an appetiser for the October release of the full *ATOMOS* album, coinciding with their tour around Europe, Australia and the US. AWFTS is often referred to as a duo consisting of **Adam Wiltzie** (core member of the legendary **Stars of the Lid** – guess there's no further introduction needed) and pianist/composer **Dustin O'Halloran**. But AWFTS would not be complete without the (now 7-member) string section and the additional modular synth sounds created by **Francesco Donadello**. Together they present a full orchestral sound with a fascinating balance of string arrangements, melancholic piano melodies and (somewhat unsettling) synth inlays.
+
+Composing for *ATOMOS* started when *Random Dance Company*'s choreographer **Wayne McGregor** asked Adam and Dustin to write the score for his new dance production. They got the full carte blanche for their compositions, which also brought them the freedom to let it grow into a full album release. While the compositions are more dynamic in nature than the "tired sounds" of the Stars of the Lid, the -s-l-o-w- music of *ATOMOS* still seems to be a bold choice for a dance production soundtrack – but probably that's the exact reason McGregor chose them. Whether the sounds match the dancers moves is something I better leave to be judged to experts of modern dance (and to those that have witnessed a Random Dance Company performance). But as a separate audio-only release, the album loses none of its imaginative power.
+
+> McGregor used the debut album as the warm-up music during practice sessions for Random, and after noticing the group's reaction with the music, he contacted Adam and Dustin to see if they would write the score for his new work. McGregor provided [AWFTS] with the inspiration to expand their sound palette into more electronic territory, whilst keeping their signature chamber sound, resulting in a very unique release.
+
+Opening with a sequence quoting from **Philip Glass**' compositional techniques, AWFTS soon leaves the trodden paths to create their own unique blend of surprises – combining the smooth strings with unusual electronics (and some haunting sub-low synths). On a superficial listening this album leaves a somewhat superficial impression. But it isn't: on closer listening, you'll hear all the subtle details. Listen, for example, to the sound manipulation of the piano note overtones in the opening of 'Atomos III'. For 'post-classical' soundtrack music, there's always a risk of drifting into one-dimensional, somewhat melodramatic arrangements. But AWVFTS miraculously avoid these pitfalls and create a 62 minute symphony displaying their firm grip on this musical idiom.
+
+Strangely enough, there's no number IV among the twelve parts of *ATOMOS*. This question is even posed on the album cover notes: "*Whatever happened to IV?*" My guess is that the nature of this part was probably too different from the others so including it on the album would break the spell. But we'll probably find out about this in the future when the missing track will find its way out. As it always does. Shortly after the release, the album charted up the UK Record Store album chart – which is a remarkable feat for any 'indie ambient soundtrack' album. This may prove to be the Winged Victory of the Ambient String Superstars ! (No acronyms here, please)
+
+Words by Peter van Cooten of **Ambient Blog**.\
+Additional editorial by **HC**

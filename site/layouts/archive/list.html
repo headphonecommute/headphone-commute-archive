@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{- $all := partial "articles.html" . }}
+<h1>All articles</h1>
+<p class="page-intro">Every archived article, newest first: {{ len $all | lang.FormatNumber 0 }} pieces from {{ (index $all (sub (len $all) 1)).Date.Year }} to {{ (index $all 0).Date.Year }}.</p>
+{{- range $all.GroupByDate "2006" }}
+<h2 class="year-head" id="y{{ .Key }}"><a href="{{ printf "years/%s.html" .Key | relURL }}">{{ .Key }}</a> <small>{{ len .Pages }} articles</small></h2>
+{{ partial "listing.html" .Pages }}
+{{- end }}
+{{ end }}

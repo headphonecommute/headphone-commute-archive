@@ -1,0 +1,14 @@
+---
+id: 16149
+title: "Widesky - Within That Aura"
+date: "2012-04-04T05:57:34-05:00"
+category: ["Albums"]
+---
+
+Purveyors of ambient music must have an eclectic taste. What does one seek among the minimal drones? Is it the calm that washes over the soul like a warm summer breeze? Is it the minuscule nuances in texture, like the slight hints of tannin in a perfectly aged wine? Or is it just the attributes of sound that land on your ear like a beautiful sight for a sore reddened eye? Whatever your reasons might be, deep in your heart you know that there's peculiar something about ambient music, that although has been classified numerous times, can never be hampered. I was thinking about all of this, as I was getting ready to listen to **Widesky**, preparing myself for that something that I cannot point out. In fact, each and every new album I unwrap reminds me of a newly uncorked wine. You think you know the taste, yet each flavour is unequally unique. And always delicious.
+
+The ambiance of **Seth Chrisman** is no exception. Although I can eventually deconstruct the sonic treatments of appearing instruments into sounds from guitars, chord organ, and perhaps a hint of piano, it is the final product that rejects all deconstruction. Soaring along the higher registers of the frequency spectrum, the string chords land into a major harmony evoking the feelings of mental analgesia and ultimately well-being. The sounds twinkle in the stereo field like wind chimes before the summer storm, but the tempest never comes. Instead all is left to remain, free of fear and non-acceptance of what is. And when the dust settles we are left alone… face-to-face with simple facts…
+
+Somehow Chrisman understands this, beckoning the listener to concentrate and focus on the evolving sound, inevitably bringing him into the present where nothing is skewed through the past. The drones on *Within That Aura* are neither passive nor invasive, and the envelopes of building amplitude are perfectly sculpted to draw in the mind, eventually forcing to let go of all thought. This incredibly technique works better than medicine after a long nerve-wrecking day. Paired with a half-hour meditation (or that same glass of wine), the five tracks on the album can guide one to another state of consciousness; in some cases higher, in some beneath the one.
+
+Chrisman is a New Mexico (USA) based experimental sound artist with a few releases on **Pocket Fields, Rural Colours,** and **Audio Gourmet Netlabel**. His appearance on **Futuresequence**'s *Sequence2* compilation series attracted attention and landed him a spot on the label's roster for his second full length release. I'm excited to watch this new artist evolve and will surely keep my eye open for his future releases. Until then, be sure to check out his 2011 debut, *All Shimmers Here*. Now I must get back to my bliss…

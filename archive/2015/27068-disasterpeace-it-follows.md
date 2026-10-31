@@ -1,0 +1,18 @@
+---
+id: 27068
+title: "Disasterpeace - It Follows"
+date: "2015-05-13T05:40:22-05:00"
+category: ["Albums"]
+---
+
+### *Don’t be afraid to do weird, unorthodox things.*
+
+I first saw a preview for **David Robert Mitchell**'s *It Follows* prior to watching *The Imitation Game* at one of my all-time favourite independent theatres in New York City, **Angelika Film Center**. Beyond the typical formula of a horror flick, the snippet promised tension, worry of the unknown, and unease. The images, accompanied by a similarly themed soundtrack, immediately piqued my interest, and even after a short glimpse of the film [which, for transparency, as of this review I still have not seen], I already felt moved. The latter part I have attributed to the score, which, upon arriving back in my studio I looked up, only to discover that it would be released on **Milan**, home to many of my favourite soundtracks, including *Under The Skin* by **Mica Levi**, *The Company You Keep* by **Cliff Martinez**, *Stoker* by **Clint Mansell**, *Breathe In* by **Dustin O’Halloran**, *Le Congres* by **Max Richter**, and oh, so many others!
+
+I also felt that Rich Vreeland’s moniker, **Disasterpeace**, was pretty new to me, but after the obligatory research I found him to be a composer for many computer and video games, such as *Woosh*, *ZONR,* *The Floor is Jelly*, FAMAZE, and *FEZ*. Wait a minute… FEZ? Wasn’t that the game that I absolutely fell in love with back in 2012 for its originality, and, not the least of which, its music? Sure enough, this Berkeley (California, USA) based composer, has been producing retroesque music since 2005. Elements of Vreeland’s beloved chip tunes, with their hard-panned 8-bit samples, carry through *It Follows* soundtrack, the harrowing side of which breaks down its beauty into bit-crushed deconstructionism, raw and saw-toothed.
+
+> I wasn’t thinking about video games when scoring the film. I rarely think about that. Games and their music are just an undeniable influence that I wear on my sleeve. I think that that relationship comes out in a subconscious way […] We wanted the music to play an active role, as if it was a character. The music demands the attention of the audience in scarier moments. In calmer scenes, I think it helps engage the moviegoer by adding emotional weight.
+
+Darker pieces, such as the album’s centrepiece, “Doppel”, slowly swell and envelop you in their entirety, until the black fog breathes down your throat with its distortion, growing in intensity, pressure and force. The latter, is notably not only accomplished with dynamics and full throttled volume, but rather with a balance of discord, harmonic agitation, and a heart pounding thump. Steering away from Vreeland’s off-hand musings on his first attempt at horror film production, it is impeccably clear that he knew exactly what he was trying to achieve. This I attempt to proclaim with praise, for it takes one ability to have a clear vision about a project, and yet another to see it through to execution, with such conviction and success.
+
+Horror film soundtracks [and well, all film scores, for that matter] have a very peculiar audience and following. Who, in their right mind, would want to sit in a dark room, blasting such sonic panic in their headphones, in the middle of the night? (me, Me ME!!!) What I especially enjoy about such experience is its inevitable translation from one sense to another: hearing to feeling. And if my palms start to sweat, as I finish off the last paragraph of this review, well, it’s not because of the temperature in my studio – something is definitely hanging around this room!

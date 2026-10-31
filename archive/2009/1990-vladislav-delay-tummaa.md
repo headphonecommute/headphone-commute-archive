@@ -1,0 +1,16 @@
+---
+id: 1990
+title: "Vladislav Delay - Tummaa"
+date: "2009-10-21T19:03:32-05:00"
+category: ["Albums"]
+---
+
+Listening to *Tummaa* requires preparation. At least, it requires knowledge of the intent behind this album. Let me set the stage. The intent is 'darkness'. And this is its music. *Tummaa* reflects the mood recreated by **Sasu Ripatti**, composing under the moniker **Vladislav Delay**, while living on a remote island in the Baltic Sea during the time of year known as 'kaamos' (polar night). This is precisely the time from December to February, where there is only a few hours of light per day. This overall feeling of darkness made an enormous impression on Ripatti. The track titles alone construct the following message: *Kuula (Kiitos)* means *Bullet (Thank You);* *Mustelmia* means *Bruises*; *Musta Planeetta* - *Black Planet*; *Toive* - *Wish*; and finally *Tunnelivisio* (ok, can you guess that one?) - *Tunnel Vision*.
+
+**Ripatti** last made a sizable impression on me with his previous album, *Whistleblower*, released on his own label, **Huume**, in 2007. Now, back in Finland after seven years of living in Berlin, Ripatti returns with a few elements from his roots as a percussionist. The album may take more than a few listens for the followers of Vladislav Delay's to get into the groove. There is no dub on here. Instead, gentle piano riffs and Rhodes licks are interrupted with clicks, chirps and musique concrète snippets of sounds snatched from a variety of metallic and industrial sources. Even a deep rumbling sigh becomes a bass here. This is Ripatti's return to the source of acoustic and organic.
+
+> I wanted to take a new direction with Vladislav Delay, with more acoustic sound sources,” he explains. “I avoided as much electronics as possible, wanting to bring myself closer to my background as a drummer and percussionist. […] I just love hitting things… making sounds physically without needing a power plug.
+
+The album incorporates some abstract and jazzy improvisation featuring a live trio - **Lucio Capece** on saxophone and clarinet, **Craig Armstrong** on the keys, and Ripatti on percussion. After intensive sample manipulation, some modulations remind me of descending spaceships from the 70s. Some sound a lot like circuit bending emissions. Some sounds are like nothing I've ever heard before (from an organic source). All of this is blended with the swirls of abstract effects, sporadic glitches and scattered ambiance, floating in a three-dimensional stereo field. Through this dark and sombre concoction, full of dread and isolation, we descend into *Tummaa*.
+
+I can imagine the overall recording to be a flashback to a bad psychedelic trip. At times groovy, hypnotic, and rough around the edges. The entire experience will keep your ears prickled up, and your eyes wide open. A serious juxtaposition of sounds even for a seasoned listener. Be sure to check out Ripatti's percussion work as a member of **Moritz Von Oswald Trio** (with Max Loderbauer and of course, Morritz von Oswald) on their latest release, *Vertical Ascent* (**Honest Jon's Records**, 2009), as well as his other works under aliases like **Conoco, Luomo, Sistol,** and **Uusitalo**. Oh, and don't forget his collaboration with **Antye Greie** as **AGF/Delay** and their 2009 release, *Symptoms* out on **BPitch Control**.

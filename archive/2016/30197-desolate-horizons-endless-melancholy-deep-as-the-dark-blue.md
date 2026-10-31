@@ -1,0 +1,18 @@
+---
+id: 30197
+title: "Desolate Horizons / Endless Melancholy - Deep As The Dark Blue Sea"
+date: "2016-08-11T05:17:37-05:00"
+category: ["Albums"]
+---
+
+I’ve had more than a few stressful moments in the last couple of weeks. Nothing too serious, mind you, mostly work-related arguments, pointless conversations and imaginary nonsense – things that I’ll find to be silly in just a few months, or not worthy enough to even remember. But during those bouts of stress (and even occasional anger) everything I feel seems to be very real, and the mental transcends into physical, causing discomfort, malaise and pain. Knowing how to acknowledge and embrace that emotion is just the first step in letting it all subside. Sometimes you need other tools to remind or distract you. Music, of course, is a great way to counteract (or amplify) a particular feeling. And in these last few weeks, I’ve turned to music to refocus my state.
+
+The sounds of the *Deep As The Dark Blue Sea* come on exactly the way that I need them. Slow washes of distant white noise, sounds of water and the crashing waves, long stretches of soaring guitar drone… The harmonic texture of these endless pads is mostly in major chord, smoothing out the rough edges of agitation with calmness, elation and joy. Notes of euphoria lift up the spirit with the ebb and flow of the sound, carrying forward the boundless cycle of life. Soon, everything blends into one sonic surface, seeping into the deep crevices of my flustered mind to bring it to comfort, content and peace. Everything will pass… Everything will pass – even this… even this…
+
+> Everything disappears and nothing remains but the sea, before me, upon me. A revelation. The pall of anguish and fear that has gripped my soul fades away, the web of infamy, cruelty, and horror that has ravished my eyes falls apart, the shadow of death that has devoured my mind dissolves, and in the sudden light of an unexpected clarity I finally see, and hear, and understand… -Alessandro Baricco, 'Ocean Sea'
+
+At first, this album appears to be a collaboration between two artists separated by distance, **Desolate Horizons** and **Endless Melancholy** (their names, already, suggesting more than just a feeling transmitted within). But the release is actually a split, with five pieces from each project. Endless Melancholy is Oleksiy Sakevych, hailing from Kiev, Ukraine, previously appearing on these pages via Reader’s Poll for best of 2015 music, with *Her Name In A Language Of Stars*, released on **Hidden Vibes**. Sakevych’s ambient drones first appeared on **Preserved Sound** back in 2012, and he has recently released a digital album, *A Quiet Recollection*, on **1631 Recordings**. Desolate Horizons, on the other hand, is an anonymous artist from Russia, Kazan, also appearing on Hidden Vibes with his debut, *We’ll Never Fade Away* back in 2015. This anonymity is admirable, but makes it a bit difficult for me to tell you a bit more about the project. Both artists draw inspiration from the above quote by Baricco to construct an album full of ambient textures, shoegaze and drone.
+
+Perhaps I should be thinking of the sea during my introspective moments with music as the aid, meditating on its vast and tranquil essence, washing away all of which is brief. “*There is no raft, there are no men, there are no words, feelings, gestures, nothing. There are no guilty and no innocent, condemned and saved. There is only the sea. All things have become the sea.*” And whether those images, evoked by the sound of the waves, finally come to cradle my mind into submission, the result is the same. I am finally present. I am finally here. Thank you…
+
+Words by **HC**

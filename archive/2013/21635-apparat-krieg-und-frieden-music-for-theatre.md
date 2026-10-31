@@ -1,0 +1,18 @@
+---
+id: 21635
+title: "Apparat - Krieg und Frieden (Music for Theatre)"
+date: "2013-07-12T05:48:40-05:00"
+category: ["Albums"]
+---
+
+Let’s start off by saying that this latest release by **Apparat** was totally unexpected. I’ve been a fan of **Sascha Ring**‘s output since his early-2000 albums on **Shitkatapult**, a Berlin based label that Ring co-runs with **Marco Haas** tagged as “*special musick for special people*.” But it was his 2007 album, titled *Walls*, which really captured my attention. I also really enjoyed his collaboration with **Ellen Allien** on *Orchestra Of Bubbles* released on Allien’s own **BPitch Control**. If you haven’t heard the above, I highly recommend both. I was also honestly impressed with Ring’s selection of tracks for the *DJ-Kicks* mix he put together for **Studio !K7**. I suppose it was in the latter where I first glimpsed his interest in ambient and experimental sounds [he rounded off the compilation with a track by **Tim Hecker**]. But *Krieg Und Frieden (Music For Theatre)* is something else entirely.
+
+After migrating over to Mute, first with a few singles and then with his 2011 album *The Devil’s Walk*, Apparat began to solidify his presence in the more global EDM scene [someplace where electronic music meets indie-pop and immediately gets noticed by BPitchfork]. This is how he ended up meeting and working with **Sebastian Hartmann**, who asked Ring to work on a soundtrack for a theatre production of Tolstoy’s War and Peace (the title of the album is the German translation of this 1869 novel), which was commissioned by the renowned German arts festival *Ruhrfestspiele* in Recklinghausen. The label press release claims that after spending some time with Tolstoy’s text, Ring worked on the score in an old abandoned factory for four weeks. But whether this imagery is haunting, beautiful or magic is simply irrelevant, because the music certainly is.
+
+The cinematic quality of the soundscapes developed throughout the album approaches some of my all time favourite compositions and scores by the likes of **Clint Mansell**, **Max Richter** and **Jóhann Jóhannsson**. Yes, the music is potentially even modern classical in nature, but not because the artist intended it to be so. It is merely an extension of his being while spending some time with the play. With the help of **Philipp Timm** on the cello and **Christoph Hartmann** on the violin [members of Apparat’s live band], the trio returned to the studio to record the final pieces which were later manipulated even further to create one unfolding gorgeous story. And although this work was not originally intended to be archived on an album, I’m glad that Sascha changed his mind and shared with us the love.
+
+> I decided to not go completely crazy about the editing, I didn’t want the music to become demanding. Every record tends to become mere work at some point. Euphoria then turns into the feeling that you are standing in the middle of a huge construction site. I actively wanted to avoid this feeling this.
+>
+> *— Sascha Ring*
+
+It is always a pleasure to find one of your favourite electronic musicians turn to orchestral arrangement, sonic exploration and overall a much grander work in scope. But it is even a higher elated experience to learn that one accomplishes this task with such confidence, elegance and grace. I’ve listened to the album on numerous occasions, and its multiple layers of depth and subtlety continue to enthuse (and that includes the vocal tracks). A dazzling work to which I’ll be sure to return many times again [especially during my Best of the Year contemplations]. Highly recommended – do not let this one pass your ears!

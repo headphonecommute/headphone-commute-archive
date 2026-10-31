@@ -1,0 +1,16 @@
+{{- /* Links between archived articles are stored as relative paths to the
+       other Markdown file; on the website they point to that article's page.
+       Other links are written out exactly as archived (some historical
+       addresses are malformed, so they are not parsed). */ -}}
+{{- $dest := .Destination -}}
+{{- $external := findRE `^[A-Za-z][A-Za-z0-9+.-]*:` $dest 1 -}}
+{{- if and (not $external) (strings.HasSuffix $dest ".md") -}}
+  {{- $target := path.Join .Page.File.Dir $dest | strings.TrimSuffix ".md" -}}
+  {{- with site.GetPage (printf "/%s" $target) -}}
+    {{- $dest = .RelPermalink -}}
+  {{- else -}}
+    {{- errorf "unresolved archive link %q in %s" $dest $.Page.File.Path -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $dest }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $external }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* */ -}}

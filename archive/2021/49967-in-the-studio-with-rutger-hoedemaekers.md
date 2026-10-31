@@ -1,0 +1,43 @@
+---
+id: 49967
+title: "In the studio with Rutger Hoedemaekers"
+date: "2021-03-22T13:17:48+00:00"
+category: ["Studios"]
+---
+
+***Let's start at the very beginning. Can you tell us how you got involved in composing, and what was your very first piece of gear?***\
+I started out with a Commodore Amiga 500 on ProTracker when I was 12, trying to understand the software and building my own tracks, figuring out how to produce full arrangements with only 4 voices; 2 in the left and 2 in the right channel. I became a part of the emerging demo scene, sort of a 'hacker-light' kind of subculture, which would meet at different gatherings all over Europe. They would hold these competitions for coding, graphics and music, and I participated a few times and even won the music category once or twice. It was really fun and an interesting way to be introduced to music production.
+
+***How many different studio iterations have you gone through, and what does your final setup look like right now?***\
+I had home studios for a long time, in the various places I've lived, but when I moved to Berlin in 2007 I started plans with 2 friends to build a proper, bigger studio. We looked at a lot of different locations but one of the guys found a beautiful 345m2 factory floor in Kreuzberg, on Oranienstrasse, which was a theatre workshop at the time. Once it had been rebuilt into 9 separate studios, we went looking for people to share it with. I had recently met Dustin O'Halloran, who at the time was still working out of his Friedrichshain apartment, and he brought in Hildur Gudnadottir and Kira Kira, who were looking to share a room. Eventually, Jóhann Jóhannsson would move to Berlin from Copenhagen and joined us as well, at which point a stronger focus on film music started to develop. A bit later Gunni Tynes from Múm, Yair Elazar Glotman, Sam Slater and the conductor on my current album, Viktor Orri Árnason, moved in too, and we had a lovely little studio community going.
+
+Unfortunately, the lease ran out in 2020, and the owner decided to quadruple our rent, so during an already strange and troubling Covid year, we had to demolish our wonderful haven. Jóhann of course passed in 2018, Dustin moved to Iceland a bit later, and I left Berlin for Brussels in the spring of last year, but the rest of the group was left without a studio. But I'm happy we had that chance, and it was an inspiring and interesting window of time we shared.
+
+Now I'm actually back at home, as it wasn't very easy setting up a new studio in a new country under pretty strong restrictions. I managed to build it into a comfortable little cockpit, though, and I'm surrounded by my instruments and gear. Everything is within reach, which is quite nice for a change!
+
+***What was the most important environmental aspect of your workspace in Berlin?***\
+The studios in Berlin were all built around the edge of the factory floor, so they all had heaps of natural light. I appreciated how wonderful that was. Ultimately I spend such a big part of my life in my studio, so it should really be a nice environment for me to stay sane and healthy.
+
+***In what way did the studio in Berlin influence the process of making your album?***\
+Aside from its inhabitants and the obvious influence we had on each other over the years, there is a larger theme to the album, one of farewell and the end to several journeys. The music was created during and after Jóhann's life, in anticipation of my leaving Berlin after 13 years, and right before the studio demolition, which we felt was inevitable. By finishing this record I was able to have a form of closure on those stories.
+
+***Can you please share some aspects of sound design in your work?***\
+I don't necessarily see a distinction between those two; sound is always a part of music. Recording a classical violin part will sound different with any microphone you choose to use. You could send it to any pre-amp, EQ, compressor or even a distortion unit if you wanted, and all of those choices would be part of the sound, and of the music you've thereby created. Perhaps in film scoring, there is a clearer divide between music and sound design, but I suppose that is more due to the respective origins: the string orchestra versus the room with the gravel and other props. But aside from the movie industry, I think that there hasn't been a distinction between the two in a very long time, and there definitely isn't one in my own work.
+
+***Any particular new techniques that you tried out for your new album?***\
+It was the first time that I worked with an orchestra for my own music. I had previously done string recordings, but always for film projects, so it was very exciting to be able to make all the decisions myself this time, and not having to defer to someone else's vision. Other than that I used my tape machines a lot for creating the different electronic sounds, but really the new techniques this time were the different ways in which I processed the vocals I recorded with Kira Kira and Else Torp (Theatre Of Voices). I pitched and stretched them in ways you usually steer clear of, made them fit the other instruments' rhythmic and melodic patterns, then took them through tape and guitar amps, and back into the computer. In some cases, I even did that a few times. I liked how alien they became, and that they still hold a bit of the autotune-like artefacts.
+
+***What can you tell us about your overall process of composition? How are the ideas born, where do they mature, and when do they finally see the light?***\
+I try not to have one particular way of working. Whenever I create a film score, I like to take time to figure out the specific musical language it needs; which instrumentation, what kind of mood, etc. There's a lot of experimentation and developing of initial ideas involved. I try to do things similarly in my own work, meaning that the next record might well be very different from this one. Ideas can start from a sound, or improvised performance, a little melodic idea. They develop in their own, seemingly separate ways, until I start to see the pattern that connects them, eventually. From that point on I spend most of my time making sure that, together, they form a cohesive story. I still believe in the idea of the album, even though I might be the only one left, but it's just so much fun creating that slow-developing, long storyline. I'm not ready to abandon that, yet.
+
+***After the piece is complete, how do you audition the results? What are your reactions to hearing your music in a different context, setting, or a sound system?***\
+I think I'm generally OK to let them go. By the time I finish an album, like this one, I will have worked on it so extensively, that I don't want to then turn around and question it all over again, even if the mix might not be absolutely perfect. There's always a point where you just have to let it go, and any imperfections left are almost always insignificant in hindsight.
+
+**Tell us about your favourite piece of hardware.**\
+Right now that would be my trusted Tascam Portastudio 424. I've been using it a lot recently, recording my own processed vocals through the computer directly to cassette, and then recording it back into the computer at different speeds. I'm trying to work with improvised performances a bit more, this way, because usually I spend hours and hours tinkering with arrangements or sounds. This is therefore out of my comfort zone, but I'm enjoying working with the limitations that this method provides, as well as those of my voice. It's fun!
+
+***And what about the software that you use for production?***\
+I work primarily in Cubase. Occasionally in Pro Tools or Ableton, if a project needs it. I'm used to processing my sounds mainly in the box, so I have a bunch of the more unpredictable plugins that I often use, like GRM Tools, but I almost always combine it with an analog process, like going through my Tascam or the Telefunken M15a.
+
+***Is there a particular piece of gear that you're just dying to get your hands on and do you think one day you'll have it?***\
+I've quite recently turned a corner and started to consider buying Eurorack. I know I'll get in trouble doing this, and I've already started saying farewell to my bank account, but I'm finally seeing the ways in which it could fit into my workflow. I'm not that interested in owning an overpriced synth, but the idea of having an equally overpriced processing unit is tempting. But I first have to figure out which modules would work for me, find my way around that jungle. It's a longer-term process, I'm guessing.

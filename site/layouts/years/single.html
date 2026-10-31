@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{- $year := .Params.year }}
+{{- $pages := where (partial "articles.html" .) "Date.Year" (int $year) }}
+<p class="eyebrow"><a href="{{ "years.html" | relURL }}">Years</a></p>
+<h1>{{ $year }}</h1>
+<p class="page-intro">{{ len $pages }} articles published in {{ $year }}, newest first.</p>
+{{ partial "listing.html" $pages }}
+{{ end }}

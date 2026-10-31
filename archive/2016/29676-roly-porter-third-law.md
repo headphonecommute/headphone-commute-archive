@@ -1,0 +1,16 @@
+---
+id: 29676
+title: "Roly Porter - Third Law"
+date: "2016-05-11T05:50:38-05:00"
+category: ["Albums"]
+---
+
+For me, **Roly Porter**'s story starts sometime in 2005, when together with Jamie Teasdale, he has released an album titled *Degenerate* on **Planet Mu** as **Vex'd**. Five years and numerous 12" later, the duo followed up with another full length, *Cloud Seed*, which subsequently landed on Headphone Commute's Best of 2010 list. But after the album the two artists happened to go their separate ways. Berlin based Teasdale began pressing solo EPs as **Kuedo**, releasing *Severant* on the very same Planet Mu in 2011, while Bristol based Porter found his solo career expanding with *Aftertime* on **Subtext** records.
+
+While the sound of Vex'd was more of a saw-toothed bass-driven mutant dubstep, growing in popularity among the club goers and home listeners alike, it slowly managed to recede into the background, as those typical cookie-cutter trends tend to end up. There, in that background, is where Porter found solitude, to compose his cinematic, restrained, and utterly beautiful score for the music in his head. In 2013, **Roly Porter** released *Life Cycle of a Massive Star* on the same **Subtext**, which quickly gained critical acclaim, with its intricate sound design, atmospheric tension, and incredible story-telling through sound. The album became one of my favourite records, only to be surpassed now by *Third Law,* a feat not many artists manage to overcome.
+
+> Roly's music isn't about 'day to day' life. Instead it's an opportunity for him to contemplate ideas outside his personal experience which in turn has had a profound impact on how he is able to see his own life and that of others around him. […] While 'Third Law' is related to his past, this album represents a coming to terms with his goal of leaving dance music as it is, free to explore ideas of rhythm, bass and sound design within his own world without having to shape any of these elements to fit preconceived ideas or rules.
+
+From the very beginning, *Third Law* unravels its massive force. Growing with dynamic tautness, the landscape of this futuristic [dare I say] space music is parallel to the other-dimension interplanetary shuttle landing on a hostile celestial body, surrounded by uninhabited environmental texture, luminous aural palette, and sonic dust. Close your eyes and you find yourself floating through a nebula, bombarded by flares carrying ice, fire, and sound, piercing your ear drums with a fabric of organisms, existing only inside **Roly Porter**'s mind. These complex creatures share their narratives with each individual and elaborate piece.
+
+This is headphone music at its best – organic instrumentation like chorus and strings find themselves at home with post-processed synthetic stratosphere, deep endless expanse systems, and dark utter void. This time the album is released on Brooklyn based **Tri Angle** label, home of **Rabit, Lotic, Vessel, Wife, Forest Swords** and **The Haxan Cloak** among the many. Highly recommended for fans of cinematic music, such as *Gravity* by **Steven Price**, *Under The Skin* by **Mica Levi**, *Oblivion* by **M83**, and *Prometheus* by **Marc Streitenfeld**. And at the end, who needs a movie, when there's always one behind your lids.

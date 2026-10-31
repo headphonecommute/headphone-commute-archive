@@ -1,0 +1,16 @@
+---
+id: 1453
+title: "Hecq - Steeltongued"
+date: "2009-05-30T15:05:17-05:00"
+category: ["Albums"]
+---
+
+**Hecq**... Have you heard? If you haven't, it's time to jump on board. And by the way, you're missing out! After all, this is Hecq's sixth full-length release (fifth on **Hymen Records**). Dare I say it the following way: with *Steeltongued*, Hecq surpasses the leaders in electronic experimentation, **Autechre**, leaving them in the dust to scratch their heads in awe of this twenty-seven-year-old Berlin-based musician. Like a villain of traumatised sonic disintegration, Ben Lukas Boysen unwinds the tight coils of sound into distinct entities of material forms and packs them away into carefully allotted spatial frequency shelves.
+
+I did not bring up Autechre for mere name dropping. I clearly remember the very first time I heard the decomposition of sound in Booth & Brown's track *Vose In* on *LP5* (Warp, 1998). I will never forget. Not one release in the last decade has stopped my breath with the penetrating thought of "*what the hell was that?*". In the last years, steps have been taken to evolve the sound and build upon the solid foundation, with only Autechre occasionally in the lead, piercing the darkness of uncharted territory. They are always allowed. Because, frankly, they are Autechre, right? The one falling in their footsteps is always behind. Apprentice to a skilled magician. Then... BOOM! ... Hecq.
+
+I don't know how Lappersdorf (Germany) based Hymen Records had discovered Boysen [that surely deserves an interview question], but when they did, they struck gold. Quickly demonstrating his abilities with *Scatterheart* (Hymen, 2004) and *Bad Karma* (Hymen, 2005), Boysen has landed a coveted spot on a limited Hymen boxset, *Travel Sickness* (Hymen, 2006), with a mini-EP along with the releases by **Lusine Icl**, **Solar X**, **Lowfish**, **Venetian Snares**, **Psi Spy**, **Snog**, **The Manhattan Gimp Project** and **Mad EP**. Mmmm. My copy still smells like cedar... Delicious. Boysen's fourth album, *0000* (Hymen, 2007) made my Best of 2007 list, and in 2008... well... I lost the words with *Night Falls*.
+
+So what to expect with *Steeltongued*? Twisted rhythms swirling around your brain like an inhaled sip of wine and a gulped breath of smoke. Divine soundscapes crawling beneath the barbed wire of the restraining acoustic prison, begging to rather be shot in the back then remain draining their minimalism onto the cold surface of tears and blood. "*I will survive*", bounces the reverse reverbed voice of **Nongenetic**, "*Late for my funeral*", "*rather be buried alive*"... Then destruction and mayhem... Then silence... *Frost*... and the *Hypnos* trilogy of tracks. Well, that's just gorgeous...
+
+This double-disk release features twelve remixes of *Steeltongued* from an eclectic group of friends and collaborators, including **Spyweirdos**, **Si Begg**, **Black Film**, and **Team Doyobi** among many. Words are too limited and gentle to describe the range of emotions evoked by *Steeltongued*. The album is a trip and an unforgettable experience. That one memento that will stay with you for years to come. That one beautiful moment of "*what the hell was that?*".

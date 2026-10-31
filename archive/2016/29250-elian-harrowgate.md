@@ -1,0 +1,16 @@
+---
+id: 29250
+title: "Elian - Harrowgate"
+date: "2016-01-29T06:57:52-05:00"
+category: ["Albums"]
+---
+
+It's easy to get lost in a vast landscape of minimal ambiance and absolute drone. Isn't production and compulsive publication thereof as easy as hitting one note for a period longer than normal? What makes then a great contemplative album, capable of rising above the rest in both, its sonic and artistic form? For me, it has always been about the emotion. Something more than a manufactured product with its printed story on a plastic shelf. Something that requires my time to be peeled apart to reveal its inner drama, which can be only known through sound. And then the words come…
+
+On *Harrowgate* I hear more than just a bit of dread, its first emotion barely evoked by the album title. What is this place, and where does it lead me? I open [the gate?] and slowly step through. Resonating pads beckon me in, lighting the path forward among the glowing strings, synthetic organs and pulsating something. I think I'm in a dream, or rather early midnight fever. Slightly disoriented by the flickering din I push forward, towards another room of this keep. Each chamber of this imagined dwelling appears to host a ghostly remnant of what once has been loved, and possibly even hated, until the physical plane has swallowed it whole, leaving behind the apparition of perception, soaked in pleasure, pain and the desire to be known, and more importantly, felt again.
+
+> Prodigious, undefinable, soulful, intelligent, obscure, profound, subterranean, magnificent, artistic, deep, resplendent, phenomenal, exquisite, minimal, maximal, suggestive, fleeting, ethereal, intangible, timeless… in an age when people apparently 'involved' with music seem to care less about the music itself, when people 'involved' with life seem to care less about the everyday connectivity of life itself, these things matter. That the work of **Elian** is all these things and more should matter more than the immediacy of everything now…
+
+**Elian** is a moniker of **Michael Duane Ferrel**, hailing from North Chesterfield, Virginia, USA. His releases date back to 2005, appearing on **Test Tube, Rural Colours, Twisted Tree Line** and **The Long Story Recording Company**. His first album for **Home Normal** was in 2010, titled *Whispers, Then Silence*, surprising many of the label's (then) loyal followers with its darkness, moodiness and intensity. That may have been a shock for the then Home Normal catalogue of minimalist ambiance, with the abstract swirling of sharp-edged sounds and acute twists and turns in the album's eclectic design.
+
+To that end, *Harrowgate* is a bit more atmospheric and cohesive as a premeditated journey, allowing the listener to slowly adjust to its upcoming campaign. And it's precisely what makes *Harrowgate* appealing to a wider audience. Here, the label boss **Ian Hawgood** backs and praises Ferrel's work, characterising it as "*unfathomably rich tapestries of music, that from frequency play through to subtle melodic bursts, reside on a whole other plain to other artists within the field.*" And I couldn't agree more. Highly recommended for fans of albums I've listed in Headphone Commute's Best of 2015.

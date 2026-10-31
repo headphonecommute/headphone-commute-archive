@@ -1,0 +1,24 @@
+---
+id: 28172
+title: "Decibel 2015 : Wednesday"
+date: "2015-10-05T05:55:23-05:00"
+category: ["Festivals and Events"]
+---
+
+After the overwhelming inundation of quantity and diversity that was Decibel's [10th Anniversary](../2013/22620-decibel-x-day-four-and-five.md), the ensuing years have been seen a return to the festival's established equilibrium. That's not to say that this year's programming was insubstantial by any definition of the word, it simply was more of an "earthly" experience than 2013. One finds themselves hard-pressed to find cause for dissatisfaction while in the throes of the five days that span the second-largest electronic music festival in North America. Decibel themselves just pushed the threshold of the conceivable so far beyond their own high standard, that 2015 felt like a return to a familiar, more intimate, planet-side experience. With more than a few exceptions. We'll be getting to those shortly.
+
+After convening with friends coming in from out-of-town at the festival's lodging partner, the W Hotel not only acted as the Decibel lounge but was smartly out to multipurpose service as the will call. This all-in-one stop made transit to the *Optical*: Kick-Off Party at the nearby *ReBar* more expedited than the usual neighborhood hopping that generally initiates the opening day. As the festival's first event, held in one of the longtime mainstays of Seattle nightlife culture, it felt like a bit of a coming home. Not since the mid-2000s has Decibel opened their festival in such a intimate fixture of the community. Recent upgrades to the soundsystem facilitated the venue transcending its physical limitations to be a enveloping vehicle for the kinesthetic sensory barrage of **Richard Devine**'s newly developed hybrid digital/modular arsenal.
+
+Devine's penchant for being a technician of minutiae and bottomless complexity has hit perfect synergy with analog hardware's flares of inconsistency. Forefront in this was his [Disturbances](https://vimeo.com/richarddevine/videos) live patch, custom-built to the end of immediacy, on-the-fly performance and composition. Most curious of all, the confluence of the two hit a sweet spot that landed Devine precisely at the end of Warp's *Artificial Intelligence* era, a time where the co-mingling of hardware, programmed patches and digital sequencing was the name of the game. The meeting of fragmenting beats, swooping analog synth lines and percolating low-end eruptions defined what might be his richest and most multifaceted performance modus to-date.
+
+A short skip and a jump across downtown through streets brimming to surreal density with police presence surrounding the visit of China's Xi Jinping and his amassed delegates, brought me to another of Seattle's long running music venues: *The Crocodile*. Immediately upon walking in the door the complimentary character to be found in the tech-house sound of the **Secondnature** label shares with **Ostgut Ton** was evident as Berlin met Seattle in **Archivist**'s seamless transition into Alex Tsiridis and Hüseyin Evirgen's **Cassegrain**.
+
+Another jaunt through adjacent neighborhoods brought us to the largest and best equipped venue of the festival, the 1940's ballroom turned 1,300 capacity rock venue, *The Showbox*. Typically this is the venue where one is witness to an artist ascending from the comfortable confines of an established following to cultural mass approval, and that was absolutely the case for **Nicolas Jaar.** The New York composer has been on the rise and rise, the collaborative vehicle with **Dave Harrington** that was their soul-tech project **Darkside** sent them breaking through the ceiling of techno marginalia in 2013. Aided along the way with a score to **Jacques Audiard**'s Palme d'Or winning "*[Dheepan](http://www.festival-cannes.fr/en/archives/ficheFilm/id/4474fbba-8e8b-43d5-91ae-f5ac9f31ba97/year/2015.html)*" and a commission to remix the totality of **Daft Punk**'s *Random Access Memories* in their obfuscated, haunting fashion, Jaar will never find himself on the dancefloor sidelines again.
+
+He was front and center before thousands on Wednesday night, not that you could confirm that was the case though. Not since the ritual magic and doom metal masquerade of Stephen O'Malley's **SUNN O)))** has anyone thought to pour that much smoke into a venue for cinematic effect. Thrumming out through the impenetrable murk, Jaar pumped his mix of accentuated LP surface noise and time-stretched vocal samples around which he built his slowly evolving grooves. His DJ set shared the same long arcs of escalation as his ruminative, lower BPM "blue wave" techno. Somewhere back there in the fog of smoke, distorted sound and muffled beats was the lone operator at his controls.
+
+*Stay tuned for further coverage...*
+
+**[dbfestival.com](http://dbfestival.com/)**
+
+Words by **Jefferson Petrey** for Headphone Commute

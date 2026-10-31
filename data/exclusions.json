@@ -1,0 +1,8293 @@
+[
+  {
+    "id": 2,
+    "type": "page",
+    "date": "2018-05-25T16:11:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 82,
+    "type": "page",
+    "date": "2009-02-11T18:38:13-05:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 285,
+    "type": "post",
+    "date": "2009-01-01T10:08:01+00:00",
+    "category": [
+      "Best of 2008"
+    ],
+    "reason": "category excluded: Best of 2008"
+  },
+  {
+    "id": 464,
+    "type": "post",
+    "date": "2008-12-20T16:38:08+00:00",
+    "category": [
+      "Best of 2008"
+    ],
+    "reason": "category excluded: Best of 2008"
+  },
+  {
+    "id": 1501,
+    "type": "post",
+    "date": "2009-07-05T17:27:39-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 1676,
+    "type": "post",
+    "date": "2009-08-09T12:16:31-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 1862,
+    "type": "post",
+    "date": "2009-08-30T22:18:30-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 1911,
+    "type": "post",
+    "date": "2009-09-19T09:23:15-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 2144,
+    "type": "post",
+    "date": "2009-11-21T09:35:32+00:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 2158,
+    "type": "post",
+    "date": "2009-10-23T20:08:56-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 2769,
+    "type": "post",
+    "date": "2009-12-19T11:15:56-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 2863,
+    "type": "post",
+    "date": "2009-12-21T18:15:48-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 2963,
+    "type": "post",
+    "date": "2009-12-21T19:24:53-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3018,
+    "type": "post",
+    "date": "2009-12-22T18:01:31-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3049,
+    "type": "post",
+    "date": "2009-12-23T18:35:20-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3136,
+    "type": "post",
+    "date": "2009-12-24T19:22:03-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3211,
+    "type": "post",
+    "date": "2009-12-25T10:07:59-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3252,
+    "type": "post",
+    "date": "2009-12-26T12:24:41-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3279,
+    "type": "post",
+    "date": "2009-12-27T09:17:42-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3297,
+    "type": "post",
+    "date": "2009-12-28T18:17:15-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3358,
+    "type": "post",
+    "date": "2009-12-29T18:32:55-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3374,
+    "type": "post",
+    "date": "2009-12-30T19:03:41-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3393,
+    "type": "post",
+    "date": "2009-12-31T18:42:46-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3410,
+    "type": "post",
+    "date": "2010-01-01T15:25:39-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3426,
+    "type": "post",
+    "date": "2010-01-02T17:27:49-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3441,
+    "type": "post",
+    "date": "2010-01-03T15:32:16-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3450,
+    "type": "post",
+    "date": "2010-01-04T19:50:14-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 3544,
+    "type": "post",
+    "date": "2010-01-18T09:52:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 3697,
+    "type": "post",
+    "date": "2010-01-24T14:43:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 3804,
+    "type": "post",
+    "date": "2010-01-31T08:33:06-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 3943,
+    "type": "post",
+    "date": "2010-02-13T09:45:13-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4113,
+    "type": "post",
+    "date": "2010-02-21T08:14:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4286,
+    "type": "post",
+    "date": "2010-02-28T09:04:02-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4486,
+    "type": "post",
+    "date": "2010-03-21T08:08:27-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4575,
+    "type": "post",
+    "date": "2010-03-28T10:27:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4697,
+    "type": "post",
+    "date": "2010-04-04T07:47:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4798,
+    "type": "post",
+    "date": "2010-04-11T07:48:36-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4858,
+    "type": "post",
+    "date": "2010-04-18T08:48:12-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 4956,
+    "type": "post",
+    "date": "2010-04-25T12:42:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5131,
+    "type": "post",
+    "date": "2010-05-02T16:43:42-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5228,
+    "type": "post",
+    "date": "2010-05-09T09:06:31-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5337,
+    "type": "post",
+    "date": "2010-05-23T10:24:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5497,
+    "type": "post",
+    "date": "2010-05-31T08:55:09-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5758,
+    "type": "post",
+    "date": "2010-06-13T08:46:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 5897,
+    "type": "post",
+    "date": "2010-06-20T09:18:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6034,
+    "type": "post",
+    "date": "2010-06-27T07:48:50-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6061,
+    "type": "post",
+    "date": "2010-07-05T07:36:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6119,
+    "type": "post",
+    "date": "2010-07-18T11:02:28-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6405,
+    "type": "post",
+    "date": "2010-08-29T09:09:44-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6558,
+    "type": "post",
+    "date": "2010-09-19T06:39:09-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6667,
+    "type": "post",
+    "date": "2010-09-26T08:25:12-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6854,
+    "type": "post",
+    "date": "2010-10-17T09:34:14-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 6962,
+    "type": "post",
+    "date": "2010-11-01T06:21:30-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 7242,
+    "type": "post",
+    "date": "2010-11-21T14:02:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 7527,
+    "type": "post",
+    "date": "2010-12-05T09:41:12-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 7993,
+    "type": "post",
+    "date": "2010-12-19T07:53:03-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 8029,
+    "type": "post",
+    "date": "2010-12-31T07:26:53-05:00",
+    "category": [
+      "Best of 2009"
+    ],
+    "reason": "category excluded: Best of 2009"
+  },
+  {
+    "id": 8180,
+    "type": "post",
+    "date": "2011-01-02T09:10:35-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8200,
+    "type": "post",
+    "date": "2011-01-03T07:35:13-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8213,
+    "type": "post",
+    "date": "2011-01-03T08:00:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 8247,
+    "type": "post",
+    "date": "2011-01-04T07:55:19-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8269,
+    "type": "post",
+    "date": "2011-01-05T07:45:28-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8283,
+    "type": "post",
+    "date": "2011-01-06T08:16:34-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8292,
+    "type": "post",
+    "date": "2011-01-07T07:56:46-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8304,
+    "type": "post",
+    "date": "2011-01-08T09:36:27-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8325,
+    "type": "post",
+    "date": "2011-01-09T11:07:07-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 8344,
+    "type": "post",
+    "date": "2011-01-10T08:03:02-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8352,
+    "type": "post",
+    "date": "2011-01-11T07:49:43-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8360,
+    "type": "post",
+    "date": "2011-01-12T07:57:10-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8371,
+    "type": "post",
+    "date": "2011-01-13T08:15:28-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8389,
+    "type": "post",
+    "date": "2011-01-14T08:30:41-05:00",
+    "category": [
+      "Best of 2010"
+    ],
+    "reason": "category excluded: Best of 2010"
+  },
+  {
+    "id": 8396,
+    "type": "post",
+    "date": "2011-01-16T10:04:39-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 8703,
+    "type": "post",
+    "date": "2011-01-30T08:55:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 8910,
+    "type": "post",
+    "date": "2011-02-06T09:41:38-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9165,
+    "type": "post",
+    "date": "2011-02-13T10:38:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9353,
+    "type": "post",
+    "date": "2011-02-21T09:00:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9590,
+    "type": "post",
+    "date": "2011-02-28T11:07:18-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9681,
+    "type": "post",
+    "date": "2011-03-14T08:06:53-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9741,
+    "type": "post",
+    "date": "2011-03-20T19:51:29-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9759,
+    "type": "post",
+    "date": "2011-03-28T10:35:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9815,
+    "type": "post",
+    "date": "2011-04-03T08:04:23-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9869,
+    "type": "post",
+    "date": "2011-04-12T18:30:17-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 9904,
+    "type": "post",
+    "date": "2011-04-17T08:06:53-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10017,
+    "type": "post",
+    "date": "2011-05-01T17:50:08-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10078,
+    "type": "post",
+    "date": "2011-05-15T08:24:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10097,
+    "type": "post",
+    "date": "2011-05-22T07:49:05-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10191,
+    "type": "post",
+    "date": "2011-06-05T09:47:31-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10332,
+    "type": "post",
+    "date": "2011-06-19T08:17:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10420,
+    "type": "post",
+    "date": "2011-06-26T08:28:33-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10653,
+    "type": "post",
+    "date": "2011-07-03T07:24:34-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10810,
+    "type": "post",
+    "date": "2011-07-10T08:23:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 10875,
+    "type": "post",
+    "date": "2011-07-17T08:45:17-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 11108,
+    "type": "post",
+    "date": "2011-07-31T09:05:25-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 11227,
+    "type": "post",
+    "date": "2011-08-07T08:10:12-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 11613,
+    "type": "post",
+    "date": "2011-08-22T06:13:22-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 11797,
+    "type": "post",
+    "date": "2011-09-05T08:18:28-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 11923,
+    "type": "post",
+    "date": "2011-09-12T05:57:05-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 12104,
+    "type": "post",
+    "date": "2011-09-19T05:31:48-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 12411,
+    "type": "post",
+    "date": "2011-10-11T05:55:08-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 12561,
+    "type": "post",
+    "date": "2011-10-21T05:36:45+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (91 own words)"
+  },
+  {
+    "id": 12807,
+    "type": "post",
+    "date": "2011-10-24T06:02:32-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 13083,
+    "type": "post",
+    "date": "2011-11-07T06:49:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 13392,
+    "type": "post",
+    "date": "2011-11-28T07:23:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 13492,
+    "type": "post",
+    "date": "2011-12-12T07:33:26-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 13724,
+    "type": "post",
+    "date": "2011-12-25T09:54:55+00:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 13757,
+    "type": "post",
+    "date": "2011-12-26T08:54:21+00:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 13802,
+    "type": "post",
+    "date": "2011-12-27T07:13:02-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 13812,
+    "type": "post",
+    "date": "2011-12-27T06:51:04+00:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 13926,
+    "type": "post",
+    "date": "2011-12-29T07:12:00+00:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 13967,
+    "type": "post",
+    "date": "2011-12-30T09:58:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 14057,
+    "type": "post",
+    "date": "2012-01-01T11:32:23-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14092,
+    "type": "post",
+    "date": "2012-01-02T09:54:09-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14116,
+    "type": "post",
+    "date": "2012-01-02T18:05:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 14132,
+    "type": "post",
+    "date": "2012-01-03T07:51:00-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14166,
+    "type": "post",
+    "date": "2012-01-04T07:48:49-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14206,
+    "type": "post",
+    "date": "2012-01-05T08:02:06-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14292,
+    "type": "post",
+    "date": "2012-01-06T06:57:41-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14314,
+    "type": "post",
+    "date": "2012-01-07T09:06:55-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14336,
+    "type": "post",
+    "date": "2012-01-08T09:27:43-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14356,
+    "type": "post",
+    "date": "2012-01-09T07:04:36-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14384,
+    "type": "post",
+    "date": "2012-01-09T06:51:53-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 14401,
+    "type": "post",
+    "date": "2012-01-10T07:37:54-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14430,
+    "type": "post",
+    "date": "2012-01-12T07:08:57-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14453,
+    "type": "post",
+    "date": "2012-01-13T08:29:21-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14494,
+    "type": "post",
+    "date": "2012-01-14T10:04:28-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14577,
+    "type": "post",
+    "date": "2012-01-15T10:58:42-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14634,
+    "type": "post",
+    "date": "2012-01-16T09:41:05-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 14649,
+    "type": "post",
+    "date": "2012-01-16T10:00:03-05:00",
+    "category": [
+      "Best of 2011"
+    ],
+    "reason": "category excluded: Best of 2011"
+  },
+  {
+    "id": 14994,
+    "type": "post",
+    "date": "2012-01-23T07:20:43-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15118,
+    "type": "post",
+    "date": "2012-01-28T08:23:46-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15253,
+    "type": "post",
+    "date": "2012-02-02T10:56:42-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15342,
+    "type": "post",
+    "date": "2012-02-06T07:19:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15465,
+    "type": "post",
+    "date": "2012-02-13T07:20:09-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15606,
+    "type": "post",
+    "date": "2012-02-20T09:07:25-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15758,
+    "type": "post",
+    "date": "2012-02-27T06:53:51-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15917,
+    "type": "post",
+    "date": "2012-03-05T06:56:29-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 15980,
+    "type": "post",
+    "date": "2012-03-13T05:49:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16056,
+    "type": "post",
+    "date": "2012-03-20T06:25:07-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16278,
+    "type": "page",
+    "date": "2009-02-10T16:38:10-05:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 16365,
+    "type": "post",
+    "date": "2012-04-02T06:12:38-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16549,
+    "type": "post",
+    "date": "2012-04-09T06:15:53-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16634,
+    "type": "post",
+    "date": "2012-04-16T06:36:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16698,
+    "type": "post",
+    "date": "2012-04-23T05:41:50-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 16825,
+    "type": "post",
+    "date": "2012-04-30T05:58:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17052,
+    "type": "post",
+    "date": "2012-05-07T05:15:50-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17270,
+    "type": "post",
+    "date": "2012-06-04T06:24:14-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17338,
+    "type": "post",
+    "date": "2012-06-11T05:52:43-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17431,
+    "type": "post",
+    "date": "2012-06-18T06:32:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17519,
+    "type": "post",
+    "date": "2012-06-25T06:16:53-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17788,
+    "type": "post",
+    "date": "2012-07-09T06:16:21-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 17995,
+    "type": "post",
+    "date": "2012-07-23T06:07:44-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18097,
+    "type": "post",
+    "date": "2012-07-30T06:25:13-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18310,
+    "type": "post",
+    "date": "2012-08-13T06:24:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18398,
+    "type": "post",
+    "date": "2012-08-20T06:03:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18420,
+    "type": "post",
+    "date": "2012-08-27T06:05:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18433,
+    "type": "post",
+    "date": "2012-09-04T06:15:08-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18541,
+    "type": "post",
+    "date": "2012-09-10T06:37:07-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18731,
+    "type": "post",
+    "date": "2012-09-24T06:23:36-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 18912,
+    "type": "post",
+    "date": "2012-10-08T05:51:50-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19099,
+    "type": "post",
+    "date": "2012-10-22T06:10:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19237,
+    "type": "post",
+    "date": "2012-10-29T06:37:56-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19285,
+    "type": "post",
+    "date": "2012-11-06T09:29:32-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19374,
+    "type": "post",
+    "date": "2012-11-13T08:21:47-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19417,
+    "type": "post",
+    "date": "2012-11-27T08:06:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19548,
+    "type": "post",
+    "date": "2012-12-17T07:51:48-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19619,
+    "type": "post",
+    "date": "2012-12-26T06:43:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19641,
+    "type": "post",
+    "date": "2012-12-31T11:20:43-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19655,
+    "type": "post",
+    "date": "2013-01-01T07:38:07-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19702,
+    "type": "post",
+    "date": "2013-01-02T07:11:24-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19738,
+    "type": "post",
+    "date": "2013-01-03T07:49:22-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19774,
+    "type": "post",
+    "date": "2013-01-04T06:42:26-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19798,
+    "type": "post",
+    "date": "2013-01-05T08:29:00-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19816,
+    "type": "post",
+    "date": "2013-01-06T08:06:14-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19830,
+    "type": "post",
+    "date": "2013-01-07T07:23:15-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19844,
+    "type": "post",
+    "date": "2013-01-07T08:29:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19861,
+    "type": "post",
+    "date": "2013-01-08T07:09:30-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19884,
+    "type": "post",
+    "date": "2013-01-09T08:24:01-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19927,
+    "type": "post",
+    "date": "2013-01-10T07:06:10-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19944,
+    "type": "post",
+    "date": "2013-01-11T06:53:45-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19960,
+    "type": "post",
+    "date": "2013-01-14T07:24:05-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 19985,
+    "type": "post",
+    "date": "2013-01-15T07:37:43-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 19996,
+    "type": "post",
+    "date": "2013-01-15T08:13:53-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 20018,
+    "type": "post",
+    "date": "2013-01-16T07:53:15-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 20058,
+    "type": "post",
+    "date": "2013-01-17T07:13:01-05:00",
+    "category": [
+      "Best of 2012"
+    ],
+    "reason": "category excluded: Best of 2012"
+  },
+  {
+    "id": 20160,
+    "type": "post",
+    "date": "2013-01-22T08:14:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20224,
+    "type": "post",
+    "date": "2013-01-28T08:13:31-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20409,
+    "type": "post",
+    "date": "2013-02-19T06:06:40-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20510,
+    "type": "post",
+    "date": "2013-03-02T07:22:34-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20547,
+    "type": "post",
+    "date": "2013-03-05T06:25:34-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20706,
+    "type": "post",
+    "date": "2013-03-18T05:50:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20791,
+    "type": "post",
+    "date": "2013-03-25T05:51:38-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20902,
+    "type": "post",
+    "date": "2013-04-01T05:50:13-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 20991,
+    "type": "post",
+    "date": "2013-04-15T05:50:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21138,
+    "type": "post",
+    "date": "2013-04-30T05:42:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21157,
+    "type": "post",
+    "date": "2013-05-04T06:10:02+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (133 own words)"
+  },
+  {
+    "id": 21180,
+    "type": "post",
+    "date": "2013-05-07T05:57:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21224,
+    "type": "post",
+    "date": "2013-05-14T06:48:18-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21299,
+    "type": "post",
+    "date": "2013-05-19T07:06:30-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21502,
+    "type": "post",
+    "date": "2013-06-11T05:53:05-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21596,
+    "type": "post",
+    "date": "2013-06-18T06:28:15-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21666,
+    "type": "post",
+    "date": "2013-07-02T06:04:46-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21788,
+    "type": "post",
+    "date": "2013-07-16T08:30:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 21934,
+    "type": "post",
+    "date": "2013-07-30T07:06:28-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22044,
+    "type": "post",
+    "date": "2013-08-13T06:39:01-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22182,
+    "type": "post",
+    "date": "2013-08-28T06:02:38-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22311,
+    "type": "post",
+    "date": "2013-09-17T06:19:13-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22355,
+    "type": "post",
+    "date": "2013-10-02T06:44:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22416,
+    "type": "post",
+    "date": "2013-10-08T06:17:30-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22561,
+    "type": "post",
+    "date": "2013-10-16T05:18:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22682,
+    "type": "post",
+    "date": "2013-10-29T06:13:55-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22820,
+    "type": "post",
+    "date": "2013-11-12T07:01:24-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22933,
+    "type": "post",
+    "date": "2013-12-11T07:01:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 22994,
+    "type": "post",
+    "date": "2013-12-24T07:00:22-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23042,
+    "type": "post",
+    "date": "2013-12-31T09:12:26-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23046,
+    "type": "post",
+    "date": "2013-12-31T08:09:11-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23078,
+    "type": "post",
+    "date": "2014-01-01T08:32:36-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23107,
+    "type": "post",
+    "date": "2014-01-02T06:39:05-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23117,
+    "type": "post",
+    "date": "2014-01-03T07:06:43-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23138,
+    "type": "post",
+    "date": "2014-01-04T09:20:57-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23151,
+    "type": "post",
+    "date": "2014-01-05T08:26:02-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23167,
+    "type": "post",
+    "date": "2014-01-06T06:44:33-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23195,
+    "type": "post",
+    "date": "2014-01-07T06:42:17-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23222,
+    "type": "post",
+    "date": "2014-01-08T07:24:21-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23250,
+    "type": "post",
+    "date": "2014-01-09T06:55:40-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23262,
+    "type": "post",
+    "date": "2014-01-10T07:02:55-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23276,
+    "type": "post",
+    "date": "2014-01-11T07:51:05-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23294,
+    "type": "post",
+    "date": "2014-01-12T08:02:47-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23307,
+    "type": "post",
+    "date": "2014-01-13T06:55:43-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23316,
+    "type": "post",
+    "date": "2014-01-14T06:52:09-05:00",
+    "category": [
+      "Best of 2013"
+    ],
+    "reason": "category excluded: Best of 2013"
+  },
+  {
+    "id": 23331,
+    "type": "post",
+    "date": "2014-01-15T07:09:09-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23492,
+    "type": "post",
+    "date": "2014-01-28T06:48:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23643,
+    "type": "post",
+    "date": "2014-02-11T07:15:52-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23681,
+    "type": "post",
+    "date": "2014-02-18T06:57:36-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23757,
+    "type": "post",
+    "date": "2014-02-25T06:54:52-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23871,
+    "type": "post",
+    "date": "2014-03-19T07:23:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23925,
+    "type": "post",
+    "date": "2014-04-01T06:29:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 23990,
+    "type": "post",
+    "date": "2014-04-09T05:52:39-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24131,
+    "type": "post",
+    "date": "2014-04-22T05:43:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24223,
+    "type": "post",
+    "date": "2014-05-07T01:54:06-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24325,
+    "type": "post",
+    "date": "2014-05-20T05:50:26-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24425,
+    "type": "post",
+    "date": "2014-06-03T07:52:29-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24607,
+    "type": "post",
+    "date": "2014-06-17T06:20:17-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24777,
+    "type": "post",
+    "date": "2014-07-16T05:54:21-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 24884,
+    "type": "post",
+    "date": "2014-07-30T05:26:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25010,
+    "type": "post",
+    "date": "2014-08-13T07:38:14-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25076,
+    "type": "post",
+    "date": "2014-08-26T05:53:48-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25253,
+    "type": "post",
+    "date": "2014-09-09T06:02:34-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25332,
+    "type": "post",
+    "date": "2014-09-16T06:15:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25460,
+    "type": "post",
+    "date": "2014-09-30T05:59:47-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25560,
+    "type": "post",
+    "date": "2014-10-14T06:00:18-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25699,
+    "type": "post",
+    "date": "2014-10-28T05:59:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25780,
+    "type": "post",
+    "date": "2014-11-11T07:03:56-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25803,
+    "type": "post",
+    "date": "2014-11-26T06:57:42-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25920,
+    "type": "post",
+    "date": "2014-12-09T07:03:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25950,
+    "type": "post",
+    "date": "2014-12-23T06:40:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 25990,
+    "type": "post",
+    "date": "2014-12-30T06:43:27-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26001,
+    "type": "post",
+    "date": "2015-01-01T06:49:43-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26014,
+    "type": "post",
+    "date": "2015-01-02T06:40:47-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26027,
+    "type": "post",
+    "date": "2015-01-03T08:21:16-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26038,
+    "type": "post",
+    "date": "2015-01-04T08:16:21-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26050,
+    "type": "post",
+    "date": "2015-01-05T07:23:47-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26061,
+    "type": "post",
+    "date": "2015-01-06T07:15:56-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26073,
+    "type": "post",
+    "date": "2015-01-08T07:43:27-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26089,
+    "type": "post",
+    "date": "2015-01-09T07:01:45-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26102,
+    "type": "post",
+    "date": "2015-01-12T06:53:53-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26120,
+    "type": "post",
+    "date": "2015-01-13T07:02:23-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26125,
+    "type": "post",
+    "date": "2015-01-13T07:30:34-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26140,
+    "type": "post",
+    "date": "2015-01-14T07:11:18-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26151,
+    "type": "post",
+    "date": "2015-01-15T07:51:44-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26170,
+    "type": "post",
+    "date": "2015-01-17T09:04:33-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26180,
+    "type": "post",
+    "date": "2015-01-18T08:21:51-05:00",
+    "category": [
+      "Best of 2014"
+    ],
+    "reason": "category excluded: Best of 2014"
+  },
+  {
+    "id": 26195,
+    "type": "post",
+    "date": "2015-02-03T07:02:52-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26253,
+    "type": "post",
+    "date": "2015-02-17T06:35:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26314,
+    "type": "post",
+    "date": "2015-03-03T07:17:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26378,
+    "type": "post",
+    "date": "2015-03-17T06:00:18-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26479,
+    "type": "post",
+    "date": "2015-03-31T05:45:23-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26581,
+    "type": "post",
+    "date": "2015-04-14T05:50:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 26641,
+    "type": "post",
+    "date": "2015-04-21T06:04:00+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (73 own words)"
+  },
+  {
+    "id": 26704,
+    "type": "post",
+    "date": "2015-04-28T05:43:58-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27146,
+    "type": "post",
+    "date": "2015-05-19T06:20:11-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27214,
+    "type": "post",
+    "date": "2015-05-26T07:24:53+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (115 own words)"
+  },
+  {
+    "id": 27313,
+    "type": "post",
+    "date": "2015-06-09T06:01:22-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27418,
+    "type": "post",
+    "date": "2015-06-23T05:48:23-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27547,
+    "type": "post",
+    "date": "2015-07-07T05:50:30-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27620,
+    "type": "post",
+    "date": "2015-07-16T09:31:59+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (118 own words)"
+  },
+  {
+    "id": 27674,
+    "type": "post",
+    "date": "2015-08-03T06:01:09+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (140 own words)"
+  },
+  {
+    "id": 27680,
+    "type": "post",
+    "date": "2015-08-04T05:25:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27785,
+    "type": "post",
+    "date": "2015-08-18T05:23:50-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 27870,
+    "type": "post",
+    "date": "2015-08-27T06:05:53+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (106 own words)"
+  },
+  {
+    "id": 27901,
+    "type": "post",
+    "date": "2015-09-01T05:45:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28076,
+    "type": "post",
+    "date": "2015-09-22T06:01:29-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28186,
+    "type": "post",
+    "date": "2015-10-06T05:58:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28259,
+    "type": "post",
+    "date": "2015-10-20T05:41:52-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28413,
+    "type": "post",
+    "date": "2015-11-10T06:54:27-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28550,
+    "type": "post",
+    "date": "2015-11-24T06:48:51-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28911,
+    "type": "post",
+    "date": "2015-12-15T06:57:49-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 28932,
+    "type": "post",
+    "date": "2015-12-19T08:39:05-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29041,
+    "type": "post",
+    "date": "2015-12-30T06:54:02-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29081,
+    "type": "post",
+    "date": "2016-01-04T06:29:52-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29106,
+    "type": "post",
+    "date": "2016-01-04T06:54:32-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29128,
+    "type": "post",
+    "date": "2016-01-05T06:50:21-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29146,
+    "type": "post",
+    "date": "2016-01-06T06:59:18-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29157,
+    "type": "post",
+    "date": "2016-01-07T06:36:12-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29172,
+    "type": "post",
+    "date": "2016-01-08T06:50:43-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29182,
+    "type": "post",
+    "date": "2016-01-11T06:48:06-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29190,
+    "type": "post",
+    "date": "2016-01-12T06:47:55-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29198,
+    "type": "post",
+    "date": "2016-01-13T06:47:49-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29215,
+    "type": "post",
+    "date": "2016-01-17T09:03:36-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29234,
+    "type": "post",
+    "date": "2016-01-18T08:30:14-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29261,
+    "type": "post",
+    "date": "2016-01-19T06:51:45-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29280,
+    "type": "post",
+    "date": "2016-01-20T06:35:17-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29292,
+    "type": "post",
+    "date": "2016-01-23T07:43:53-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29333,
+    "type": "post",
+    "date": "2016-01-24T09:31:48-05:00",
+    "category": [
+      "Best of 2015"
+    ],
+    "reason": "category excluded: Best of 2015"
+  },
+  {
+    "id": 29370,
+    "type": "post",
+    "date": "2016-01-27T06:49:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29427,
+    "type": "post",
+    "date": "2016-02-09T06:59:31-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29580,
+    "type": "post",
+    "date": "2016-03-15T05:45:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29715,
+    "type": "post",
+    "date": "2016-04-05T05:50:19-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29784,
+    "type": "post",
+    "date": "2016-05-17T05:42:15-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29878,
+    "type": "post",
+    "date": "2016-05-31T05:47:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29914,
+    "type": "post",
+    "date": "2016-06-14T05:44:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 29967,
+    "type": "post",
+    "date": "2016-06-28T05:56:09-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30139,
+    "type": "post",
+    "date": "2016-07-12T05:52:44-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30169,
+    "type": "post",
+    "date": "2016-07-18T06:14:06+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (143 own words)"
+  },
+  {
+    "id": 30215,
+    "type": "post",
+    "date": "2016-07-26T05:47:11-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30276,
+    "type": "post",
+    "date": "2016-08-09T05:38:27+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30369,
+    "type": "post",
+    "date": "2016-08-23T05:58:02-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30388,
+    "type": "post",
+    "date": "2016-08-30T05:45:51-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30410,
+    "type": "post",
+    "date": "2016-09-14T04:44:45-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30449,
+    "type": "post",
+    "date": "2016-09-27T05:40:45-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30462,
+    "type": "post",
+    "date": "2016-09-30T05:22:26+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (81 own words)"
+  },
+  {
+    "id": 30514,
+    "type": "post",
+    "date": "2016-11-01T06:00:26-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30588,
+    "type": "post",
+    "date": "2016-11-15T06:34:55-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30705,
+    "type": "post",
+    "date": "2016-11-29T06:41:04-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30843,
+    "type": "post",
+    "date": "2016-12-13T06:50:37-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30921,
+    "type": "post",
+    "date": "2016-12-27T06:27:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30962,
+    "type": "post",
+    "date": "2017-01-10T06:59:15-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 30969,
+    "type": "post",
+    "date": "2017-01-11T06:33:09-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 30973,
+    "type": "post",
+    "date": "2017-01-11T06:33:25-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 30989,
+    "type": "post",
+    "date": "2017-01-12T06:40:05-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31012,
+    "type": "post",
+    "date": "2017-01-13T06:39:42-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31024,
+    "type": "post",
+    "date": "2017-01-14T08:02:39-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31032,
+    "type": "post",
+    "date": "2017-01-15T08:13:37-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31057,
+    "type": "post",
+    "date": "2017-01-16T07:37:21-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31079,
+    "type": "post",
+    "date": "2017-01-17T06:56:43-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31093,
+    "type": "post",
+    "date": "2017-01-18T06:48:17-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31111,
+    "type": "post",
+    "date": "2017-01-19T06:36:17-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31126,
+    "type": "post",
+    "date": "2017-01-20T07:05:18-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31143,
+    "type": "post",
+    "date": "2017-01-21T08:28:56-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31153,
+    "type": "post",
+    "date": "2017-01-22T07:22:36-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31168,
+    "type": "post",
+    "date": "2017-01-27T06:47:52-05:00",
+    "category": [
+      "Best of 2016"
+    ],
+    "reason": "category excluded: Best of 2016"
+  },
+  {
+    "id": 31180,
+    "type": "post",
+    "date": "2017-01-25T06:34:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31273,
+    "type": "post",
+    "date": "2017-02-14T06:59:52-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31371,
+    "type": "post",
+    "date": "2017-03-07T02:08:11-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31431,
+    "type": "post",
+    "date": "2017-03-30T01:31:50+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (129 own words)"
+  },
+  {
+    "id": 31439,
+    "type": "post",
+    "date": "2017-03-31T00:54:28+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (84 own words)"
+  },
+  {
+    "id": 31478,
+    "type": "post",
+    "date": "2017-04-25T00:55:55-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31493,
+    "type": "post",
+    "date": "2017-04-27T00:57:42+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (95 own words)"
+  },
+  {
+    "id": 31559,
+    "type": "post",
+    "date": "2017-05-09T00:53:36-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31625,
+    "type": "post",
+    "date": "2017-05-23T02:01:00-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31694,
+    "type": "post",
+    "date": "2017-06-06T01:08:43-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31745,
+    "type": "post",
+    "date": "2017-06-13T00:54:24-05:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (127 own words)"
+  },
+  {
+    "id": 31781,
+    "type": "post",
+    "date": "2017-06-20T01:24:25-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31825,
+    "type": "post",
+    "date": "2017-07-11T01:04:02-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 31916,
+    "type": "post",
+    "date": "2017-07-17T01:07:29+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (116 own words)"
+  },
+  {
+    "id": 31997,
+    "type": "post",
+    "date": "2017-07-25T00:57:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32062,
+    "type": "post",
+    "date": "2017-08-08T01:09:15-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32084,
+    "type": "post",
+    "date": "2017-08-22T00:49:38-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32155,
+    "type": "post",
+    "date": "2017-09-05T00:50:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32281,
+    "type": "post",
+    "date": "2017-09-19T00:46:22-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32307,
+    "type": "post",
+    "date": "2017-09-26T00:58:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32384,
+    "type": "post",
+    "date": "2017-10-03T01:19:06-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32547,
+    "type": "post",
+    "date": "2017-10-24T01:02:16-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32574,
+    "type": "post",
+    "date": "2017-10-31T02:08:35-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32645,
+    "type": "post",
+    "date": "2017-11-14T01:44:08-05:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (135 own words)"
+  },
+  {
+    "id": 32650,
+    "type": "post",
+    "date": "2017-11-15T01:55:25-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32782,
+    "type": "post",
+    "date": "2017-11-29T00:56:11-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32844,
+    "type": "post",
+    "date": "2017-12-12T01:44:36-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32876,
+    "type": "post",
+    "date": "2017-12-27T01:57:57-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 32927,
+    "type": "post",
+    "date": "2018-01-03T01:59:40-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33036,
+    "type": "post",
+    "date": "2018-01-16T09:04:55+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (148 own words)"
+  },
+  {
+    "id": 33078,
+    "type": "post",
+    "date": "2018-01-23T06:13:21-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33141,
+    "type": "post",
+    "date": "2018-02-14T01:41:54-05:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33271,
+    "type": "post",
+    "date": "2018-02-27T07:06:52+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33334,
+    "type": "post",
+    "date": "2018-03-13T06:58:09+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33381,
+    "type": "post",
+    "date": "2018-04-11T07:09:05+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33470,
+    "type": "post",
+    "date": "2018-04-24T06:47:33+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33582,
+    "type": "post",
+    "date": "2018-05-02T06:29:59+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33612,
+    "type": "post",
+    "date": "2018-05-16T06:42:47+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 33628,
+    "type": "post",
+    "date": "2018-05-18T07:11:42+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (145 own words)"
+  },
+  {
+    "id": 33712,
+    "type": "post",
+    "date": "2018-05-31T06:12:38+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 36718,
+    "type": "post",
+    "date": "2018-06-19T06:23:49+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 36855,
+    "type": "post",
+    "date": "2018-09-21T13:08:06+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (113 own words)"
+  },
+  {
+    "id": 36894,
+    "type": "post",
+    "date": "2018-09-18T15:45:32+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 36986,
+    "type": "post",
+    "date": "2018-10-30T06:25:52+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 37710,
+    "type": "post",
+    "date": "2019-02-06T06:46:24+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 37764,
+    "type": "page",
+    "date": "2019-02-09T06:03:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 37923,
+    "type": "post",
+    "date": "2019-02-20T06:30:29+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 37956,
+    "type": "post",
+    "date": "2019-03-13T05:55:35+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38124,
+    "type": "post",
+    "date": "2019-03-26T06:12:52+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38354,
+    "type": "post",
+    "date": "2019-04-09T05:12:56+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38427,
+    "type": "page",
+    "date": "2019-04-12T10:55:50+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 38642,
+    "type": "post",
+    "date": "2019-05-21T05:22:14+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38926,
+    "type": "post",
+    "date": "2018-07-06T05:49:53+01:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (123 own words)"
+  },
+  {
+    "id": 38931,
+    "type": "post",
+    "date": "2018-07-24T05:41:20+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38938,
+    "type": "post",
+    "date": "2018-08-06T06:26:35+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (106 own words)"
+  },
+  {
+    "id": 38939,
+    "type": "post",
+    "date": "2018-08-14T06:28:18+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38941,
+    "type": "post",
+    "date": "2018-11-14T05:51:22+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38958,
+    "type": "post",
+    "date": "2018-12-04T06:09:00+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38960,
+    "type": "post",
+    "date": "2018-12-19T06:21:28+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38961,
+    "type": "post",
+    "date": "2019-01-02T06:18:49+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 38962,
+    "type": "post",
+    "date": "2019-01-16T06:42:51+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 39325,
+    "type": "post",
+    "date": "2019-07-02T05:14:36+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 39583,
+    "type": "post",
+    "date": "2019-07-17T05:12:28+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 39787,
+    "type": "page",
+    "date": "2019-08-02T15:59:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 39947,
+    "type": "post",
+    "date": "2019-08-21T05:29:52+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 40165,
+    "type": "post",
+    "date": "2019-09-04T05:22:30+00:00",
+    "category": [
+      "Track Premiere"
+    ],
+    "reason": "premiere with little text (127 own words)"
+  },
+  {
+    "id": 40331,
+    "type": "post",
+    "date": "2019-09-11T06:41:20+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 40435,
+    "type": "post",
+    "date": "2019-10-02T04:47:55+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 40772,
+    "type": "post",
+    "date": "2019-10-23T06:34:03+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 41362,
+    "type": "page",
+    "date": "2019-12-06T18:57:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41364,
+    "type": "page",
+    "date": "2019-12-06T18:59:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41366,
+    "type": "page",
+    "date": "2019-12-06T19:19:44+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41397,
+    "type": "page",
+    "date": "2019-12-11T23:36:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41401,
+    "type": "page",
+    "date": "2019-12-11T23:42:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41410,
+    "type": "page",
+    "date": "2019-12-11T23:41:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41414,
+    "type": "page",
+    "date": "2019-12-11T23:41:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41442,
+    "type": "page",
+    "date": "2019-12-12T00:02:02+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41450,
+    "type": "page",
+    "date": "2019-12-12T00:16:23+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41454,
+    "type": "page",
+    "date": "2019-12-12T01:13:17+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41460,
+    "type": "page",
+    "date": "2019-12-12T01:23:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41464,
+    "type": "page",
+    "date": "2019-12-12T01:37:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41472,
+    "type": "page",
+    "date": "2019-12-12T02:05:59+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41476,
+    "type": "page",
+    "date": "2019-12-12T02:19:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41479,
+    "type": "page",
+    "date": "2019-12-12T02:34:31+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41482,
+    "type": "page",
+    "date": "2019-12-16T20:52:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41484,
+    "type": "page",
+    "date": "2019-12-16T20:59:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41492,
+    "type": "page",
+    "date": "2019-12-16T21:24:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41494,
+    "type": "page",
+    "date": "2019-12-16T21:57:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41497,
+    "type": "page",
+    "date": "2019-12-16T22:10:42+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41499,
+    "type": "page",
+    "date": "2019-12-16T22:15:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41501,
+    "type": "page",
+    "date": "2019-12-16T22:23:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41503,
+    "type": "page",
+    "date": "2019-12-16T22:31:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41507,
+    "type": "page",
+    "date": "2019-12-16T23:03:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41510,
+    "type": "page",
+    "date": "2019-12-17T00:22:36+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41512,
+    "type": "page",
+    "date": "2019-12-17T00:32:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41517,
+    "type": "page",
+    "date": "2019-12-17T00:43:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41540,
+    "type": "page",
+    "date": "2019-12-17T19:03:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41544,
+    "type": "page",
+    "date": "2019-12-17T19:13:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41547,
+    "type": "page",
+    "date": "2019-12-17T19:21:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41555,
+    "type": "page",
+    "date": "2019-12-24T12:23:11+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41557,
+    "type": "page",
+    "date": "2019-12-24T12:30:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41559,
+    "type": "page",
+    "date": "2019-12-24T12:53:18+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41562,
+    "type": "page",
+    "date": "2019-12-24T13:11:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41564,
+    "type": "page",
+    "date": "2019-12-24T13:27:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41566,
+    "type": "page",
+    "date": "2019-12-24T14:58:21+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41571,
+    "type": "page",
+    "date": "2019-12-24T15:43:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41573,
+    "type": "page",
+    "date": "2019-12-24T15:54:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41577,
+    "type": "page",
+    "date": "2019-12-24T18:47:36+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41580,
+    "type": "page",
+    "date": "2019-12-24T18:56:22+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41585,
+    "type": "page",
+    "date": "2019-12-25T10:49:48+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41588,
+    "type": "page",
+    "date": "2019-12-25T11:08:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41595,
+    "type": "page",
+    "date": "2019-12-25T11:26:05+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41601,
+    "type": "page",
+    "date": "2019-12-26T11:20:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41603,
+    "type": "page",
+    "date": "2019-12-26T11:28:00+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41607,
+    "type": "page",
+    "date": "2019-12-26T11:42:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41613,
+    "type": "page",
+    "date": "2019-12-26T11:51:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41615,
+    "type": "page",
+    "date": "2019-12-26T12:02:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41619,
+    "type": "page",
+    "date": "2019-12-26T12:09:06+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41621,
+    "type": "page",
+    "date": "2019-12-26T12:17:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41623,
+    "type": "page",
+    "date": "2019-12-26T12:30:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41625,
+    "type": "page",
+    "date": "2019-12-26T13:13:43+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41628,
+    "type": "page",
+    "date": "2019-12-26T13:30:39+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41630,
+    "type": "page",
+    "date": "2019-12-26T13:37:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41643,
+    "type": "page",
+    "date": "2019-12-28T11:50:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41646,
+    "type": "page",
+    "date": "2019-12-28T11:59:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41650,
+    "type": "page",
+    "date": "2019-12-28T12:01:02+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41657,
+    "type": "page",
+    "date": "2019-12-28T12:21:01+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41660,
+    "type": "page",
+    "date": "2019-12-28T12:36:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41663,
+    "type": "page",
+    "date": "2019-12-28T13:44:45+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41666,
+    "type": "page",
+    "date": "2019-12-28T14:04:36+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41673,
+    "type": "page",
+    "date": "2019-12-28T14:08:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41679,
+    "type": "page",
+    "date": "2019-12-28T17:56:42+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41682,
+    "type": "page",
+    "date": "2019-12-28T17:57:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41685,
+    "type": "page",
+    "date": "2019-12-28T18:44:09+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41687,
+    "type": "page",
+    "date": "2019-12-28T19:31:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41695,
+    "type": "page",
+    "date": "2019-12-28T19:42:27+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41697,
+    "type": "page",
+    "date": "2019-12-28T19:50:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41699,
+    "type": "page",
+    "date": "2019-12-28T19:57:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41708,
+    "type": "page",
+    "date": "2019-12-29T12:22:59+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41710,
+    "type": "page",
+    "date": "2019-12-29T12:49:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41720,
+    "type": "page",
+    "date": "2019-12-29T13:03:27+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41724,
+    "type": "page",
+    "date": "2019-12-29T13:24:57+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41726,
+    "type": "page",
+    "date": "2019-12-29T13:41:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41731,
+    "type": "page",
+    "date": "2019-12-29T16:12:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41737,
+    "type": "page",
+    "date": "2019-12-29T16:25:22+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41741,
+    "type": "page",
+    "date": "2019-12-29T16:40:56+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41744,
+    "type": "page",
+    "date": "2019-12-29T16:48:49+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41747,
+    "type": "page",
+    "date": "2019-12-29T16:55:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41749,
+    "type": "page",
+    "date": "2019-12-29T17:17:00+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41756,
+    "type": "page",
+    "date": "2019-12-29T17:36:02+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41760,
+    "type": "page",
+    "date": "2019-12-29T17:46:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41765,
+    "type": "page",
+    "date": "2019-12-29T17:56:05+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41767,
+    "type": "page",
+    "date": "2019-12-29T18:00:59+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41778,
+    "type": "page",
+    "date": "2019-12-29T21:42:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41780,
+    "type": "page",
+    "date": "2019-12-29T21:47:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41783,
+    "type": "page",
+    "date": "2019-12-29T21:59:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41788,
+    "type": "page",
+    "date": "2019-12-29T22:12:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41791,
+    "type": "page",
+    "date": "2019-12-29T22:25:17+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41794,
+    "type": "page",
+    "date": "2019-12-29T23:05:25+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41798,
+    "type": "page",
+    "date": "2019-12-29T23:24:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41802,
+    "type": "page",
+    "date": "2019-12-29T23:37:50+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41804,
+    "type": "page",
+    "date": "2019-12-30T00:19:43+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41807,
+    "type": "page",
+    "date": "2019-12-30T00:47:00+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41811,
+    "type": "page",
+    "date": "2019-12-30T00:58:41+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41815,
+    "type": "page",
+    "date": "2019-12-30T01:06:43+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41817,
+    "type": "page",
+    "date": "2019-12-30T01:14:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41819,
+    "type": "page",
+    "date": "2019-12-30T01:36:21+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41824,
+    "type": "page",
+    "date": "2019-12-30T01:44:28+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41829,
+    "type": "page",
+    "date": "2019-12-30T11:20:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41831,
+    "type": "page",
+    "date": "2019-12-30T11:24:21+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41833,
+    "type": "page",
+    "date": "2019-12-30T11:34:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41837,
+    "type": "page",
+    "date": "2019-12-30T11:45:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41842,
+    "type": "page",
+    "date": "2019-12-30T12:07:25+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41844,
+    "type": "page",
+    "date": "2019-12-30T12:19:45+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41846,
+    "type": "page",
+    "date": "2019-12-30T12:34:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41849,
+    "type": "page",
+    "date": "2019-12-30T13:05:23+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41855,
+    "type": "page",
+    "date": "2019-12-30T22:05:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41859,
+    "type": "page",
+    "date": "2019-12-30T22:18:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41861,
+    "type": "page",
+    "date": "2019-12-30T22:26:56+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41864,
+    "type": "page",
+    "date": "2019-12-30T22:35:57+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41867,
+    "type": "page",
+    "date": "2019-12-30T22:57:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41870,
+    "type": "page",
+    "date": "2019-12-30T23:08:36+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41872,
+    "type": "page",
+    "date": "2019-12-30T23:21:10+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41874,
+    "type": "page",
+    "date": "2019-12-30T23:29:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41876,
+    "type": "page",
+    "date": "2019-12-30T23:37:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41879,
+    "type": "page",
+    "date": "2019-12-30T23:46:27+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41882,
+    "type": "page",
+    "date": "2019-12-30T23:47:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41884,
+    "type": "page",
+    "date": "2019-12-31T00:02:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41886,
+    "type": "page",
+    "date": "2019-12-31T00:06:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41888,
+    "type": "page",
+    "date": "2019-12-31T00:09:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41891,
+    "type": "page",
+    "date": "2019-12-31T00:20:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41903,
+    "type": "page",
+    "date": "2019-12-31T00:30:59+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41914,
+    "type": "page",
+    "date": "2019-12-31T00:36:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41916,
+    "type": "page",
+    "date": "2019-12-31T00:37:33+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41918,
+    "type": "page",
+    "date": "2019-12-31T00:40:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41920,
+    "type": "page",
+    "date": "2019-12-31T00:42:34+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41922,
+    "type": "page",
+    "date": "2019-12-31T00:43:41+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41924,
+    "type": "page",
+    "date": "2019-12-31T00:44:41+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41926,
+    "type": "page",
+    "date": "2019-12-31T00:47:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41930,
+    "type": "page",
+    "date": "2019-12-31T00:49:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41932,
+    "type": "page",
+    "date": "2019-12-31T00:50:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41934,
+    "type": "page",
+    "date": "2019-12-31T00:51:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41936,
+    "type": "page",
+    "date": "2019-12-31T00:52:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41938,
+    "type": "page",
+    "date": "2019-12-31T00:53:44+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41941,
+    "type": "page",
+    "date": "2019-12-31T00:54:33+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41943,
+    "type": "page",
+    "date": "2019-12-31T00:55:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41945,
+    "type": "page",
+    "date": "2019-12-31T00:56:10+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41947,
+    "type": "page",
+    "date": "2019-12-31T00:56:56+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 41988,
+    "type": "post",
+    "date": "2020-01-02T06:18:23+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 42003,
+    "type": "page",
+    "date": "2020-01-02T20:34:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42004,
+    "type": "page",
+    "date": "2020-01-02T20:37:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42008,
+    "type": "page",
+    "date": "2020-01-02T21:07:34+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42010,
+    "type": "page",
+    "date": "2020-01-02T21:09:01+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42012,
+    "type": "page",
+    "date": "2020-01-02T21:10:03+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42029,
+    "type": "page",
+    "date": "2020-01-02T21:19:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42031,
+    "type": "page",
+    "date": "2020-01-03T06:21:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42055,
+    "type": "page",
+    "date": "2020-01-06T05:50:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42063,
+    "type": "page",
+    "date": "2020-01-06T06:05:42+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42074,
+    "type": "post",
+    "date": "2020-01-06T06:08:52+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42110,
+    "type": "page",
+    "date": "2020-01-07T06:20:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42132,
+    "type": "post",
+    "date": "2020-01-07T06:21:34+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42143,
+    "type": "page",
+    "date": "2020-01-08T06:03:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42156,
+    "type": "post",
+    "date": "2020-01-08T06:16:35+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42165,
+    "type": "page",
+    "date": "2020-01-09T06:12:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42179,
+    "type": "post",
+    "date": "2020-01-09T06:14:24+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42194,
+    "type": "page",
+    "date": "2020-01-10T05:53:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42208,
+    "type": "post",
+    "date": "2020-01-10T05:54:25+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42233,
+    "type": "page",
+    "date": "2020-01-13T06:00:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42255,
+    "type": "post",
+    "date": "2020-01-13T06:02:51+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42267,
+    "type": "page",
+    "date": "2020-01-16T05:53:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42280,
+    "type": "post",
+    "date": "2020-01-16T05:55:56+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42290,
+    "type": "page",
+    "date": "2020-01-17T06:08:41+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42313,
+    "type": "post",
+    "date": "2020-01-17T06:13:52+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42315,
+    "type": "page",
+    "date": "2020-01-20T06:10:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42327,
+    "type": "post",
+    "date": "2020-01-20T06:11:44+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42335,
+    "type": "page",
+    "date": "2020-01-21T05:47:15+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42349,
+    "type": "post",
+    "date": "2020-01-21T05:57:18+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42352,
+    "type": "post",
+    "date": "2020-01-22T06:13:57+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 42441,
+    "type": "page",
+    "date": "2020-01-28T05:51:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 42458,
+    "type": "post",
+    "date": "2020-01-28T05:53:29+00:00",
+    "category": [
+      "Best of 2019"
+    ],
+    "reason": "category excluded: Best of 2019"
+  },
+  {
+    "id": 42518,
+    "type": "post",
+    "date": "2020-02-05T05:56:39+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 42809,
+    "type": "post",
+    "date": "2020-02-18T06:25:38+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 43067,
+    "type": "post",
+    "date": "2020-03-11T06:55:43+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 43086,
+    "type": "post",
+    "date": "2020-03-12T06:30:27+00:00",
+    "category": [
+      "Video Premiere"
+    ],
+    "reason": "premiere with little text (136 own words)"
+  },
+  {
+    "id": 44127,
+    "type": "post",
+    "date": "2020-04-28T06:06:50+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 44423,
+    "type": "post",
+    "date": "2020-05-12T06:45:56+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 44637,
+    "type": "post",
+    "date": "2020-05-26T06:05:22+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 44793,
+    "type": "post",
+    "date": "2020-06-09T09:17:19+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 45031,
+    "type": "post",
+    "date": "2020-06-23T08:40:53+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 45257,
+    "type": "post",
+    "date": "2020-07-07T06:16:34+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 45424,
+    "type": "post",
+    "date": "2020-07-28T06:48:03+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 46328,
+    "type": "post",
+    "date": "2020-09-17T05:45:57+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 46647,
+    "type": "post",
+    "date": "2020-10-13T05:56:41+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 46799,
+    "type": "page",
+    "date": "2020-10-23T05:08:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 46841,
+    "type": "page",
+    "date": "2020-10-23T04:41:23+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 46932,
+    "type": "post",
+    "date": "2020-10-28T06:42:56+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 46981,
+    "type": "page",
+    "date": "2020-10-30T11:34:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47022,
+    "type": "page",
+    "date": "2020-11-06T09:30:09+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47208,
+    "type": "post",
+    "date": "2020-11-10T06:56:50+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 47262,
+    "type": "page",
+    "date": "2020-11-13T10:22:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47294,
+    "type": "page",
+    "date": "2020-11-14T13:55:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47369,
+    "type": "page",
+    "date": "2020-11-20T08:38:00+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47551,
+    "type": "post",
+    "date": "2020-11-25T09:54:11+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 47572,
+    "type": "page",
+    "date": "2020-11-27T07:49:25+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47716,
+    "type": "page",
+    "date": "2020-12-04T09:55:33+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 47838,
+    "type": "post",
+    "date": "2020-12-08T10:01:44+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 47897,
+    "type": "page",
+    "date": "2020-12-18T11:24:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48013,
+    "type": "page",
+    "date": "2020-12-20T19:16:50+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48110,
+    "type": "post",
+    "date": "2020-12-23T10:11:26+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 48224,
+    "type": "page",
+    "date": "2020-12-26T07:37:48+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48242,
+    "type": "page",
+    "date": "2020-12-26T08:18:11+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48281,
+    "type": "page",
+    "date": "2020-12-27T16:59:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48294,
+    "type": "page",
+    "date": "2020-12-27T17:14:18+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48308,
+    "type": "page",
+    "date": "2020-12-27T17:42:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48329,
+    "type": "page",
+    "date": "2020-12-28T07:14:23+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48365,
+    "type": "page",
+    "date": "2020-12-30T08:39:09+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48414,
+    "type": "page",
+    "date": "2021-01-04T13:27:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48417,
+    "type": "page",
+    "date": "2021-01-04T13:39:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48424,
+    "type": "post",
+    "date": "2021-01-04T13:45:08+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48443,
+    "type": "page",
+    "date": "2021-01-05T12:47:15+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48456,
+    "type": "post",
+    "date": "2021-01-05T12:50:15+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48581,
+    "type": "page",
+    "date": "2021-01-13T14:00:32+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48589,
+    "type": "post",
+    "date": "2021-01-13T14:01:53+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48592,
+    "type": "page",
+    "date": "2021-01-14T14:12:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48600,
+    "type": "post",
+    "date": "2021-01-14T14:15:36+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48610,
+    "type": "page",
+    "date": "2021-01-15T16:19:09+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48616,
+    "type": "post",
+    "date": "2021-01-15T16:20:32+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48649,
+    "type": "page",
+    "date": "2021-01-18T14:48:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48667,
+    "type": "post",
+    "date": "2021-01-18T14:50:04+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48670,
+    "type": "page",
+    "date": "2021-01-19T13:46:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48679,
+    "type": "post",
+    "date": "2021-01-19T13:47:26+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48696,
+    "type": "page",
+    "date": "2021-01-22T14:20:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48708,
+    "type": "post",
+    "date": "2021-01-22T14:21:10+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48771,
+    "type": "page",
+    "date": "2021-01-25T15:29:28+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48779,
+    "type": "post",
+    "date": "2021-01-25T15:30:37+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48784,
+    "type": "post",
+    "date": "2021-01-26T14:05:33+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 48804,
+    "type": "page",
+    "date": "2021-01-27T15:18:11+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48808,
+    "type": "post",
+    "date": "2021-01-27T15:20:13+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48818,
+    "type": "page",
+    "date": "2021-01-28T14:19:42+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48831,
+    "type": "post",
+    "date": "2021-01-28T14:20:46+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48859,
+    "type": "page",
+    "date": "2021-01-29T15:48:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48867,
+    "type": "post",
+    "date": "2021-01-29T15:49:51+00:00",
+    "category": [
+      "Best of 2020"
+    ],
+    "reason": "category excluded: Best of 2020"
+  },
+  {
+    "id": 48871,
+    "type": "page",
+    "date": "2021-01-30T07:48:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48874,
+    "type": "page",
+    "date": "2021-01-30T07:54:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 48876,
+    "type": "page",
+    "date": "2021-01-30T10:35:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 49083,
+    "type": "page",
+    "date": "2021-02-06T16:37:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 49339,
+    "type": "post",
+    "date": "2021-02-16T08:00:02+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 49403,
+    "type": "page",
+    "date": "2021-02-20T11:32:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 49749,
+    "type": "post",
+    "date": "2021-03-09T11:24:35+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 49837,
+    "type": "page",
+    "date": "2021-03-13T12:24:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 50002,
+    "type": "post",
+    "date": "2021-03-24T07:43:53+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 50157,
+    "type": "page",
+    "date": "2021-04-04T13:09:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 50209,
+    "type": "post",
+    "date": "2021-04-06T07:01:43+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 51157,
+    "type": "page",
+    "date": "2021-04-18T05:59:44+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 51202,
+    "type": "post",
+    "date": "2021-04-18T06:21:15+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 51249,
+    "type": "post",
+    "date": "2021-04-21T07:46:15+00:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 51313,
+    "type": "page",
+    "date": "2021-04-25T07:51:32+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 51371,
+    "type": "post",
+    "date": "2021-04-25T07:54:51+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 51398,
+    "type": "post",
+    "date": "2021-04-27T08:09:42+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 51457,
+    "type": "page",
+    "date": "2021-05-02T14:13:45+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 51522,
+    "type": "post",
+    "date": "2021-05-02T14:17:24+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 51626,
+    "type": "post",
+    "date": "2021-05-12T07:06:49+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 51719,
+    "type": "page",
+    "date": "2021-05-16T13:09:06+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 51761,
+    "type": "post",
+    "date": "2021-05-16T13:13:14+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 51816,
+    "type": "post",
+    "date": "2021-05-19T15:28:18+00:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 51962,
+    "type": "page",
+    "date": "2021-05-30T07:36:18+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 52001,
+    "type": "post",
+    "date": "2021-05-30T07:41:06+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 52039,
+    "type": "post",
+    "date": "2021-06-02T08:42:31+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 52255,
+    "type": "post",
+    "date": "2021-06-22T08:21:49+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 52325,
+    "type": "page",
+    "date": "2021-06-29T09:48:30+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 52379,
+    "type": "post",
+    "date": "2021-06-29T09:51:44+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 52417,
+    "type": "post",
+    "date": "2021-07-21T08:16:49+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 52587,
+    "type": "page",
+    "date": "2021-08-08T14:33:33+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 52631,
+    "type": "post",
+    "date": "2021-08-08T14:35:39+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 52640,
+    "type": "post",
+    "date": "2021-08-10T11:09:45+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 52726,
+    "type": "post",
+    "date": "2021-08-20T09:31:09+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 52754,
+    "type": "page",
+    "date": "2021-08-22T13:06:11+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 52798,
+    "type": "post",
+    "date": "2021-08-22T13:09:25+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 52873,
+    "type": "post",
+    "date": "2021-09-01T08:54:00+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 52935,
+    "type": "page",
+    "date": "2021-09-05T07:32:07+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 52984,
+    "type": "post",
+    "date": "2021-09-05T07:36:38+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 53136,
+    "type": "page",
+    "date": "2021-09-19T13:03:31+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 53178,
+    "type": "post",
+    "date": "2021-09-19T13:10:58+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 53317,
+    "type": "page",
+    "date": "2021-10-03T12:50:19+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 53366,
+    "type": "post",
+    "date": "2021-10-03T12:55:30+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 53573,
+    "type": "page",
+    "date": "2021-10-17T14:56:08+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 53624,
+    "type": "post",
+    "date": "2021-10-17T14:59:01+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 53725,
+    "type": "post",
+    "date": "2021-10-27T08:33:46+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 53786,
+    "type": "page",
+    "date": "2021-10-31T14:56:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 53835,
+    "type": "post",
+    "date": "2021-10-31T14:59:08+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 53869,
+    "type": "post",
+    "date": "2021-11-03T08:37:31+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 54035,
+    "type": "page",
+    "date": "2021-11-21T14:36:28+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54106,
+    "type": "post",
+    "date": "2021-11-21T14:38:38+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 54219,
+    "type": "post",
+    "date": "2021-11-30T11:02:46+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 54323,
+    "type": "post",
+    "date": "2021-12-15T16:44:09+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 54361,
+    "type": "page",
+    "date": "2021-12-19T09:43:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54409,
+    "type": "post",
+    "date": "2021-12-19T09:46:21+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 54431,
+    "type": "post",
+    "date": "2021-12-22T12:34:04+00:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 54446,
+    "type": "post",
+    "date": "2021-12-29T13:32:18+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 54470,
+    "type": "page",
+    "date": "2022-01-03T09:21:15+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54477,
+    "type": "page",
+    "date": "2022-01-03T09:35:25+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54482,
+    "type": "post",
+    "date": "2022-01-03T09:44:56+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54526,
+    "type": "page",
+    "date": "2022-01-04T06:35:39+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54530,
+    "type": "post",
+    "date": "2022-01-04T06:39:21+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54555,
+    "type": "page",
+    "date": "2022-01-05T07:00:34+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54563,
+    "type": "post",
+    "date": "2022-01-05T07:02:08+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54590,
+    "type": "post",
+    "date": "2022-01-05T15:59:07+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 54602,
+    "type": "page",
+    "date": "2022-01-06T06:44:55+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54609,
+    "type": "post",
+    "date": "2022-01-06T06:46:38+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54670,
+    "type": "page",
+    "date": "2022-01-07T06:50:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54677,
+    "type": "post",
+    "date": "2022-01-07T06:51:46+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54745,
+    "type": "page",
+    "date": "2022-01-10T09:45:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54752,
+    "type": "post",
+    "date": "2022-01-10T09:46:53+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54809,
+    "type": "page",
+    "date": "2022-01-11T07:37:45+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54815,
+    "type": "post",
+    "date": "2022-01-11T07:40:25+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54818,
+    "type": "page",
+    "date": "2022-01-12T10:22:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54824,
+    "type": "post",
+    "date": "2022-01-12T10:23:52+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54871,
+    "type": "page",
+    "date": "2022-01-14T09:36:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54879,
+    "type": "post",
+    "date": "2022-01-14T09:38:25+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54918,
+    "type": "page",
+    "date": "2022-01-17T10:34:05+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54922,
+    "type": "post",
+    "date": "2022-01-17T11:00:41+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 54937,
+    "type": "page",
+    "date": "2022-01-18T11:02:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 54950,
+    "type": "post",
+    "date": "2022-01-18T11:04:53+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 55041,
+    "type": "page",
+    "date": "2022-01-23T06:41:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 55045,
+    "type": "page",
+    "date": "2022-01-23T07:40:34+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 55095,
+    "type": "post",
+    "date": "2022-01-23T07:43:53+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 55114,
+    "type": "page",
+    "date": "2022-01-26T06:24:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 55119,
+    "type": "post",
+    "date": "2022-01-26T06:25:50+00:00",
+    "category": [
+      "Best of 2021"
+    ],
+    "reason": "category excluded: Best of 2021"
+  },
+  {
+    "id": 55182,
+    "type": "post",
+    "date": "2022-02-01T13:13:05+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 55248,
+    "type": "page",
+    "date": "2022-02-14T05:53:29+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 55289,
+    "type": "post",
+    "date": "2022-02-14T05:56:02+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 55295,
+    "type": "post",
+    "date": "2022-02-15T08:55:28+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 56149,
+    "type": "page",
+    "date": "2022-06-01T08:08:49+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 56285,
+    "type": "post",
+    "date": "2022-06-01T08:11:02+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 56329,
+    "type": "post",
+    "date": "2022-06-07T11:10:52+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 56479,
+    "type": "post",
+    "date": "2022-06-15T08:41:33+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 56770,
+    "type": "page",
+    "date": "2022-07-03T08:36:02+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 56806,
+    "type": "post",
+    "date": "2022-07-03T08:40:27+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 57271,
+    "type": "page",
+    "date": "2022-08-01T11:39:43+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 57329,
+    "type": "post",
+    "date": "2022-08-01T11:41:38+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 57701,
+    "type": "page",
+    "date": "2022-09-05T06:33:26+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 57800,
+    "type": "post",
+    "date": "2022-09-05T06:36:21+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 58208,
+    "type": "page",
+    "date": "2022-10-08T14:07:01+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 58252,
+    "type": "post",
+    "date": "2022-10-08T14:08:47+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 58263,
+    "type": "page",
+    "date": "2022-10-09T15:22:19+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 58304,
+    "type": "post",
+    "date": "2022-10-09T15:24:00+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 58586,
+    "type": "page",
+    "date": "2022-10-30T08:08:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 58632,
+    "type": "post",
+    "date": "2022-10-30T08:10:10+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 58727,
+    "type": "page",
+    "date": "2022-11-06T07:28:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 58765,
+    "type": "post",
+    "date": "2022-11-06T07:31:17+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 58885,
+    "type": "page",
+    "date": "2022-11-20T11:14:41+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 58934,
+    "type": "post",
+    "date": "2022-11-20T11:17:11+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 59084,
+    "type": "page",
+    "date": "2022-11-30T08:27:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59201,
+    "type": "page",
+    "date": "2022-12-04T07:35:07+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59263,
+    "type": "post",
+    "date": "2022-12-04T07:38:41+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 59502,
+    "type": "page",
+    "date": "2022-12-18T07:34:11+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59548,
+    "type": "post",
+    "date": "2022-12-18T07:36:44+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 59743,
+    "type": "page",
+    "date": "2023-01-02T09:38:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59758,
+    "type": "page",
+    "date": "2023-01-03T07:24:45+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59765,
+    "type": "post",
+    "date": "2023-01-03T07:30:56+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59808,
+    "type": "page",
+    "date": "2023-01-04T08:09:52+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59815,
+    "type": "post",
+    "date": "2023-01-04T08:14:40+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59832,
+    "type": "page",
+    "date": "2023-01-05T08:33:17+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59839,
+    "type": "post",
+    "date": "2023-01-05T08:35:34+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59855,
+    "type": "page",
+    "date": "2023-01-06T09:09:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59859,
+    "type": "post",
+    "date": "2023-01-06T09:11:35+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59907,
+    "type": "page",
+    "date": "2023-01-09T08:20:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59914,
+    "type": "post",
+    "date": "2023-01-09T08:23:29+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59947,
+    "type": "page",
+    "date": "2023-01-10T08:45:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59956,
+    "type": "post",
+    "date": "2023-01-10T08:47:45+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 59979,
+    "type": "page",
+    "date": "2023-01-11T07:49:34+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 59984,
+    "type": "post",
+    "date": "2023-01-11T07:51:13+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60030,
+    "type": "post",
+    "date": "2023-01-13T05:45:23+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 60074,
+    "type": "page",
+    "date": "2023-01-16T08:31:18+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60085,
+    "type": "post",
+    "date": "2023-01-16T08:34:08+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60118,
+    "type": "page",
+    "date": "2023-01-17T09:49:02+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60129,
+    "type": "post",
+    "date": "2023-01-17T09:50:31+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60153,
+    "type": "page",
+    "date": "2023-01-18T06:25:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60160,
+    "type": "post",
+    "date": "2023-01-18T06:27:14+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60290,
+    "type": "page",
+    "date": "2023-01-23T07:24:46+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60303,
+    "type": "post",
+    "date": "2023-01-23T07:27:14+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60321,
+    "type": "page",
+    "date": "2023-01-24T07:01:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60332,
+    "type": "post",
+    "date": "2023-01-24T07:03:45+00:00",
+    "category": [
+      "Best of 2022"
+    ],
+    "reason": "category excluded: Best of 2022"
+  },
+  {
+    "id": 60454,
+    "type": "page",
+    "date": "2023-01-30T05:58:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60456,
+    "type": "page",
+    "date": "2023-01-30T06:58:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60518,
+    "type": "post",
+    "date": "2023-01-30T07:02:10+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 60555,
+    "type": "post",
+    "date": "2023-02-01T06:41:30+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 60766,
+    "type": "page",
+    "date": "2023-02-12T07:12:48+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 60812,
+    "type": "post",
+    "date": "2023-02-12T07:14:31+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 60904,
+    "type": "post",
+    "date": "2023-02-15T06:37:31+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 61020,
+    "type": "post",
+    "date": "2023-02-23T06:57:25+00:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 61085,
+    "type": "post",
+    "date": "2023-03-01T08:15:02+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 61157,
+    "type": "page",
+    "date": "2023-03-05T07:08:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 61202,
+    "type": "post",
+    "date": "2023-03-05T07:10:47+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 61354,
+    "type": "post",
+    "date": "2023-03-14T08:49:17+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 61405,
+    "type": "page",
+    "date": "2023-03-19T12:55:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 61464,
+    "type": "post",
+    "date": "2023-03-19T12:58:00+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 61552,
+    "type": "post",
+    "date": "2023-03-23T07:01:46+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 61668,
+    "type": "post",
+    "date": "2023-04-05T06:12:40+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 61742,
+    "type": "page",
+    "date": "2023-04-10T06:29:38+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 61784,
+    "type": "post",
+    "date": "2023-04-10T06:31:11+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 61980,
+    "type": "page",
+    "date": "2023-04-30T07:09:18+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 62020,
+    "type": "post",
+    "date": "2023-04-30T07:11:30+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 62063,
+    "type": "post",
+    "date": "2023-05-03T08:34:58+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 62198,
+    "type": "post",
+    "date": "2023-05-10T07:56:59+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 62309,
+    "type": "page",
+    "date": "2023-06-19T16:06:59+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 62345,
+    "type": "post",
+    "date": "2023-06-19T16:10:48+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 62373,
+    "type": "post",
+    "date": "2023-06-21T08:24:16+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 62384,
+    "type": "page",
+    "date": "2023-06-22T08:21:33+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 62420,
+    "type": "post",
+    "date": "2023-06-22T08:24:44+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 62575,
+    "type": "page",
+    "date": "2023-07-09T05:56:18+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 62600,
+    "type": "post",
+    "date": "2023-07-09T06:00:30+01:00",
+    "category": [
+      "Best of..."
+    ],
+    "reason": "category excluded: Best of..."
+  },
+  {
+    "id": 62609,
+    "type": "page",
+    "date": "2023-07-16T07:42:27+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 62711,
+    "type": "post",
+    "date": "2023-07-16T07:45:03+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 62991,
+    "type": "post",
+    "date": "2023-08-08T11:27:40+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63070,
+    "type": "page",
+    "date": "2023-09-09T09:42:30+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 63097,
+    "type": "post",
+    "date": "2023-08-22T08:12:26+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63200,
+    "type": "post",
+    "date": "2023-08-29T08:30:47+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63250,
+    "type": "post",
+    "date": "2023-09-05T06:21:32+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63260,
+    "type": "post",
+    "date": "2023-09-06T06:31:26+01:00",
+    "category": [
+      "Contemplative Podcast"
+    ],
+    "reason": "category excluded: Contemplative Podcast"
+  },
+  {
+    "id": 63358,
+    "type": "post",
+    "date": "2023-09-09T09:44:26+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 63409,
+    "type": "post",
+    "date": "2023-09-14T05:36:43+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63522,
+    "type": "post",
+    "date": "2023-09-19T05:13:19+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63592,
+    "type": "page",
+    "date": "2023-09-24T06:49:45+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 63647,
+    "type": "post",
+    "date": "2023-09-24T06:52:27+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 63666,
+    "type": "post",
+    "date": "2023-09-26T06:13:17+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63715,
+    "type": "post",
+    "date": "2023-10-03T06:22:09+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 63884,
+    "type": "page",
+    "date": "2023-10-15T13:46:47+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 63940,
+    "type": "post",
+    "date": "2023-10-15T13:50:27+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 64218,
+    "type": "page",
+    "date": "2023-11-06T05:16:27+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 64270,
+    "type": "post",
+    "date": "2023-11-06T05:19:48+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 64335,
+    "type": "page",
+    "date": "2023-11-22T05:10:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 64385,
+    "type": "post",
+    "date": "2023-11-22T05:12:29+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 66120,
+    "type": "post",
+    "date": "2023-12-27T08:52:05+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 66141,
+    "type": "page",
+    "date": "2023-12-30T10:10:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66188,
+    "type": "post",
+    "date": "2023-12-30T10:13:14+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 66192,
+    "type": "page",
+    "date": "2023-12-31T07:51:32+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66234,
+    "type": "post",
+    "date": "2023-12-31T07:53:48+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 66241,
+    "type": "page",
+    "date": "2024-01-01T06:19:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66257,
+    "type": "page",
+    "date": "2024-01-01T07:11:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66267,
+    "type": "post",
+    "date": "2024-01-01T07:15:47+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66296,
+    "type": "page",
+    "date": "2024-01-02T06:31:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66305,
+    "type": "post",
+    "date": "2024-01-02T06:33:19+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66319,
+    "type": "page",
+    "date": "2024-01-03T05:30:22+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66327,
+    "type": "post",
+    "date": "2024-01-03T05:31:55+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66336,
+    "type": "page",
+    "date": "2024-01-04T06:14:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66344,
+    "type": "post",
+    "date": "2024-01-04T06:15:46+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66388,
+    "type": "page",
+    "date": "2024-01-05T05:46:31+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66399,
+    "type": "post",
+    "date": "2024-01-05T05:48:09+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66412,
+    "type": "post",
+    "date": "2024-01-06T07:11:34+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 66421,
+    "type": "page",
+    "date": "2024-01-08T05:55:20+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66434,
+    "type": "post",
+    "date": "2024-01-08T05:58:14+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66459,
+    "type": "page",
+    "date": "2024-01-09T06:01:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66465,
+    "type": "post",
+    "date": "2024-01-09T06:03:59+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66485,
+    "type": "post",
+    "date": "2024-01-10T05:53:53+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66486,
+    "type": "page",
+    "date": "2024-01-10T05:52:02+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66519,
+    "type": "page",
+    "date": "2024-01-11T06:13:22+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66526,
+    "type": "post",
+    "date": "2024-01-11T06:14:46+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66598,
+    "type": "page",
+    "date": "2024-01-15T05:53:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66605,
+    "type": "post",
+    "date": "2024-01-15T05:55:00+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66630,
+    "type": "page",
+    "date": "2024-01-16T05:30:43+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66637,
+    "type": "post",
+    "date": "2024-01-16T05:32:52+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66660,
+    "type": "page",
+    "date": "2024-01-17T06:05:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66667,
+    "type": "post",
+    "date": "2024-01-17T06:06:43+00:00",
+    "category": [
+      "Best of 2023"
+    ],
+    "reason": "category excluded: Best of 2023"
+  },
+  {
+    "id": 66722,
+    "type": "page",
+    "date": "2024-01-22T05:46:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 66738,
+    "type": "post",
+    "date": "2024-01-22T05:48:24+00:00",
+    "category": [
+      "Best of..."
+    ],
+    "reason": "category excluded: Best of..."
+  },
+  {
+    "id": 66749,
+    "type": "post",
+    "date": "2024-01-23T05:34:08+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 66848,
+    "type": "post",
+    "date": "2024-01-31T05:50:10+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 67060,
+    "type": "page",
+    "date": "2024-02-26T05:53:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 67096,
+    "type": "page",
+    "date": "2024-02-26T05:44:08+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 67108,
+    "type": "post",
+    "date": "2024-02-26T05:58:00+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 67306,
+    "type": "page",
+    "date": "2024-03-07T09:59:56+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 67339,
+    "type": "post",
+    "date": "2024-03-07T10:01:30+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 67594,
+    "type": "page",
+    "date": "2024-03-25T06:06:10+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 67650,
+    "type": "post",
+    "date": "2024-03-25T06:20:13+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 67985,
+    "type": "page",
+    "date": "2024-05-02T06:13:00+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 68023,
+    "type": "post",
+    "date": "2024-05-02T06:14:47+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 68038,
+    "type": "page",
+    "date": "2024-05-06T07:50:30+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 68090,
+    "type": "post",
+    "date": "2024-05-06T07:53:04+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 68128,
+    "type": "post",
+    "date": "2024-05-10T06:40:23+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 68831,
+    "type": "page",
+    "date": "2024-07-07T07:54:12+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 68892,
+    "type": "post",
+    "date": "2024-07-07T07:56:27+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 68937,
+    "type": "post",
+    "date": "2024-07-10T07:12:10+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 69134,
+    "type": "page",
+    "date": "2024-07-21T07:47:10+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 69164,
+    "type": "post",
+    "date": "2024-07-21T07:49:08+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 69813,
+    "type": "page",
+    "date": "2024-09-01T06:36:52+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 69850,
+    "type": "post",
+    "date": "2024-09-01T06:38:35+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 69922,
+    "type": "page",
+    "date": "2024-09-15T09:48:53+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 70047,
+    "type": "post",
+    "date": "2024-09-15T09:50:32+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 70220,
+    "type": "page",
+    "date": "2024-09-29T07:58:39+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 70263,
+    "type": "post",
+    "date": "2024-09-29T08:00:00+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 70576,
+    "type": "page",
+    "date": "2024-10-20T05:47:09+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 70651,
+    "type": "post",
+    "date": "2024-10-20T05:51:41+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 71008,
+    "type": "page",
+    "date": "2024-11-03T06:06:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 71049,
+    "type": "post",
+    "date": "2024-11-03T06:07:55+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 71294,
+    "type": "page",
+    "date": "2024-11-17T07:20:04+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 71323,
+    "type": "post",
+    "date": "2024-11-17T07:21:50+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 72305,
+    "type": "page",
+    "date": "2024-12-08T07:47:17+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 72387,
+    "type": "post",
+    "date": "2024-12-08T07:49:22+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 73210,
+    "type": "page",
+    "date": "2025-01-01T04:55:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73219,
+    "type": "page",
+    "date": "2025-01-01T05:57:37+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73224,
+    "type": "post",
+    "date": "2025-01-01T06:05:05+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73256,
+    "type": "page",
+    "date": "2025-01-02T05:31:21+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73269,
+    "type": "post",
+    "date": "2025-01-02T05:35:47+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73274,
+    "type": "page",
+    "date": "2025-01-03T07:04:48+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73287,
+    "type": "post",
+    "date": "2025-01-03T07:14:08+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73297,
+    "type": "page",
+    "date": "2025-01-04T06:04:57+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73313,
+    "type": "post",
+    "date": "2025-01-04T06:18:37+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73321,
+    "type": "page",
+    "date": "2025-01-05T06:24:20+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73339,
+    "type": "post",
+    "date": "2025-01-05T06:27:10+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73343,
+    "type": "page",
+    "date": "2025-01-06T06:02:47+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73368,
+    "type": "post",
+    "date": "2025-01-06T06:09:36+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73373,
+    "type": "page",
+    "date": "2025-01-07T05:30:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73380,
+    "type": "post",
+    "date": "2025-01-07T05:45:35+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73383,
+    "type": "page",
+    "date": "2025-01-08T05:48:39+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73403,
+    "type": "post",
+    "date": "2025-01-08T05:55:11+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73407,
+    "type": "page",
+    "date": "2025-01-09T05:12:51+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73417,
+    "type": "post",
+    "date": "2025-01-09T05:14:40+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73450,
+    "type": "page",
+    "date": "2025-01-10T04:54:40+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73455,
+    "type": "post",
+    "date": "2025-01-10T05:01:06+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73467,
+    "type": "post",
+    "date": "2025-01-11T08:56:45+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 73477,
+    "type": "page",
+    "date": "2025-01-12T04:39:11+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73486,
+    "type": "post",
+    "date": "2025-01-12T04:43:40+00:00",
+    "category": [
+      "Best of 2024"
+    ],
+    "reason": "category excluded: Best of 2024"
+  },
+  {
+    "id": 73578,
+    "type": "page",
+    "date": "2025-02-23T14:05:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73580,
+    "type": "page",
+    "date": "2025-02-23T13:29:24+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73615,
+    "type": "post",
+    "date": "2025-02-23T14:08:54+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 73622,
+    "type": "post",
+    "date": "2025-02-24T05:56:19+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 73656,
+    "type": "page",
+    "date": "2025-02-26T05:39:00+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73658,
+    "type": "page",
+    "date": "2025-02-26T05:47:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73776,
+    "type": "page",
+    "date": "2025-03-16T06:23:53+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73808,
+    "type": "post",
+    "date": "2025-03-16T06:26:47+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 73816,
+    "type": "page",
+    "date": "2025-03-25T05:16:26+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73915,
+    "type": "page",
+    "date": "2025-04-18T16:30:30+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 73962,
+    "type": "post",
+    "date": "2025-04-18T16:33:17+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 73967,
+    "type": "page",
+    "date": "2025-04-29T05:04:47+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74007,
+    "type": "post",
+    "date": "2025-04-24T05:47:32+01:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 74135,
+    "type": "page",
+    "date": "2025-05-18T05:16:03+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74194,
+    "type": "post",
+    "date": "2025-05-18T05:19:51+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 74362,
+    "type": "page",
+    "date": "2025-06-08T07:10:13+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74408,
+    "type": "post",
+    "date": "2025-06-08T07:19:47+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 74530,
+    "type": "page",
+    "date": "2025-07-13T07:32:12+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74607,
+    "type": "post",
+    "date": "2025-07-13T07:34:00+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 74740,
+    "type": "page",
+    "date": "2025-08-10T05:56:29+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74772,
+    "type": "post",
+    "date": "2025-08-10T06:00:28+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 74819,
+    "type": "page",
+    "date": "2025-08-31T06:52:24+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74913,
+    "type": "post",
+    "date": "2025-08-31T06:53:57+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 74933,
+    "type": "page",
+    "date": "2025-09-28T09:11:13+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 74998,
+    "type": "post",
+    "date": "2025-09-28T09:13:29+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 75079,
+    "type": "page",
+    "date": "2025-10-26T04:26:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75113,
+    "type": "post",
+    "date": "2025-10-26T04:35:04+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 75583,
+    "type": "page",
+    "date": "2025-11-29T05:48:20+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75596,
+    "type": "post",
+    "date": "2025-11-29T05:50:16+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 75695,
+    "type": "post",
+    "date": "2025-12-25T06:57:57+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 75714,
+    "type": "page",
+    "date": "2026-01-01T06:47:58+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75725,
+    "type": "page",
+    "date": "2026-01-01T06:44:54+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75748,
+    "type": "page",
+    "date": "2026-01-04T05:55:48+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75756,
+    "type": "post",
+    "date": "2026-01-01T06:55:00+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75758,
+    "type": "post",
+    "date": "2026-01-01T06:59:51+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75764,
+    "type": "post",
+    "date": "2026-01-04T05:59:57+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75793,
+    "type": "page",
+    "date": "2026-01-07T06:02:31+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75800,
+    "type": "post",
+    "date": "2026-01-07T06:04:43+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75815,
+    "type": "page",
+    "date": "2026-01-10T05:34:01+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75821,
+    "type": "post",
+    "date": "2026-01-10T06:08:06+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75832,
+    "type": "page",
+    "date": "2026-01-14T05:09:13+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75837,
+    "type": "post",
+    "date": "2026-01-14T05:11:07+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75849,
+    "type": "page",
+    "date": "2026-01-18T06:15:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75860,
+    "type": "post",
+    "date": "2026-01-18T06:17:53+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75869,
+    "type": "page",
+    "date": "2026-01-21T04:15:30+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75878,
+    "type": "post",
+    "date": "2026-01-21T04:18:17+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75894,
+    "type": "page",
+    "date": "2026-01-23T05:51:38+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75898,
+    "type": "post",
+    "date": "2026-01-23T05:53:50+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75914,
+    "type": "page",
+    "date": "2026-01-26T05:10:59+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75918,
+    "type": "post",
+    "date": "2026-01-26T05:13:47+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75933,
+    "type": "page",
+    "date": "2026-01-29T04:39:07+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75936,
+    "type": "post",
+    "date": "2026-01-29T04:41:18+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75962,
+    "type": "page",
+    "date": "2026-02-02T05:03:35+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 75966,
+    "type": "post",
+    "date": "2026-02-02T05:06:13+00:00",
+    "category": [
+      "Best of 2025"
+    ],
+    "reason": "category excluded: Best of 2025"
+  },
+  {
+    "id": 75988,
+    "type": "post",
+    "date": "2026-02-05T05:11:39+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 76018,
+    "type": "page",
+    "date": "2026-02-09T06:19:14+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 76019,
+    "type": "page",
+    "date": "2026-02-09T06:13:19+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 76025,
+    "type": "post",
+    "date": "2026-02-09T06:22:26+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 76075,
+    "type": "post",
+    "date": "2026-02-19T05:48:32+00:00",
+    "category": [
+      "Mixes"
+    ],
+    "reason": "category excluded: Mixes"
+  },
+  {
+    "id": 76099,
+    "type": "page",
+    "date": "2026-02-22T06:45:16+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 76106,
+    "type": "post",
+    "date": "2026-02-22T06:50:42+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 76227,
+    "type": "page",
+    "date": "2026-03-22T06:42:22+00:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 76236,
+    "type": "post",
+    "date": "2026-03-22T06:44:46+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 76367,
+    "type": "page",
+    "date": "2026-04-26T06:30:10+01:00",
+    "category": [],
+    "reason": "page not selected for the archive"
+  },
+  {
+    "id": 76378,
+    "type": "post",
+    "date": "2026-04-26T06:31:55+01:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  },
+  {
+    "id": 78103,
+    "type": "post",
+    "date": "2026-10-25T04:37:27+00:00",
+    "category": [
+      "Out Today"
+    ],
+    "reason": "category excluded: Out Today"
+  }
+]

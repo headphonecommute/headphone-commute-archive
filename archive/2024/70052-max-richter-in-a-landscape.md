@@ -1,0 +1,26 @@
+---
+id: 70052
+title: "Max Richter - In A Landscape"
+date: "2024-09-17T07:03:09+01:00"
+category: ["Albums"]
+---
+
+### *"I’m always looking for ways to get to the essence of things, to get to the simplest version of everything."*
+
+### Release Notes
+
+**Label:** Decca\
+**Released:** September 6th, 2024\
+**Mastered By:** Cicely Balston
+
+It's been some time since I properly covered one of my all-time favourite composers. Not that I haven't been listening. **Max Richter**'s monumental *SLEEP* (2015) often shows up on my rotations, including some of its glorious many offshoots, like *Sleep (Remixes)* and *Sleep (Piano Version)*, not to forget last year's *SLEEP (Tranquility Base)*, which appeared on my Best of the Year list in Music For The Film Behind Closed Eyelids. There was also his two-part album *Voices* (2020) and *Exiles* (2021), and, wow, could it be that time has gone by so fast since I re-visited with him here, even though I spoke to Max about all of the above in this [**Interview with Max Richter**](../2020/45776-interview-with-max-richter.md), published four years ago, during the COVID-19 breakout. If you browse Discogs, you may get overwhelmed by the collection of music available from this German-born British composer in just the last few years. Among them, there are many film scores and soundtracks, like *Ad Astra* (2019), *Invasion* (2021), and *Spaceman* (2024) via **Deutsche Grammophon** and his home label, **Decca**. Not to forget *[The New Four Seasons - Vivaldi Recomposed](https://www.maxrichter-fourseasons.com/uk/)*, performed on period instruments and the early Moog. And yet, *In A Landscape* is Richter's only ninth solo studio album, "*the first to be written and recorded at his serene new studio in rural Oxfordshire*", less driven by the themes projected after others and more created from within. This is the natural voice of Max Richter, one I fell in love with over two decades ago, and, for me, it's like spending an hour with a friend.
+
+There are many intriguing things I can mention about this album. For example, Richter's approach to minimalism is borderline elementary - listen to the chord progression on the very first track, "They Will Shade Us With Their Wings," and wonder how such a simple walk of a scale can be so transporting and effective. And yet, in Richter's composition, it is precisely this modest style that evokes so much emotion, feeling and soul. I can proclaim that many modern classical composers have tried to copy the sense and sensibility expressed in Richter's music, but I can always tell when it's Richter's alone. There is a brooding, melancholy undertone, handled with carefully directed dynamics and eloquent layering, the themes weaving into themselves and triggering new synapses on each rotation. Max Richter can play the exact repeating phrase for hours, and every time you hear the same eight bars, you will be moved into a new spellbinding place. This is the real magic of his transforming composition that is, as I said above, unique to him alone.
+
+> The title ‘In a Landscape’ can be heard in two ways: as it’s written, or as ‘in-ner landscape’, as it sounds. These are the kind of polarities that I’m exploring: between the external and the internal, electronic and instrumental, the technological world against the natural world.
+>
+> *-- Max Richter*
+
+Among the long-playing pieces on the album, there are also short vignettes and field recordings named *Life Studies*. Similarly, references to geological epochs, soundscapes of an ecosystem, and vocalizations of the biodiversity of this planet are referenced on a few solo piano tracks. I can almost imagine Max walking through the woods in Oxfordshire, making these recordings. I can picture him pausing and having a look around. Then, I envision him capturing the moment with a hand-written notation in his eco-conscious studio, designed by him and his wife, visual artist Yulia Mahr. There is an interweaving concept in this album, and it's a reflection on everything that we have created as a human race, the good and the ugly, but mostly imaginary, occupying our minds with the insistent thoughts of the reality that we project.
+
+I think that I haven't covered someone like Max Richter because I already expect you to know. I expect that you follow this incredible contemporary composer and, like me, hungrily compose everything that he creates. And it's worth once in a while to pause and reflect on the impact he's had on the world of composition. If you haven't noticed, let me assure you that his label has. Decca is going all out on this particular release. There is a digital version, of course, but then there is a compact disc, a 2xLP on black vinyl, a 2x 140g green recycled vinyl (already sold out), a notebook, a t-shirt and even a tote bag featuring a snippet of the notation from the album, and then there are packages combining the above in various ways. I'm currently listening to the 24-bit 96kHz digital stream via Qobuz, which features five extra edited pieces. In the end, it doesn't matter which version of this album you decide to obtain - all that matters is that you connect with the music. Be sure to catch Max Richter in concert - you can see an extensive list of his tour dates [directly on his site](https://maxrichtermusic.com/pages/calendar).

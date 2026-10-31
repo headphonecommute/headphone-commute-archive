@@ -1,0 +1,24 @@
+---
+id: 55658
+title: "Spencer Zahn, Federico Albanese, and James Heather"
+date: "2022-05-05T08:19:37+01:00"
+category: ["⟪ REW | FF ⟫"]
+---
+
+# Spencer Zahn
+
+## Pale Horizon
+
+Something jazzy hangs in the morning breeze, and at first, I'm not even sure if these bright piano chords are going to be the right accompaniment for my slightly gloomy mood, but then the wind blows, the bass plucks, and the sky opens up to let a bit of sunshine through. Between the seemingly joyful major scales, there is something melancholy and retrospective in the music of **Spencer Zahn**, who "*explored a more restrained, resonant mode of playing, letting chords delay all the way to silence until the seeds of songs took shape.*" This is his second record for the New York and London-based **Cascine** imprint, but the first for me, falling somewhere between Americana, neo-classical, and jazz. And although this particular genre of instrumental music doesn't often pop up on these pages, today it seems to be just the right thing, for the right reasons. "*This is jazz as private reverie, murmurings of the heart at dusk and dawn, as light leaves and returns. Days become years; loves become lives. Nothing is static, least of all music.*" Deep resonations of an upright bass play very nicely with the fluttering piano notes of the upper register, just slightly muted, just slightly delayed. The pieces seem to be so plain and bare, but it's in this minimalistic approach that you can hear the soul of this multi-instrumentalist composer. And it is humble, frank and pure. Fans of **Ryuichi Sakamoto**, **Chilly Gonzales**, and **Aukai** will be delighted with these tracks.
+
+# Federico Albanese
+
+## Before And Now Seems Infinite
+
+After a handful of modern classical releases across German labels, such as **Denovali**, **Berlin Classics**, and **Neue Meister** [all of which appeared on these pages at one time or another], Italian composer **Federico Albanese** moves on to the celebrated **Mercury KX** for his latest full length, titled *Before And Now Seems Infinite.* In October of last year (2021) I premiered the track "[The Quiet Man](../2021/53766-federico-albanese-the-quiet-man.md)" taken from this album. The full album came out in February, and, after witnessing Federico's live performance at London's **Southbank Centre**, I am still very much enjoying this album. The show featured Federico's mesmerising piano accompanied by a cello, but I have to say that the studio album is a whole other experience. This is an immaculately produced cinematic voyage that gently blends quiet piano melodies with sprawling strings, atmospheric synth treatments, and deeply warming bass. The album captures the moments of passing time, somewhere between the past and present, between imagined and experienced, and how our recollection of these moments tends to colour our new experiences. "*Ultimately, Before And Now Seems Infinite is not only a beautiful and haunting collection of memories but a portrait of the artist, in all his multiple layers of emotion and experience, with a new memory.*" A wonderful collection of neo-classical compositions that I keep playing on repeat, alongside all of my favourites from **Max Richter**, **Sophie Hutchings**, **Julien Marchal**, and **Otto A. Totland**. An absolute keeper for your playlist for many years to come!
+
+# James Heather
+
+## Invisible Forces
+
+Since his debut entry into a contemporary classical world, with his 2017 release *Stories From Far Away On Piano,* London-based composer and pianist, **James Heather**, is back on Ninja Tune's offshoot, **Ahead Of Our Time**, with a collection of eleven pieces under the name *Invisible Forces*. Heather's recordings are quiet, contemplative, and intimate, as he examines the undetected and the unknown, which seem to move us, guide us, and ultimately reveal the inevitable truth. Is it indeed something else beyond our understanding, or is it all just electrical impulses constantly evolving in a determined outcome of chemistry and physics? The music on the album "*is about becoming aware of invisible forces around us to help deepen understanding of self and our connection to the world, from tuning into the natural world and getting lost in its patterns and energies to gaining more knowledge around ancestral lines such as the concept of epigenetics.*" Semi-improvised solo piano passages seem to flow from Heather's fingers unrestricted from the imposed structure of a rhythm, notation, or a pre-defined progressive arc - and instead reflect the deeper emotional state of this sensible composer as he guides every melody with that "instinct" which is also another invisible force. This is unadorned, unembellished, and unpretentious music, streaming freely from his soul, during which this artist invites you to share some introspective time. Fans of **Fabrizio Paterlini**, **Bruno Sanfilippo**, **Alex Kozobolis** and **Tambour** will agree.

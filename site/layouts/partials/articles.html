@@ -1,0 +1,2 @@
+{{- /* All archived articles, newest first. */ -}}
+{{- return (where site.RegularPages "Section" "archive").ByDate.Reverse -}}

@@ -1,0 +1,74 @@
+---
+id: 28505
+title: "In the studio with Rafael Anton Irisarri (THE RETURN)"
+date: "2015-11-23T06:57:02-05:00"
+category: ["Studios"]
+---
+
+***Talk a bit about the new environment that you're in -- the New York suburbs are very different from your Seattle life. How does that affect you and your music?***
+
+I'm not entirely sure I'm in the 'burbs per se, as I live in a rural area. There is no tract housing around here, which I think is the most recognizable aspect of suburbia. I think the Lower Hudson Valley is considered an exurb of NYC. Of course, a lot of people in the city erroneously refer to this area as “upstate,” since it's very rural. I don't, I always refer to it as “the woods.” It certainly is not upstate, as most people from like Syracuse will tell you! Anyway, it's an entirely different pace than Seattle and West Coast life in general. When I first moved east, there was no love lost. I thought the place was filthy, overcrowded and filled with self-absorbed assholes. Once I moved out of the city and settled in the woods, things started to feel a bit different. Isolation was a good thing for me, specially out on this side. I still think of the east coast as a very strange place culturally. Finding a descent cup of coffee if always a challenge (or more of a long drive down to Gimme Coffee in Brooklyn).There are however many things I enjoy of living out here. For example, I live only about a 40 minute drive from North America's largest minimalist museum, the Dia: Beacon in Beacon, NY. I visit frequently, love walking around the little town. Can't beat that!
+
+In Seattle, as you may remember, I had a fairly large community around me, built mostly around the Substrata Festival. When I first moved out to the woods, I thought I'd be very isolated. As it turned out, I actually live about 15 mins from Taylor Deupree (who's an amazing artist, mastering engineer and label boss of 12K). So we see each other quite frequently, hang out in the studios, test gear, etc. I'm actually borrowing his iconic TR-808 (from Prototype 909 days) while he is out on tour in Japan and using it on my new The Sight Below record. And of course, in the city I'm close to the Ghostly family. I visit the city quite often and hang out with them whenever possible. They've been fundamental in getting me back to work and have nothing but kind praise for them.
+
+***How long has it been since you've been rebuilding your new studio and how do you feel about the progress?***
+
+It's been a little over a year, filled with many bits of progress and some crushing letdowns. It's part of the process of adapting to a new environment and the learning curve that comes along with it. But overall I'm pretty satisfied with the progress made. A studio is never 100% “finished” anyway, it's always in a state of flux. Since I've been in the new room, I've gone thru a least five iterations – it's been changing around every couple of months or so. You probably would notice immediately from the last time you visited the studio.
+
+***Tell us about your overall vision for the rebirth of the Black Knoll Studio.***
+
+In Seattle, the studio was tailored towards composing, songwriting, and recording my own music, with a little bit of mixing and mastering thrown in there. The bulk of it however was creating my own music. A large portion of my catalog comprised of stock music which I'd license for different projects. That catalog, unfortunately, doesn't exist anymore, as it was lost along with everything else.
+
+Here in New York, I decided to focus on mixing and mastering for an assortment of logistical reasons. I've been fortunate enough to build a very solid roster and discography credits over the years. Artists and labels trust my judgement, and thus far worked on some really amazing albums since the studio became operational back in February. I've done tons of work for Ghostly this year, they have consistently kept me busy every month and I'm eternally grateful.
+
+In terms of an overall vision, I've said this on my studio website: “I'm extremely selective on the material I decide to work on, as I do not work on music I do not believe in or enjoy. How can anyone do a good job if they do not genuinely enjoy listening to the material they'll be mastering or mixing? I'm not interested in just taking anyone's money, while yet helping unleash another atrocious album into an already saturated music environment. There's a level of integrity and social responsibility in what I do, and I want to make sure my work doesn't contribute to the problem. I require to listen to the material before committing to the project. If I do not like the music, I will not work on it. Period.”
+
+***Since you had to start from a clean slate, was there a particular approach you applied to the design as opposed to just accumulating gear?***
+
+Yes, absolutely. My approach has been rather modular, acquiring bits and pieces of gear as I go along, whenever I find need for a new piece of gear. Everything I own today serves a very specific purpose and gets used, for the most part, on a daily basis. For example, I didn't buy a microphone pre-amp or a microphone until I actually needed one for a project with a singer. I scored an LA-610 on eBay, so I've kept it and plan to use it on my own recordings moving forward. I'd say I've gotten better at identifying what exactly is needed in order to acquire items more effectively. I've built good relationships with a few manufacturers like Eventide, Moog, Radial, etc – all of them have kindly sponsored equipment which I'm proud to showcase whenever possible.
+
+***What is the most important environmental aspect of your current workspace and what are you still trying to improve on?***
+
+My current workspace is a critical listening environment. The first big investment I made was painstakingly correcting all the room acoustics. That took a lot of time and resources to get it right. I eventually had a company work with me. The person who designed it had mastering and mixing work in mind and all the decision-making was based on that criteria. This makes my room fantastic for doing really precise technical work. I can, for example, listen to a track, and almost instantly identify which element is poorly EQ'd, overcompressed, artifacts, ducking, or out-of-phase – in some cases, I'll get dizzy listening to out-of-phase content. But having such a clinical setup also comes with a few downsides: it makes it almost impossible to stream music off the Internet. Everything sounds just terrible (as you probably are aware, being an audiophile yourself). It also limits your ability to enjoy music without focusing on the technical stuff. Therefore, if I'm listening to something for pleasure, I usually do it in my living room.
+
+All that said, my current workspace is rather sterile for writing music. The room is much smaller than my previous one in Seattle (though bigger than most studios for Brooklyn standards). That size doesn't leave much space in there for bringing in large instruments like a piano, amps, and the sort of thing that occupies a lot of space in a room. Eventually, as time and money allows, I'd like to build a bigger room out here in the woods. I'd love to incorporate a lot of those composing aspects I used to have in my Seattle studio, be able to record and write music in the inspiring setting I have in my backyard, surrounded by trees and woodland creatures.
+
+***Is there a piece of hardware that you now own that you don't think you would have otherwise acquired?***
+
+Yes, actually, but not due to the robbery. A few months ago, I had the opportunity to buy a pair of Barefoot MM27 monitors from Taylor Deupree. They are amazingly transparent monitors, and I love working on them. That said, I probably wouldn't have gotten those had Taylor not been selling them, given me a really good “friend's deal” and accommodate me to pay for them in a very relaxed way.
+
+***Is there still a piece that you dearly miss?***
+
+A piano would be fantastic, along with a few synths, microphones and amps that I used to have in the Seattle studio. I still have a long list of gear to reacquire since I've focused on mixing and mastering gear, as opposed to all the songwriting tools I had accumulated over almost 20 years. Not necessarily gear, but of all things, I think I miss my record collection the most. Lots of great memories tied to it.
+
+***Is the overall approach in the new studio more slanted towards mastering (work?) or composing (play?) or both?***
+
+Right now my workload is about 65% mastering, 25% mixing, and 10% composing my own music. This week for example, I've been mastering the new Xeno & Oaklander album, while the rest of the time I've carved myself some space to write the next The Sight Below album. But that's not usually the case, as there's been weeks that I've had zero time to work on my own music. And that's fine too, after all, I'm doing something I love and working on music I enjoy.
+
+***How do you approach each piece when you are hired to master it?***
+
+I don't really have a set formula, it really depends on the piece of music. The most important thing is I need to like it. That's crucial for me. Afterwards, I'll take a first listen and get a ballpark on what needs to be corrected before I can enhance it. If I find elements that can be corrected at the mixstage, I'll work with the artist and engineer who mixed it, make suggestions, get things fixed. See, mastering is all about subtle, small improvements, not large, sudden changes – that's something you'd do at the mixstage, where you have control over the individual elements of a track. My goal whenever I master a recording is not to just make it LOUD, but make it sound nicer, fuller, cohesive, with a certain distinct sonic character, to make them sound “like a record,” as the saying goes.
+
+***I don't believe you master your very own work—can you talk about the reasons behind this decision?***
+
+I relish having that extra pair of ears listen to my creations, opine, and give me some feedback. I think of it as a system of checks and balances. I enjoy having a conversation on how my music should sound with people I trust.
+
+Having a fresh perspective always helps. That's why I've built close relationships with a few engineers I respect, and welcome their feedback. I find this more important than owning super expensive pieces of gear. I wouldn't want, for example, the same engineer who worked on the latest EDM atrocity touching my music – it just wouldn't be right for me, no matter how great their studio might be in terms of equipment.
+
+***What would a Black Knoll Studio offer to a musician that no other mastering house could?***
+
+I like to think of my approach as slightly different. I build a relationship with the artists, labels and engineers based on mutual respect and offer a dedicated, one-on-one approach. I coach clients how to produce better, how to correct common mistakes at the tracking or mixing stages and how to avoid the pitfalls (phasing issues is a big pet peeve for me). I offer clients who request tracks “louder” a different perspective and explain why louder is not necessarily better. In the end, it's all about creating community around you, around others, around your work and the work of others. As you probably are aware, there is a plethora of online mastering and mixing services available these days. Navigating and finding the right one for you can be a very long and time consuming process, a bit overwhelming really. I offer very affordable rates, as my overhead expenses are fairly low allowing me to be flexible. That said, I'm not in the business of undercutting anyone or taking up anyone's work. I'd like to think that people would hire me because they like what I do, my aesthetic, my perspective, and not because I'd work for less than X or Y studio. That's why I don't bid on projects. I don't believe in competition, but rather collaboration – whenever I'm not suited for a project, I'll pass it along to others. I'd like to think others would do the same. It's very easy to feel jaded when one has been overlooked and felt an opportunity should have gone to you because you were better suited. That's the wrong way to see it. As I've been proven over and over again: something else ALWAYS comes along, something that will suit you well. There is space for everyone. Just let the quality of the work speak for itself.
+
+***What particular new techniques did you try on A Fragile Geography?***
+
+I used a lot of harmonic distortion on this album. In fact, Lawrence English added some extra layers of grit to it. We both felt the ugliness & beauty of overdriven circuitry was a good contrast to the very calm and pleasant passages in many of the songs. A sort of duality: an anxiety that mirrors my personal troubles and overall state of mind of the general American public in these very trying and tense times.
+
+***Looking back at everything that happened, do you still feel as if it was an unnecessary tragedy, or somehow an opportunity to start over that made you stronger and better in some way?***
+
+As the saying goes, what doesn't kill you only makes you stronger. It put a lot of things in perspective, brought me closer to people I care about and helped me weed out of my life others that brought negativity. Showed me who are truly friends and who wasn't. Of course, there's not a single day that goes by when I think about this stuff. Simple things, like, oh, I thought I had this or that, only to realize you don't anymore. The things that are most painful are the irreplaceable stuff, the things you cherish cause they remind you of a loved ones long gone, and now there's only a faint memory. For those of us who enjoy documenting life (as I do with music), it's always challenging to come to terms. But on the positive side, it has made me grow as a person, artist, musician. I used to think you needed things to be creative, and as it turned out, I've managed to make work with whatever resources I had at hand. This has always been a key part of my creative process (turning a limitation into a possibility), and this only served as a reminder to put it to use again, return to the basics and remove any unnecessary clutter.
+
+***What are your thoughts on looking ahead into the future?***
+
+I look forward to working everyday, learning, creating and continuing building a community out here. I'm in the process of writing the new TSB album for Ghostly. Hoping to finish it on time for a 2016 release. Aside from that, I'd like to collaborate with more artists and invite people up here on a regular basis. There's a long list of people to invite over, starting with Benoît Pioulard. It's been long overdue!
+
+[blackknollstudio.com](http://www.blackknollstudio.com/) | [irisarri.org](http://irisarri.org/)

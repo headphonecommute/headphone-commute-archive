@@ -1,0 +1,14 @@
+---
+id: 32464
+title: "James Heather - Stories From Far Away on Piano"
+date: "2017-11-02T02:50:00-05:00"
+category: ["Albums"]
+---
+
+Is it me, or have there been a lot of solo piano releases in the last few years? (Have I asked this question before?) I guess it’s not really a great time to release my very own solo piano album (plug!) since it’s barely possible to stand out. (Or is it?) There also have been a few new and more established labels jumping on the bandwagon of this re-emerging post-classical genre, with **Ninja Tune**‘s offshoot, **Ahead Of Our Time** [Coldcut’s imprint “*and playground for free expression/experimentation*“], being the latest big player on the scene, with this release by **James Heather**. So how does one make a dent among the flurry of twinkling notes, somber chords, and nostalgic melodies? I suppose it all comes down to the message within, and more importantly to its delivery – music, after all, is just another communication protocol – and what is being communicated happens to be the composer’s inner soul, their complex ‘self’ that can’t be put in words, their sensitivity to life, their sensitivity to living.
+
+All this talk of living in the current world is not for naught. Constantly being bombarded by information, the so-called news, and unnecessary music become more than overwhelming in its constant saturation and sensory fatigue. No wonder I have to retreat from all this noise and settle into silence once a year to reflect on everything around me. Heather, himself, has nearly faced the end, having “*nearly died in a traumatic road traffic accident, leaving him in a coma in intensive care and then off work for an extended time.*” For his own internal retrospection, Heather turns to stories, an interpretation of real-world news, that reveal themselves through titles of the tracks, and of course the music.
+
+> The album is an appeal to emotion, a way of bringing the listener in, to evoke an empathetic response, this is my interpretation of stories I discovered. The stories themselves are not the focus, but the piano assimilation is, as the album is about viewpoint, opinion and perspective.
+
+Across the nine solo piano pieces on *Stories From Far Away on Piano*, Heather explores motifs of sorrow, empathy, and ultimately triumph over grief. The melodies glimmer with the blurry images seen through a window of a moving train, through rolling raindrops on a windshield, through fluttering yellow leaves in the autumn breeze. This debut is a follow-up to an earlier introduced *Modulations: EP1*, to which I listen in succession. It is unclear, whether, as an employee of the label, Heather benefits from some additional publicity across the globe, but what is clear is that I wouldn’t share his music if I didn’t love it. You cannot possibly entice me for these words. So with that thought, I’ll leave you with **James Heather**, because he definitely deserves your moment of regard.

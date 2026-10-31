@@ -1,0 +1,22 @@
+---
+id: 30430
+title: "Unsound Festival - Kraków 2016 (Preview)"
+date: "2016-09-26T05:40:32-05:00"
+category: ["Festivals and Events"]
+---
+
+I've tried to go to Unsound for over a decade now. Of course, the festival made an appearance in my hometown, New York City, in 2010, 2012, and 2014, but there's nothing like the authentic experience in its birth city, Kraków, which requires a completely different dedication in time (and money). I decided to make 2016 as the year of my investment to fly over to Poland for a week-long immersion in sound and art, and I'm happy to report that so far everything is falling into place, with my travel arrangements nearly complete!
+
+This year, the theme of the festival is *Dislocation*, and it seems very fitting to the overall personal and public events going on in my life:
+
+> *One concerns the long and provocative tension between “centre” and “periphery” often fueling cultural development. At a time when the world feel increasingly unstable we’re more consciously exploring fertile peripheries in the context of geography, politics, identity, online interaction and more generally the contemporary social environment.*
+
+From the very first wave of performing artists, I knew I would have to attend. The festival passes, along with the initial program announcement, came out on May 30th, and were immediately sold out, leaving individual venue and showcase tickets up for grabs at the day of the event. These initial live collaborations include **Moritz von Oswald** with **Ordo Sakhna**; **Felicita** with Polish dancers will be "synthesizing traditional choreography and costume with new music to create a hypnotic multimedia experience"; and **Matmos** will be performing with Kraków's **Sinfonietta Cracovia** an opera for a television set in the American Midwest. **Forest Swords** will premiere material from his upcoming record, while footwork pioneer **Traxman** will play a set back two back with **DJ Fulltono** from Tokyo. The very same news included performances by **Roly Porter**, **Raime,** and **Orphx,** so I absolutely had to be there!
+
+The second wave of artists included **Helm** to perform alongside the Greek **Embassy For The Displaced** collective and Russian musician **Moa Pillar** presenting their new PAN collaboration "towards a visual exploration of diverse landscapes through digital media". I'm also looking forward to a performance by an Israeli Conductor, **Ivan Volkov** with **Body Sculptures** which is the **Northern Electronics** collective of **Varg, Erik Enocksson, Puce Mary** and **Vit Vana.** Germany's **Robert Lippok** will play alongside **Askat Jetegin** over **Lillevan**'s visuals of melting glaciers. While some free afternoon showcases will include Sweden's **Peder Mannerfelt** and **Stine Janvin Motland**. And then, of course, there is **Death Grips**!!!
+
+The third announcement included **Kyle Dixon** and **Michael Stein** to perform works from their score to the TV show "Stranger Things". **Demdike Stare** will premiere a new live show based on their *Testpressing* series, alongside a site-specific project from **Emptyset**. Russian born **Dasha Rush** will present her A/V show with **Stanislav Glasov**. And Chicago based **Phuture** will share a bill with **Anthony "Shake" Shakor**. Underground techno will be represented by **Bryan Kasenic** from his *The Bunker* club night. Analogue abstract synth molds will be sculpted by **Rashad Becker**, **Ceglarek & Dybała**, **Aarps**, and **Poly Chain**.
+
+As usual, the full lineup is way too big to list here (see links below). And the festival has not even announced all of the films, art installations and an extensive daytime discussion program! But besides the well-known names (to me) that I have already mentioned, I am looking forward to discovering some new names, especially of the Polish origin, so I'll be sure to attend showcases by **Anna Zaradny**, **Stara Rzeka, We Will Fail** and **Wacław Zimpel**. The festival takes place across numerous venues in Kraków from October 16 - 23rd, 2016. For more info, check out this list of [Artists](http://www.unsound.pl/dislocation/music_groups), [Schedule](http://www.unsound.pl/dislocation/events), and [Tickets](http://www.unsound.pl/dislocation/tickets). Be sure to also read Headphone Commute 2014 [Interview with Mat Schulz](../2014/23917-interview-with-mat-schulz.md), the founder of Unsound Festival. See you there!!!
+
+[unsound.pl](http://www.unsound.pl/)

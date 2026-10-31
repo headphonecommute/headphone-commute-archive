@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>Categories</h1>
+<p class="page-intro">Headphone Commute's editorial sections. Some articles belong to more than one.</p>
+<ul class="tiles wide">
+{{- range .Data.Terms.ByCount }}
+  <li><a href="{{ .Page.RelPermalink }}"><b>{{ .Page.LinkTitle }}</b><span>{{ .Count }} articles</span></a></li>
+{{- end }}
+</ul>
+{{ end }}

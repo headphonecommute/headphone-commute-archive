@@ -1,0 +1,12 @@
+---
+id: 1228
+title: "Ital Tek - Cyclical"
+date: "2008-07-27T17:03:06-05:00"
+category: ["Albums"]
+---
+
+OK, I was going to de-capitalize the artist and album name appropriately, but it screws up my nice formatting. I'm sure that Alan Myson won't mind. Hailing out of Brighton (UK), this is Myson's first full length release. There were a couple of 12" back in 2007 various labels, plus a few file releases here and there, but that's all. I first came across iTAL tEK on 10 Tons Heavy compilation, followed by 200, and now Mary Anne Hobbs drops his tune on her Evangeline - all released on Planet Mu. The above appearances should lovingly pigeonhole Myson's music into a dubstep genre.
+
+Through eleven tracks, Myson explores all facets of the uprising style, from dark to melodic, and from experimental to dance-floor. As an album, it is a very involved listening experience, begging to be returned to over and over to uncover its multi-layered production that will satisfy the break-,IDM-,and bass-heads alike. In the recent years, dubstep has been a hit or miss for me. I mostly end up tossing away records that exploit the genre's popularity by applying the tiring old formula - sample this here, apply the syncopated beat there, drop in the wobbling bass, and repeat. The volume of current underground output reminds me of the days when gabber swept Rotterdam in the mid-90s: anything was up for grabs as long as it employed the squirrely vocals and distorted 909 kicks spun above 150bpm. Only the gems outlast the hype to survive through history for another rotation. Myson stands among the few artists that integrate and employ the genre's characteristics with an intelligent design, bringing dubstep closer to the electronica for listeners, and gaining a permanent presence on my shelves of classic albums.
+
+That being said, Planet Mu is responsible for pushing the boundaries of electronic evolution, keeping up with the trends and exciting our neurons. It is with a full support of such an established label, among the many independent and progressive smaller counterparts, that the musicians and fans alike, will benefit for the years to come. Thanks, Mike [ed. Paradinas]! Keep it rolling. My good friend, Rob Booth, over at [Electronic Explorations](http://electronicexplorations.org/), is also a big fan. He recently hosted [Ital Tek's Exclusive Mix](http://electronicexplorations.org/the-show/week-028-ital-tek/) with a couple of unreleased tracks - it's a must. Recommended for fans of Boxcutter, Pinch, Vex'd, The Gasman, and Distance.

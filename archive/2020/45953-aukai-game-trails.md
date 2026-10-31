@@ -1,0 +1,28 @@
+---
+id: 45953
+title: "Aukai - Game Trails"
+date: "2020-08-29T07:26:50+00:00"
+category: ["Albums"]
+---
+
+### Release Notes
+
+**Released:** August 2020\
+**Mastered By:** Martyn Heyne\
+**Artwork By:** Gregory Euclide\
+**See Also:** ["Akal Ki"](44466-aukai-akal-ki.md) Exclusive Track Premiere\
+**If You Like:** Tambour, Bersarin Quartett, Brambles, and Hior Chronik
+
+[aukaimusic.com](https://www.aukaimusic.com/)
+
+I have to admit, I'm not a real fan of the guitar. I feel like I've heard too many rock bands in the 90s. The combination of the two guitars, the bass, and drums have left me slightly dry in terms of exploration. I also have to admit that it's not fair to compare this instrument to its wide usage in rock music and beyond. The instrument itself has so much more to offer. And yet, I'm still not drawn to classical guitar or that of the flamenco. That is until I came upon **Aukai**'s music. Aukai plays ronroco. He plays ronroco with his soul and combination of the plucks, the atmospheric treatments and the harmonic textures create a cinematic plot in which I'm lost and spellbound. Ronroco is a cousin of the charango, a stringed instrument from South America found in the Andes regions of Bolivia, Peru, and Argentina. It is a grandchild of vihuela, from which the mandolin, the lute, and yes, the classical guitar was born. The Spanish settlers introduced the instrument sometime in the 18th century, and some believe that its small armadillo-shaped soundbox came as a result of hiding it from conquistadors by the natives. In the years that followed, the roncoco developed its own unique design and sound, with ten nylon strings typically tuned GCEAE. The sound emitted from its oval wooden base (can be made from Jacaranda, Naranjillo, and even Palo Santo) is a soft, reverberating, mid to high in pitch plucked strum. But why don't you just listen?
+
+I first discovered music by **Markus Sieber**, who records under his **Aukai** moniker back in 2018, when he released his sophomore album, titled [*Branches Of Sun*](../2018/33504-aukai-branches-of-sun.md), which subsequently landed on my Best of Lists in *Music For The Frosty Night When I Miss Your Warm Light*. A year later, Sieber self-released *Reminiscence* (January 2019) and yesterday we finally got *Game Trails*, from which I happily premiered a track, "[Akal Ki](44466-aukai-akal-ki.md)" a few months back. Before we dive into the beauty of this album, there are a few more credits I must drop. The pieces feature more than just ronroco. Besides his beloved instrument, Sieber also plays guitar, bass, glockenspiel and synth lines from the microKORG and Dave SMith's Prophet '08. We also hear **Anne Müller** on the cello, **Bogdan Djukic** on the violin, **Angelika Baumbach** on the harp, **Lisa Morgenstern** with the traditional Bulgarian singing appearing on the piece named "Zora" (means "dawn"). There are a couple of others that I'll apologetically skip in this review. The album is mixed and mastered by **Martyn Heyne** at his Berlin-based **Lichte Studio**, while the cover features mesmerizing art by the one and only **Gregory Euclide**, who has already graced so many favourite releases in the past [I even own a limited edition print which I display alongside records].
+
+The music on *Game Trails* is organic, often tracing an emotional trajectory through nature, self-discovery, and peace. The dynamics and timbers of each instrument are well placed within the mix, filling the frequency spectrum with a unique thread of this veil. There is a sense of comfort, confidence and good vibe throughout its 40-minute playtime, each with a tint of slight nostalgia and sentimental mood, that's needed, oh so much, in these confusing, mundane hours. With every piece, a slight warm summer breeze sneaks through the windows of my room, and tip-toes to the shadows, and shoos away the dust bunnies with its pranks. The name of the album is titled after animal paths created over the many years in the forest. It captures a journey, a walk through the mountains, a trek along the river banks, nomadic life and bird migration. And although *Game Trails* embodies the spirit of wandering, it also tells a story of a wandering spirit.
+
+> The ronroco is the sound of the mountains - it has this freedom, this wide-open-chest feeling of just being who you are [...] Game Trails is made on the road, it’s a travelling album. When I’m out on a hike it’s very interesting to hop on these game trails and see where they take you. You never know where you will end up, it can be a really nice destination or you can get lost, but somehow they help you to proceed in the forest at all [...] The sense of nature is in every piece, and from that comes a sense of calm. That’s what nature brings to me, inner freedom.
+>
+> *-- Markus Sieber*
+
+The album is released on vinyl and CD, and you, of course, can stream it on your favoured platforms. There are also a few music videos which you can watch on [Aukai's YouTube Channel](https://www.youtube.com/c/AukaiMusic/videos), with one of them featuring an [Interview with Markus](https://www.youtube.com/watch?v=8Jhkl-J0MPI) where he explains the history behind his project name, the album, and the music. I always found it important to connect with the artist not just through their music, but also through their words, to glimpse the soul behind the eyes, that place where heart and mind reside in essence. Highly recommended for fans of instrumental, ambient, and minimal music, from the likes of some piano and cinematic composers such as **Tambour**, **Brambles**, **Henrik Lindstrand**, **Danny Mulhern**, **Hior Chronik**, and **Bersarin Quartett**.

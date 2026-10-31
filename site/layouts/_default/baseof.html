@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
+<meta name="generator" content="Hugo {{ hugo.Version }}">
+{{- $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{- block "head" . }}{{ end }}
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="{{ "index.html" | relURL }}">Headphone Commute Archive</a>
+    <nav class="site-nav" aria-label="Archive">
+      {{- $here := .RelPermalink }}
+      {{- range slice (slice "archive.html" "All articles") (slice "years.html" "Years") (slice "category.html" "Categories") (slice "search.html" "Search") (slice "about.html" "About") }}
+      <a href="{{ index . 0 | relURL }}"{{ if eq $here (index . 0 | relURL) }} aria-current="page"{{ end }}>{{ index . 1 }}</a>
+      {{- end }}
+    </nav>
+  </div>
+</header>
+<main id="content">
+  <div class="wrap">
+  {{ block "main" . }}{{ end }}
+  </div>
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    {{- with site.Data.manifest }}
+    <div>Text archive of Headphone Commute, 2007 onward. Archive version {{ .archive_version }}.</div>
+    {{- end }}
+    <div>Articles © Mike Lazarev / Headphone Commute, licensed <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license noopener">CC BY-NC-ND 4.0</a>; guest articles © their authors.</div>
+    <div>Plain Markdown, freely downloadable and verifiable: <a href="{{ "about.html" | relURL }}">how this archive works</a>{{ with site.Params.repoURL }} · <a href="{{ . }}">source repository</a>{{ end }}{{ with site.Params.downloadURL }} · <a href="{{ . }}">download everything</a>{{ end }}.</div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,24 @@
+---
+id: 38304
+title: "Celer, Jordan Christoff, and Russ Young"
+date: "2019-04-12T06:39:53+00:00"
+category: ["Sound Bytes"]
+---
+
+# Celer
+
+## Xièxie
+
+Throughout the last decade, **Will Long** continued handling the candle of light of that very special **Celer** sound even when darkness has swallowed it all. The consummation, content, and most importantly consistency of his output has remained the guiding torch in my nights as well. The Discogs page lists over 200 releases and 2019 sees already a few, on **Patient Sounds Intl** and **Avalance Recordings**, but it is for his very own **Two Acorns** imprint that Long retains the best. The Chinese word *Xièxie* (谢谢), which translates to 'thank you,' accompanies Long on his journey to Shanghai, where memories, imagined or very real, flood all his senses with grey passing rain. The deep inner longing, regretful nostalgia, and glum melancholia permeate every soft wave in a mist of the sound, captured in fast-moving trains, alongside sad doorways, or places of hope, where waiting in vain we lastly close eyelids, and rest in a dreamless, forever remembered, but sadly invented, reflected deep sleep. "*Everything moves faster than we can control. Days are just flashes, moments are mixed up but burned on film, and all of the places and times are out of order. If it could only be us, only ours. If it was ours, if it was us.*" Be sure to read more words by Long on the Bandcamp release page to get a full sense of the atmosphere. The album was mastered by **Stephan Mathieu** with a cover design by **Rutger Zuydervelt**. Available as a 2x12" silver limited edition, as well as on black vinyl, digital, and compact disc. A highly recommended meditation on the being and the past tense of all the memories to be.
+
+# Jordan Christoff
+
+## Enveloped
+
+For the next piece of ambience, I am turning to **Jordan Christoff** with his debut album on **Constellation Tatsu** called *Enveloped*. This is a cassette-only release, but I'm comfortable with the four lossless pieces, titled "Waves", "Wash", "Alice" and "Love". Each piece reveals itself slowly, with faultless named titles, rising slowly with the frequencies the permeate all. The harmonic fluctuations and reverberations of these synth soundscapes sprawl in their major-chord lavishness, covering withered terrain. And thus synthetic meets organic. This is the kind of beautiful minimalism that you don't mind playing loud, since it carries a wonder with healing, using positive energy through the sound. "*Jordan paints sonic landscapes with synth experimentations, no computer screens, but a full acoustic world that draws from contemporary ambient, a sound that is also committed to honouring the roots. [...] This is a beautiful album, made from the heart and one that aims to share a vision of peace through sonic tapestries.*" Hats off to this California-based imprint, founded by **Steven Ramsey**, for discovering and bringing new talent to our ears. This year alone, the label has signed **Chris Otchy** (check out his track "Driftwood Collage") and a new release by **Rose** (play through "Night Places" on [*Headphone Commute Daily*](http://hcdi.gs/HCDaily) Spotify playlist), and I'll be sure to keep my eye on the catalogue for more blankets of sound.
+
+# Russ Young
+
+## Pala
+
+The final entry in this *Sound Bytes* column is a four-track EP by **Russ Young**, a Lincoln (UK) based producer who is drawn towards "*detailed textures, drones, and simple melodies.*" Although this **Audiobulb** release is pretty short, it's easy to get lost in its soundscapes, even as the music loops upon itself, and tells its story one more time. The intricate minimalism painted with the light strokes of dynamic sound design and field recordings will immediately appeal to the fans of **Taylor Deupree**, who, in fact, mastered Young's record. The title of the release references **Aldous Huxley**'s "The Island", drawing parallels to the imaginary places of utopia, that only exist somewhere in our minds. "*I made this short collection of microsound collages in the early hours of the morning before work,*" says Young of his record. "*They began to take on a restful dream-like quality which I enhanced by imagining nocturnal scenes, cave systems, caverns, islands, and night skies.*" This is very delicate music, one which is best consumed on a frequency-rich sonic setup, be it a pair of headphones or a pair of hi-fi bookshelf speakers (with a sub), so that all of the intimacy hidden within becomes one with your own, as we live and dream on... So nice to revisit the Sheffield-based Audibulb imprint founded by **David Newman**, which I admittedly, regretfully, but not intentionally have been neglecting in the past few years. I'm taking a look at its vast catalogue now, my friends. And with those words, I'll just sign off - I've got some catching up to do. :)

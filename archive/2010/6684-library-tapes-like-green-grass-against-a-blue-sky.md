@@ -1,0 +1,14 @@
+---
+id: 6684
+title: "Library Tapes - Like Green Grass Against A Blue Sky"
+date: "2010-10-03T07:21:54-05:00"
+category: ["Albums"]
+---
+
+It feels like **David Wenngren** doesn't need an introduction. But in case you have missed his previous releases as **Library Tapes**, I'd recommend you pick up a few of my favorites: *Feelings for Something Lost* (**Resonant**, 2006), *[A Summer Beneath The Trees](../2008/618-library-tapes-a-summer-beneath-the-trees.md)* (**Make Mine Music**, 2007), and *Fragment* (**Kning Disk**, 2008). There's also his 2009 release under his real name, *Sleepless Nights* on his own label, **Auetic**, as well as collaboration with **Danny Norbury** for the **Le Lendemain** project's *Fires* (Home Normal, 2009) and his very latest, *Our House Is On The Wall* recorded for the project **Murralin Lane** and released by the mighty **12k** this year. Whew!
+
+If you go through the above, I guess that would serve as a pretty good introduction. If not - here are my words for *Like Green Grass Against A Blue Sky*. From fuzzy little noises over soft piano chords, to humming ambient pads, and field recordings sprinkled with nostalgic lullabies, David delivers a personal album of nine miniature compositions that should keep you cozy through the Autumn's chilly evenings. Running in length just under 30 minutes, the album is full of familiar melodies, harmonic progressions, and beautiful polished keys. With yet another appearance by **Danny Norbury** on the cello, the music swirls in neutral harmony, between the major and the minor, sometimes in deliberate silence, sometimes in accidental themes. *Like Green Grass Against A Blue Sky* is released once again on Wenngren's own label, **Auetic**, running in a limited edition of 1000 copies.
+
+This album also has a great story behind it... In April of this year, David lost 1200 euro in London, that was set aside for production of this release. He reached out to his fans in hope to raise enough money to cover the pressing, promising in return to credit each donor in the 'thank you' list. Of course, I have donated, and it wasn't just for the gratitude from this wonderful composer. I have been a fan of his modern classical pieces for years now, so giving back more than just these words, allowed me to get this music faster from his mind into your years. I hope you enjoy!
+
+You can also pick up digital versions of a few albums directly from Library Tapes' [**Bandcamp**](http://librarytapes.bandcamp.com/) page. These are available in return for your donation of only 5 Euros or more. Recommended if you like **Peter Broderick**, **Max Richter**, **Sylvain Chauveau**, **Eluvium** and **Nils Frahm**. Be sure to also check out Headphone Commute's review of [***A Summer Beneath the Trees***](../2008/618-library-tapes-a-summer-beneath-the-trees.md) and our previous [**Two and a Half Questions with Library Tapes**](../2008/621-two-and-a-half-questions-with-library-tapes.md).

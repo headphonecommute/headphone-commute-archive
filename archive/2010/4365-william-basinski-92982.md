@@ -1,0 +1,18 @@
+---
+id: 4365
+title: "William Basinski - 92982"
+date: "2010-04-17T09:28:27-05:00"
+category: ["Albums"]
+---
+
+Late in 2009, **William Basinski** released his eighteenth album, *Vivian & Ondine*, on his own imprint, **2062 Records**. But my mind still holds on to the haunting melodies of his release prior, simply named after a single day, more precisely 29th September 1982, culminating in the numerical representation of *92982*. This is a document of a single night of work, which would eventually spawn a direction that Basinski would explore further. Deep from the archives, we hear Basinski's experimentation with loops that would eventually earn him critical acclaim with the four volumes of *The Disintegration Loops*, recorded the same year, only to be released twenty years later.
+
+Basinski's music is characterised by repeating loops of magnetic tape, playing endlessly on his reel-to-reel, saturated with reverb and short-lived time delays. About a year ago, in April 2008, I met Billy at the *Resonant Forms* festival in Los Angeles. There, I witnessed his impressive live performance. That moment is still alive in my memory, and is recalled with his music. On a table there are two Norelco reel-to-reels, one tin box full of tape loops with a "Tootsie Rolls" logo, and various cylindrical objects. Basinski fishes out long and winding snakes of tape, and feeds them through the magnetic heads, stretching out the remainder of the loop between cups, cones, upside down water bottles and vases. These proceed to play, endlessly, through effects and faders on the mixing board. Only the hiss of the tape reminds me of this dying technology, which is still very much mechanically alive, in Basinski's hands.
+
+About the revival of *92982*, Basinski writes:
+
+> Something from a long time ago… in Brooklyn, 351 jay street… A fruitful evening in the studio… Home at last after a day of work at the answering service… answering phones for Calvin Klein, Bianca Jagger, Steve Rubell, and all the other somebody people… in our space station: home in my studio experimenting live. James is in the adjacent studio painting masterpieces. Roger is in the front, gluing old shoes on canvas and painting them orange… I'm clicking the old Norelcos back and forth between channels… all the windows are open. The sound is spreading all over downtown Brooklyn mixing with the helicopters, sirens, pot smoke and fireworks…
+
+Indeed, as if recorded from his apartment window, along with the sounds of a passing helicopter, Basinski reconstructs the moment in these countless organic repetitions of captured time in brief glimpses of aural mementos. These bounce back and forth within my headphones, within the walls of my apartment, or a glass jar of memory, intended to be preserved for another winter, when one feels cold and tired.
+
+On *Disintegration Loops*, the music slowly crumbles until the magnetic signals dissolve, erased through their repetitive playing, leaving a permanent snapshot of their demise. On *92982* the music lives on, with the purpose, one would imagine, of being imprinted in our minds forever. In *Musicophilia*, a book by **Oliver Sacks**, a chapter titled *Brainworms, Sticky Music, and Catch Tunes* explores the cognitive science behind the music that plays in our heads, over and over. "This endless repetition […] suggests a coercive process, that the music has entered and subverted a part of the brain, forcing it to fire repetitively and autonomously." Somewhere fifteen minutes into *92982.4*, I get stuck in that place, and can't tell when the song ends. The moment captured by Basinski back in 1982 continues to live in my mind. And that is the best compliment I can furnish.

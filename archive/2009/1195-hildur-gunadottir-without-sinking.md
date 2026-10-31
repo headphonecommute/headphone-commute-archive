@@ -1,0 +1,12 @@
+---
+id: 1195
+title: "Hildur Guðnadóttir - Without Sinking"
+date: "2009-04-21T19:28:26-05:00"
+category: ["Albums"]
+---
+
+It is dark, dense, and brooding. The sky is gray. Winter is refusing to leave. Wind becomes the rhythm; dissonance - the melody. In the delicate hands of the Berlin-based (but Icelandic by birth) **Hildur Guðnadóttir**, the cello whispers and moans. Perhaps it's grieving for an uncertain future, perhaps accepting a buried past. The voice of sorrow seeps through the trembling fingers and saturates everything around it with something invisible, but wet and salty. Then, a heavy, thick and warm knot builds up inside my chest. And when I sigh, it escapes in a condensed vapor, ascends past the naked tree tops and joins a dark cloud in a stubborn winter sky. Finally the rain falls. And I cringe at all the pain.
+
+**Hildur Guðnadóttir** is not a newcomer to the scene. As a classically trained cellist, she has previously performed with and contributed to works by her Icelandic contemporary artists such as **múm**, **Valgeir Sigurðsson**, and **Ben Frost**, as well as **Hafler Trio**, **Nico Muhly**, and even **Pan Sonic**. For *Without Sinking* she was able to round up a talented group of friends, like **Skúli Sverrisson**, the prolific **Jóhann Jóhannsson**, and her father, **Guðni Franzson**. Dropping all of the above names should give you a brief idea of the circle that Guðnadóttir revolves in. I guess it's not surprising, since she is an active member in the neu-Iceland collective, *Kitchen Motors*. This is \_the\_ Reykjavík music scene think tank, owned and operated by **Jóhann Jóhannsson**, **Kira Kira**, and **Hilmar Jensson**.
+
+Without any exaggerations, this is indeed an acoustic modern classical marvel. Absolutely a must for this year! Add *Without Sinking* and Guðnadóttir's previous works to your collection. The debut album *Mount A* (12 Tónar, 2006) was originally released under the moniker **Lost in the Hildurness**. Her recent one-track complimentary release to the album, *Iridescence* (Touch, 2009), is only available as a digital download, as part of a new series of digital singles launched by Touch on April 1st. On May 16th, 2009, Hildur Guðnadóttir is scheduled to perform for *Short Circuit, A Festival of Electronica*, during a Touch showcase along with **BJ Nilsen**, **Philip Jeck** and the **Gavin Bryars Ensemble**, and [back on the road!] **Biosphere**!!! If you're anywhere around **The Roundhouse** in London, please go... For me...

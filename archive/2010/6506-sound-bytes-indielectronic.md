@@ -1,0 +1,24 @@
+---
+id: 6506
+title: "Sound Bytes : Indielectronic"
+date: "2010-09-12T16:46:15-05:00"
+category: ["Sound Bytes"]
+---
+
+Here's a great selection from Casey Winters's writing on **The Music Lobby**. **Onecaseman** has previously contributed to Headphone Commute's [Sound Bytes](4730-bonobo-bibio-and-kelpe.md) with a few mini-reviews from instrumental hip-hop to jazzy electronica. This time we select a few entries in TML's "indielectronic" recommendations. We hope that a few of the sounds on here will open new doors to your listening experience. Enjoy...
+
+Napoli Is Not Nepal - Boredom Is Always Counterrevolutionary (Onitor)
+
+[**Napoli Is Not Nepal**](http://www.napoliisnotnepal.de/) is Germany's **Hendryk Bayrhoffer**. In 2002, he released a classic genre-hopping album on **Shitkatapult** called *Revolv_er* that mixed jazz, IDM, noise, glitch, and instrumentation in a way that was totally new for the time. After *Revolv_er* though, Hendryk disappeared, finally returning in 2009 with a new album with little fanfare. Well, I'm happy to say the new material is worth the wait. While not as awe-inspiring as *Revolv_er* (maybe because it never gets as abrasive), *Boredom* is fully of glitchy, indielectronic compositions that hold something just a little bit special. The album really showcases the beauty of glitch sounds with their juxtaposition to traditional instruments. And it still only sounds like Napoli Is Not Nepal. The project has an aural identity that so few artists reach these days in electronic music. An album and artist that should appeal to a large cross section of fans - this is one you shouldn't sleep on.
+
+Mark Van Hoen - Where Is The Truth (City Centre Offices)
+
+In the mid 2000s, [**City Centre Offices**](http://www.city-centre-offices.de/) was the most impressive electronic music label around. The label released defining albums from **Arovane**, **Ulrich Schnauss**, **Xela**, **Christian Kleine**, **I'm Not A Gun**, **Casino Versus Japan**, and many more. By 2006, they had opened a sub-labeled for more organic instrumental works, and look poised to develop a canon and following similar to **Warp** and **Ninja Tune**, but with their own distinct style of slightly, experimental indielectronic music. Then, their distributor **Hausmusik** closed shop, crippling the label for years. I'm hoping this release signals a return to prominence, as [**Mark Van Hoen**](http://www.markvanhoen.com/)'s album is a classic return to form for the label. No doubt a huge influence on the label's existence as a member of **Seefeel**, **Scala**, and **Locust**, *Where Is The Truth* is an album expressing Mark's emigration to the US and his discovery that he was adopted as a child. The album mixes in sounds from his entire career, and is a balanced arrangement of acoustics and electronic sounds. Any fan of **Seefeel** or related material should be able to jump right in, but also get something new out of the experience. A tremendous record.
+
+Tanlines - Settings (True Panther)
+
+**Tanlines** is a duo comprised of former members of **Professor Murder** and **Don Caballero**. Yeah, I don't see the connection either. But if you liked the former, *Settings* is a record you'll definitely want to check out. No, it doesn't sound like Professor Murder, but it has that sort of reverence to it. The actual sound is a mix of club sounds and indie pop sensibility. The EP is split between vocal and instrumental tracks, and thankfully both work well and coincide well next to each other. It's hard to pinpoint what it actually does sound like. I guess you could imagine dance punk five years older firmly entrenched in the Berlin club scene, but listening to **Panda Bear** and **Depeche Mode** a lot when at home. "*Real Life*" is an absolutely killer tune. I'm hoping this EP is the promise of something more in the future, which turned out not to be with Professor Murder's *Rides the Subway EP*.
+
+Solar Bears - Inner Sunshine (Planet Mu)
+
+**Solar Bears** are an Irish duo set to make a big splash, with their debut album coming soon on [**Planet Mu**](http://planet.mu/). The *Inner Sunshine* EP acts as precursor with four songs and two solid remixes by instrumental hip-hop maestros **Lone** and **Letherette**. But this is not a hip-hop record at all. This is some psychedelic, retrofuturistic post rock. The heavily 70s vibe works very well with the nostalgic inroads of Lone and Letherette though. Solar Bears sound like the soundtrack to experimental films in the 70s, with guitars next to synths and other electronic sounds, but very much an organic sound. They could bass for a band version of **Boards of Canada**. The EP shows a ton of promise, but you get the sense that Solar Bears haven't let out their complete bags of tricks yet. Definitely looking forward to the album.

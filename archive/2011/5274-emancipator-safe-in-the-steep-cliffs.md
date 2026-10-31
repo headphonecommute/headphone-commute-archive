@@ -1,0 +1,14 @@
+---
+id: 5274
+title: "Emancipator - Safe In The Steep Cliffs"
+date: "2011-04-23T09:04:57-05:00"
+category: ["Albums"]
+---
+
+Occasionally, a newcomer comes around and hits your ears with a sonic bouquet of roses, first ripping your soul with the thorns, then gently kissing the wounds with the petals. An unsigned artist that can evoke that feeling is truly a rare occurrence, an unpolished gem, a diamond in the rough. What’s interesting about **Emancipator**, is that I first heard his music back in 2006 with his self-released debut, *Soon It Will Be Cold Enough*. By then, I was already convinced that he would be immediately snatched up, signed and distributed far and wide by a handful of bidding labels. With support from **1320 Records** (**STS9’s** label), and Japan’s **Hydeout Productions**, Emancipator’s sophomore full length, *Safe In The Steep Cliffs* is mainly self-released once again.
+
+**Doug Appling** first released his debut when he was only 19 years old. And four years later, his work is even more polished. Solid hip-hop flavoured beats mingle with jazzy riffs, acoustic instrumentation and layered vocals. The original appearing violin is back to cry out in angst among the dancing rhythms with an ethnic flavour: there is something Asian in the undertones, and then there is something Brazilian, and it works! Listening to the tracks it’s difficult to figure out if it’s all sample-based, or if Appling gathered an immense ensemble of instrumentalists to execute the immaculate score for the film inside his head.
+
+What attracts me to this music the most, is the heart and soul that is put into each and every track. It is something that is definitely heard in every jazzy riff, every percussion break, and every silky smooth progression of melody. Whether it’s the guitar sounds of **Taurin Barrera** or violin by **Thacher Schmid**, Appling manages to fold each sound over immaculately produced beats, so that each track becomes a unique journey. The above mentioned guitars, as well as banjo and mandolin are definitely original recordings with guest appearances by Japanese jazz musician **Uyama Hiroto**.
+
+I feel that labels should be watching Emancipator. In the Summer of 2009, Appling opened for **Bonobo** at the Roseland Theater, toured with **Bassnectar** and **Sound Tribe Sector 9** (STS9), and even managed to get his track played at the Beijing Olympics (although, admittedly, he’s not even sure how it happened himself). His organic trip hop sound would be perfect for the likes of **Ninja Tune**, **Ghostly International** and **n5MD**. Yet [as of this writing] he remains unsigned. That being said, at least Appling gets some exposure through live performances at music festivals across the globe. A beautiful, chilled out, downtempo album for empty days and lonely nights, when memories well up inside and burst into this world through tears.

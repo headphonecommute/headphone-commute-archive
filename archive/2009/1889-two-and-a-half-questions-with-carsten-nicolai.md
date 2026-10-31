@@ -1,0 +1,25 @@
+---
+id: 1889
+title: "Two and a Half Questions with Carsten Nicolai"
+date: "2009-09-08T19:10:21-05:00"
+category: ["Artist Interviews"]
+---
+
+*[editors note: below is an edited transcription from an audio interview]*
+
+***Utp\_ is a commissioned work. Can you tell us about the inspiration for the piece?***\
+Utp\_ was commissioned by the city of Mannheim. Ryuichi and I were very happy that we got this offer to work with Ensemble Modern because we had already made future plans to work with an orchestra. It helped us pushing our work to a new level. The inspiration for the piece is based on two elements. One is the classical music tradition of the city, the so-called Mannheim school, with one of their major musical tools that has also influenced parts of the final piece: the crescendo. The other element was the city’s architectural structure. Planned as an ideal city it is based on a regular grid system that we took over to structure our piece.
+
+***What was it like working with Ensemble Modern?***\
+It was very exciting to work with Ensemble Modern. It was very inspiring and ground-breaking, especially since we were in the luxurious situation of working with them for more than a year. They're very well trained and very open minded to use their instruments in ways that you usually would not expect. It was a process of pushing each other’s limits and expectations further to find a new way of musical communication.
+
+***Can you tell us a little bit about the dynamic between you and Ryuichi Sakamoto - why you have continued to collaborate and what it is that each of you brings to the partnership?***\
+Each record or each project was a little different, of course. I think after we finished the insen tour, which was a very intense touring schedule, we realized that we could even push things further. Not only in a recording environment but also in a live situation. And I think this helped making the fourth collaboration, utp\_ so different. We developed the compositional ideas together and so everything became much more coherent. Of course, some parts Ryuichi took care of more, such as the process of the notation of the piece. I was a bit more involved in the visual and stage design. But for the music pieces themselves, we really collaborated very, very closely from the start to the end. Not so much in defining or specializing different parts of the work but more in terms of really collaborating in a very natural way.
+
+***You obviously put a lot of thought into the conceptual part of your music. Does it matter to you that the listener may be completely unaware of the concept? Does it matter in order to appreciate the music to its fullest?***\
+I think, personally, that it's not really necessary for the listener to know the full background of the concept. But when you create such a piece over such a long period of time and with such a large number of people, you have to be really clear and really strong in your concept from the start. Otherwise, you kind of lose ground in the middle of the process. So for us, the concept was very important in order to stay focused from the start to the end. But this is almost impossible to communicate completely. The listener can just enjoy and listen without any preconception. But what is great about the release of utp\_ is that if you want to know more, if you want to have a really detailed view, you can go deeper and you can explore several levels of the piece. It can be enjoyable to be able to see the background of the piece, how it grew, as well as having the possibility to see the visuals, the visuals on stage, how we developed the visuals, how we worked through the process, the concept of Mannheim, etc. You mustn't forget that this piece was commissioned by Mannheim and, of course, a commissioned piece has a purpose in some way. It was communicating the 400th anniversary of the city. That's not clear when you listen to it but I think it's very beautiful to know that there is a strong relation to a specific topic.
+
+***I read a quote of yours a while back where you said: "What I realized is that my work has little reference to art history, but is closer to science or mathematics or geometrics..." How do you see the relationship between art and science?***\
+I think, for me, art and science share very similar processes in terms of creative research or creative work in general. And for me, it's very inspiring to look into research processes in science, or natural scientific discoveries, because nature is one of my biggest inspirations for art. We are part of nature, so for me it feels very natural to relate to natural science in a lot of my works. And I think it's very challenging to work with these kinds of topics. Maybe one of the main reasons is also that I'm very interested in the future — the unpredictability of the future and what is to come. Innovations, technologies and research are, of course, a very big factor when you are curious about the future. And this feeds back into the work.
+
+[alvanoto.com](http://www.alvanoto.com) | [carstennicolai.de](http://www.carstennicolai.de)

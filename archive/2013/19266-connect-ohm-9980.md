@@ -1,0 +1,20 @@
+---
+id: 19266
+title: "Connect.Ohm - 9980"
+date: "2013-02-01T06:43:48-05:00"
+category: ["Albums"]
+---
+
+[Editor’s Note: This review was written on 29 October 2012, just a few hours before Hurricane Sandy hit the coast of New Jersey and New York. Today is 1 February 2013 – it took me almost three months to publish these words. I’m not sure if there is a particular reason behind that or what the connection is between the music and that devastating event. Perhaps I’ve been trying to suppress those memories. Instead I choose to not over analyse and share with you this great music. \~HC]
+
+It’s still a few hours away from the time when Hurricane Sandy makes its final landfall on the south coast of New Jersey. The news channels have turned the broadcast into an apocalyptic blockbuster showcase, their intensifying reports approaching the edges of hysteria. The worst is not over, but at least it won’t be as bad as I thought. All I can do now is wait. I’ve been listening to a lot of dark and depressing music all day. By the evening the mood has finally caught up with me and now I need a little pick-me-up. And nothing reminds me more of an uplifting (dare I say ‘spiritual’) experience, like a new album from **Ultimae Records**.
+
+I’ve been listening to Ultimae since 2005. I first discovered the Lyon (France) based label in the morning hours of my outdoor music festival days. These days felt like freedom, enlightenment and true awakening. But although I speak of those days in the past, I can always rely on the music to bring back that feeling, and know that it is truly here, in the now. Ultimae was founded in 2000 by Sandrine Gryson (aka **Sunbeam** and **Mahiane**) and Vincent Villuis (aka **Aes Dana**). Their catalogue of downtempo, psychill and psybient music continues to dominate my yearly *Best Of* charts, in the *Music For Awakened Spirits And Open Minds* selections. The label surpasses all expectations, tirelessly signing new acts and promoting a unique sound of early morning beats.
+
+This is where I talk about **Connect.Ohm**. Although the moniker at first appears to be a brand new act, it is indeed a collaboration between two known composers previously appearing on the label: Tokyo based Hidetoshi Koizumi (aka **Hybrid Leisureland**) [see *Scroll Slide* (2010)] and Paris based Alexandre Scheffer (aka **Cell**) [see *Hanging Masses* (2009) and Headphone Commute’s Interview with Cell] In fact, the two musicians discovered each other through their respective releases on Ultimae, and after meeting in person, decided to collaborate on a new project.
+
+> The outcome is subtle and emotive. The nine tracks released on 9980 compose a ballad in atmospheric realms where finely chiselled rhythms and fluid melodies are sustained by discreet downtempo grooves and deep drones. A pure delight for vast soundscapes audiophiles.
+
+An audiophiles delight indeed! Crystal clear tones submerged in some pure modulated soundscapes are hovering in the stereo field of my headphones as I write this review. The attention to miniature detail is only surpassed by the careful manipulation of the frequencies – each living in its own space. Atmospherics float in that uplifting manner I was craving for, carrying me through tranquil, stillness and calm. And when they bass drops with glitchy rhythms and beat, I fall through the darkness behind my eyelids and all I could see now is blue. Aural euphoria may not be the right phrase, but it’s the first phrase that I see drift by. Sounds flutter like glowing insects in the night sky of sonic vastness. And in that grand and endless space I watch the life unfold.
+
+As always, packaged in a glossy three-part booksleeve digipack, the release comes with a 16-page booklet, featuring gorgeous photography for each of the nine tracks on the album, and shots of Scheffer and Koizumi. With Vincent Villuis’ mastering touch, this album will surely turn out a favourite for fans of **Asura**, **I Awake**, **Hol Baumann** and **Solar Fields**. This is a must, and you know it…

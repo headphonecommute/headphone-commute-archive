@@ -1,0 +1,14 @@
+---
+id: 30914
+title: "Yagya - Stars And Dust"
+date: "2017-02-09T06:59:53-05:00"
+category: ["Albums"]
+---
+
+When I first visited Iceland in February of 2016 (exactly a year ago!), one of the people I had to absolutely meet face to face was **Aðalsteinn Guðmundsson**. I've been listening to **Yagya** since his 2002 debut on **Force Inc.**, titled *Rhythm Of Snow*. But it was with *Will I Dream During The Process?* (2006) and *Rigning* (2009), both released on **Sending Orbs**, that his atmospheric, dub techno infused arctic ambiance, made it permanently on to my rotations. In fact, whenever I set off on my daily commute during a rainy morning, *Rigning* manages to find its way into my mind. Back in his home studio, Guðmundsson gave me a sneak preview of the latest album he was working on at the time, and I am now ridiculously happy that it's finally here! **Delsin**'s done one right!
+
+Listening to *Stars And Dust* I immediately notice a new element appearing in Yagya's works. The prominent emergence of the piano keys makes its shimmering début on "Crepuscular Rays Over the Horizon", the second out of ten tracks, appearing on this nearly-hour-long album. Soon the memorable piano progression is joined by the bass infused rhythms, soaring synths, minor dub chords, and spacious atmospheres, no doubt painting a vast sonic image reminiscent of the track's title. A distant female voice fills in the melody already humming in your mind, and you begin to desire to listen to this uplifting piece forever. A sense of positive mindstate permeates throughout *Stars And Dust* and one can get lost in its hypnotic breeze, whether driving through open fields, lying on a sunny beach, or simply sitting at a desk, fully immersed in one's life work.
+
+> *Often working with software and focusing on beautiful loops, Stars And Dust is another slow motion album that blurs the lines between organic and synthetic sound sources in luscious ways. The album is rooted in atmospheric dub but that has very real musicianship, expert melody and a delicate and tender sense of mood running all the way throughout.*
+
+Floating into outer space with "Substorms On a Winter Night" I often picture Guðmundsson locked in his home studio, late past the nightfall, tapping his foot and nodding his head as he makes minuscule adjustments to the piece in progress until the sun begins to rise at dawn. Iceland feels peaceful at night. But no matter how many repetitive layers I dissect on *Stars And Dust*, nothing is superfluous and everything is right. Among the purveyors of dub techno, like **Deepchord, Intrusion, bvdub, Fluxion** and **Quantec** (to name just a few), **Yagya** continues to set a trend of organic and warm dub ambiance, keeping my mind satisfied, and my heart flushed with joy. A definite in your everyday collection! And I always want more...

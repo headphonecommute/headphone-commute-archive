@@ -1,0 +1,27 @@
+---
+id: 42612
+title: "Interview with Penguin Cafe"
+date: "2020-02-10T06:10:43+00:00"
+category: ["Artist Interviews"]
+---
+
+***Hey Arthur, how are you, where are you, and what have you been up to this past weekend?***\
+We're on the tour bus at the moment - having just arrived in Hamburg for a show tonight at the Elbephilharmonie. We played here not that long ago, and it's great to be back so soon!
+
+***The music of both Penguin Cafe Orchestra and Penguin Cafe is very near and dear to me, and as with previous releases, Handfuls of Night is a magical album. You've noted that the record is inspired by a set of pieces you wrote about penguins in the Antarctic for a project with Greenpeace and your expedition in 2005 to recreate Scott's last Antarctic trip for the BBC. What was your experience like spending three months on the Greenland ice sheet, and how did your experience fuel your inspiration for the new album?***\
+When we started the Greenpeace project they sent over hours of footage that they'd filmed down in the Antarctic, and we just had it on in the background while we were writing - and the feel of the place really took me back to the Greenland trip - there's something very raw about the landscapes that feel very similar. It stirred up all my memories, and I remembered that it was the long, empty days pulling a sled across the ice that had given us all lots of time to think about our lives back home. That was when I decided to go back and get my MMus in Composition. Walking along in that silence for so many days had this strange effect for me - I started to hear the music I was thinking about - I could play whole albums in my head - especially the Beatles for some reason. Then that developed into being able to write whole pieces in my head and then being able to hear them more or less completely… I think it should be part of any music training although probably hard to arrange logistically.
+
+***How do you balance carrying on your father Simon's legacy with forging your own musical path? How has that balance changed, if at all, since Penguin Cafe's inception in 2009?***\
+It was always something that I had to very instinctively - wanting to keep my dad's music going and, at the same time, not wanting to blur his legacy. It is quite an unusual path to take, so there's not a roadmap of how to do it - so I've learned to feel my way along without over-thinking it. When something feels right, we pursue it, and if it doesn't feel like a Penguin idea, then we change it or leave it - I think there's enough flexibility in the general vibe to allow for lots more experimentation and development while staying happily within the Penguin Cafe musical universe…
+
+***"Pythagoras on the Line Again" is a re-visiting and continuation of Penguin Cafe Orchestra's 1993 track "Pythagoras on the Line." Can you explain a bit about that and your thought process for including the track on the new album?***\
+It's one of my dad's tracks that we played at the Union Chapel in 2017 to mark 20 years since he died - and I hadn't really thought about it before that. I was reading up about Pythagoras, and I realized what the track was doing. It was such a cool idea: there's a story about Pythagoras walking past a forge and hearing two anvils being struck and sounding sonorous together. He went in a saw that the one anvil was twice the size of the other - he bought them both and took them home to do experiments involving cutting lengths of iron rods and comparing the tone you get by striking them. In doing this, he discovered the principles of harmonics and, by extension, much of modern physics in the sense of determining physical laws that hold true throughout a rational universe. So when my dad wrote the piece, he took an engaged tone from the UK phone system and mapped it onto a MIDI keyboard - that way, you get two notes for every one an octave lower, if that makes sense. This way, you hear the notes against each other, but you also hear their structural relationship in terms of harmonics. It's such a simple idea with profound implications - I love that about my dad's tunes, and I think it's essential to have a cover or two on an album to keep things interesting… so on it went.
+
+***You've mentioned in the past that the story of your father's dream changes with each retelling. How do you envision the imaginary Penguin Cafe today?***\
+I think the main elements are still there much the same. It's still very important, I think, to keep in mind the idea that music and the arts, in general, should be focussed on people and shared experiences - arguably more than ever given the opportunities that digital technology affords us to hide away in VR and screens… And I think focussing on the random and authentic aspects of life is kind of what the Penguin Cafe dream was about. I'd still say that the Penguin Cafe is in Japan somewhere… with the slightly scary penguin headed people getting on with cool and beautiful stuff...
+
+***What are you currently listening to?***\
+I'm listening loads to The Menahan Street Band and Led Zepplin at the moment - Bonzo's drumming still blows me away. We've been having a certain amount of William Basinski on in the bus - I'm a new fan. Also, we've been playing a lot of Olafur Arnolds and Max Richter to our 9-month-old daughter, and she seems pretty keen.
+
+Questions by **Emily Lawton** exclusively for **Headphone Commute**\
+Read Headphone Commute review of *[Handfuls Of Night](../2019/40745-penguin-cafe-handfuls-of-night.md)*

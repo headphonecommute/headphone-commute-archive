@@ -1,0 +1,16 @@
+---
+id: 24667
+title: "Sense - Still Life"
+date: "2014-08-10T07:19:45-05:00"
+category: ["Albums"]
+---
+
+I may have not covered much of Adam M. Raisbeck's work as **Sense**, but that doesn't mean that I have not been paying attention. In fact, I have been following his releases going back to 2000, when his music surfaced on compilations by **Merck**, **Miasmah**, **Cactus Island**, and of course, **Sutemos**' *Intelligent Toys* series (speaking of Sutemos, whatever happened to this fantastic net label? A little birdie told me that Walkman has quietly slipped away but returned with another imprint, called **leaves**). For the last fourteen years, Raisbeck has already put out 10 full-length albums, with a debut on **Neo Ouija**, followed by **Aural Industries**, **U-Cover**, **Qwerty**, and finally **Psychonavigation Records**, the focus of which release is this review.
+
+*Still Life* is an odyssey into a magnificent universe of deep and warm sound. The album immediately propels to the top of my favourites as it touches upon many attributes desired for a returned listening: multi-layered and interwoven textures that combine a meditative state of mind with that of a hypnotic expansion, stretching beyond all that which is known in existence; trance-inducing backdrop rhythms, filtered beyond the peripheral notion of consciousness until the words echo in your mind long after the track is complete; subliminal messages reflecting on the state of human experience, existence and design. All of the above is explored immediately in the very first track, approaching a half-an-hour of length, only to be further developed throughout the rest of this amazing album.
+
+One of my favourite pieces, 'MK Symphony 1', employs a single phrase, repeating the words "mind control" over and over for most of the track. Upon first listen I thought that this approach would drive me a little bit crazy, but as my mind began to focus on the heavily filtered wave of this suggestion, I began to feel mesmerised and allured to the depths of analog ocean of sound upon which these words slowly began to float. And when the seductive spell-casting subsided, I immediately hit play again on the very same track. Further on the album, the story is told through samples of disadvantaged families, approaching a somewhat dark and a bit sad territory, and you can't help but feel deeply connected to the vocoded dispatch, no matter how distant it appears to be from your daily life.
+
+The bottom line for *Still Life* (and the highest compliment that I may give to any artistic work) is that this is the music that simply makes you feel. Whether or not Raisbeck tirelessly laboured of transmitting a particular message left unburied on the surface of his work, that message has been received. And if tracks like 'Sympothy For Sadness' or 'How I'm Feeling Today' meant to touch someone across the ocean via a pair of headphones to convey a state of melancholy, his goal has been accomplished. Highly recommended for fans of emotional ambiance, synth connoisseurs, space explorers, and insight headphonauts. Be sure to also pick up its predecessor, *The Dream* (Psychonavigation, 2013). Recommended if you like **Benn Jordan** (I'm thinking of his ambient works like *Pale Blue Dot* here), **Biosphere**, **Manual**, **loscil, Julien Neto** and **Deathprod**.
+
+Words by **HC**

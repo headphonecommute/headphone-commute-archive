@@ -1,0 +1,12 @@
+---
+id: 666
+title: "Interbellum - Over All of Spain the Sky is Clear"
+date: "2009-03-17T19:15:21-05:00"
+category: ["Albums"]
+---
+
+**FlingcoSoundSystem** is a relatively new Chicago based label spearheaded by Bruce Adams, who back in 1993 was one of the co-founders behind **Kranky**. OK, do I have your attention? Now settle down and keep listening. With this fourth label release, *Over All of Spain the Sky is Clear,* FSS is introducing us to Brendan Burke, aka **Interbellum**. On the album, we hear Burke behind the piano, while Fred Lonberg-Holm softly plays the cello. The tracks are recorded in their open ended form, following a minimal restraint digital and acoustic manipulation, with the help of applied mathematics and durational processing. I'd be lying if I said I really understood the mathematical formulations in this piece, but it is the end-result that's important here. And it speaks for itself.
+
+Fans of long form and improvisational modern classical pieces would be absolutely delighted to hear this duet. While none of the pieces overpower the mind with concrete melodical structure, the overall drifting experience is that of pure musical exploration. Throughout the album, the sound vibrates, travels, and floats in and out of our peripheral hearing, until the slightly audible voice becomes almost coherent, only to drown again in the harmony of bowed and struck strings, which flips between the major and minor scales, like a child laughing through the tears after a fall. This unobtrusive wondering through musical modes becomes especially apparent during the second track on the album, *The Life and Death of Anne Zimmerman*, which is over twenty minutes long. Add to that some distant crackling, echoed machine buzzing, and you've got yourself a requiem for the living.
+
+Interbellum [in its definition of the word], is a period of time between wars (World Wars I and II to be more specific). Perhaps such definition will explain the more somber mood of of this unfolding album, which, as with all other FSS releases, is meant to be listened to in one sitting, as a collection of sequenced tracks, making up a coherent album as a whole. Pick up this digital release from flingcosound.com available for download for only $5. Recommended if you like **Richard Skelton**, **Machinefabriek** and **Sylvain Chauveau** as well as some acoustic pieces by **The World's End Girlfriend**.

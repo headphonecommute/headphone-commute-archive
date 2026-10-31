@@ -1,0 +1,12 @@
+---
+id: 1200
+title: "Harmonic 313 - When Machines Exceed Human Intelligence"
+date: "2009-04-25T11:03:51-05:00"
+category: ["Albums"]
+---
+
+When **Mark Pritchard** first released *EP1* (Warp, 2008) under his newly refreshed moniker, **Harmonic 313**, I got extremely excited about his comeback. After all, I'm a huge fan of his output under a number of aliases, the most favourite being **Harmonic 33** and **Global Communication**. The EP stepped up in bass, and dropped down to 8-bit sound, falling somewhere between abstep (abstract dubstep), electro and Detroit-style experimental hip-hop (313 being its area code). And that was just a teaser. His return with *When Machines Exceed Human Intelligence* (Warp, 2009), picks up right where the EP left off, and slams it back into our faces.
+
+It takes a few listens to truly appreciate the genius behind this album. Mostly because your ears are not accustomed to such rubber morphing of the genres. Falling somewhere along the lines of experimental hip-hop by **Prefuse 73**, **Flying Lotus** , and **J Dilla**, the tracks on *Machines Exceed Human Intelligence* are strangely unique in its own domain. The bass on the tracks is raw, grinding, and wobbly, accompanied by broken syncopated beats, sci-fi chords, and arcade game laser melodies. This flight through a 2D acid flashback is at the same time an evil and fun experience. Think Nintendo's **Spy vs. Spy** clashing in the fight between black and white. It is as if machines not only exceed our intelligence in the future, but actually came back to play with our own favourite toys. The interlude titled, *Cyclotron C64 SID*, is a testament to Pritchard's tribute to everything retro.
+
+After listening to the album half a dozen times, and getting the melodies stuck in my head, I must recognise Pritchard as a continuous pioneer of styles. From ambient, to trip-hop, to experimental hip-hop with elements of dubstep, Pritchard is able to keep up with the trends, adapt to the endless evolution of sound and even invent a few of his own genres along the way - I call it bleep-hop. Glad to see him back on Warp. If you already own the album and the EP, pick up Global Communication's *Fabric 26* mix (Fabric, 2005), as well as my all-time favourite, *Extraordinary People* (Alphabet Zoo, 2002) by Harmonic 33. Recommended if you like the above mentioned names, as well as **Moderat**, **Headhunter, 2562**, and **Lukid**.

@@ -1,0 +1,18 @@
+---
+id: 30392
+title: "Porya Hatami & Arovane - Kaziwa"
+date: "2016-09-12T05:39:11-05:00"
+category: ["Albums"]
+---
+
+Those familiar with Uwe Zahn and his **Arovane** project need no introduction to his sound. Growing up in the early 2000 electronica era, within the beautiful confines of **City Centre Offices**, the music of Arovane (most notably through his albums *Tides* and *Lilies*), marks a particular kind of signage on an often revisited memory lane. The sounds that I still listen to till this day. Leaving off with his final track titled "Good Bye Forever", Zahn disappeared from the scene for nearly a decade, until his return with *Ve Palor* on **n5MD**, and then... then his output increased nearly tenfold, producing solo studio albums and EPs on a wide variety of labels (and vast genres), keeping even me on my toes as I try to catch up.
+
+During this mysterious and very welcome come back, Zahn has managed to release a few collaborations, most notably, the one with **Hior Chronik**, titled *In-between* (ASIP, 2015) and one with **Porya Hatami**, titled *Resonance* (Éter Editions, 2015). For this 2016 release on the beloved **Time Released Sound**, Arovane and Hatami swap places in the order of credits, to bring us *Kaziwa*. Sanandaj-based **Hatami** has turned many heads in the recent years since his appearance on the Iranian music scene with lush soundscapes in the ambient and experimental genres, standing at the forefront of electronic music emanating from this Islamic republic on the Persian Gulf.
+
+For this album, Hatami and Zahn have exchanged samples of piano, weaving in ambient textures over the restrained minimal melodies. What is immediately striking from the very first note (and from subsequent multiple listens that I have devoted to *Kaziwa*) is the unresolved signature progressions that I first witnessed on Arovane's earlier works. Zahn may have returned with a slew of newly explored territories in the last couple of years, but this is the first time when I definitely recognize that particular Arovane sound that I learned to adore on his *Lilies*, harpsichord and all... Perhaps the only thing that's "missing" are the shuffling rhythms, but *Kaziwa* is an entirely different album, requiring none at all.
+
+> *The idea originated when Hatami sent a single piano recording to Zahn, who in turn responded with a piano piece. Thus began a new project between the two artists. Having previously worked together, they intuitively merged their piano skills, being careful not to stray too far from the original concept.*
+
+Over fifteen gorgeous pieces, the duo is rewarding our ears with exquisite lo-fi treatments of atmospheric ambiance, slightly muffled and warped, over the lavish piano driven lyricism, enchanting in harmony, air and chime. There is plenty to peel away slowly in the barely fundamental looping chord progressions on *Kaziwa*, echoing the ambient manifesto of Brian Eno, and his semi-background indulgence of *Music For Airports*, but this time with the minor scale of Arovane's incomplete uncertainties that keep on repeating in your mind long after the album is done. Too many favorite pieces on this one to name at a time, *Kaziwa* is a definitive gem that will stand out for many years to come, let alone appear on our Best of the Year selections. I can't recommend this enough!!!
+
+And now... for something out of the ordinary even for me... I invite you to read [James Catchpole's review of Kaziwa](http://www.fluid-radio.co.uk/2016/08/porya-hatami-and-arovane-kaziwa/) on Fluid Radio, since he's done an amazing job at capturing some of the evoked emotions behind the album!

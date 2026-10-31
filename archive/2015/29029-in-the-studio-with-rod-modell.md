@@ -1,0 +1,53 @@
+---
+id: 29029
+title: "In the studio with Rod Modell"
+date: "2015-12-29T06:56:23-05:00"
+category: ["Studios"]
+---
+
+***Let's start at the very beginning. Can you tell us how you got involved in composing, and what was your very first piece of gear?***\
+I played bass guitar for years, and always hated the band aesthetic. Getting 4­-5 guys on the same page was too difficult. So I wanted to do it alone. Electronic gear offered a vehicle for this. I got a Juno 6 in the early 1980’s and a brand new, factory sealed TR-­808. Later, I picked up a mint Prophet 5 for $350. Back then, the analog stuff was being given away. Everyone wanted DX-­7’s and D-­50’s.
+
+***How many different studio iterations have you gone through, and what does your final setup look like right now?***\
+Really, only a couple of iterations. The old one and the new one. Honestly, I really really hate synthesizers. I like to see music produced, not twiddle knobs. So I’ve really grown to love the Zen of a computer for music. It’s really the most efficient tool for making music. In the time I would patch things up in hardware studio just get ready to record, I could make a whole track on a computer. I do have a recent fascination with vintage samplers, but that’s really about it for hardware. Anytime a synth company creates something truly interesting, no one wants it. They just want repackaged 1970’s technology. Like Electribes and Aria’s. So I stopped supporting them. In 2015, there is more interest in synth technology than ever before. The eurorack phenomena is massive right now… which is good enough reason for me to not use it. I like to buck the trends and do things differently.
+
+***Tell us about your favorite piece of hardware.***\
+The Casio FX­1 is beautiful. I use to like the Matrix 12 and Prophet VS quite a bit, but they’re just dust collectors today. I went through a big Linn / Forat 9000 phase and had 3 at one point. I liked the Sequential Studio 440 years ago. But don’t use that stuff anymore. I do enjoy playing with cheap samplers. Anything that you drop into them sounds completely different when you play the sample back. They’re especially nice when you combine them with external analog filters and FX. Synths just can’t match their beautiful, grainy sound.
+
+***And what about the software that you use for production?***\
+I like Steinberg Nuendo because I’m familiar with how to use it, but they all really do the same thing. Software recorders just replaced an analog reel­-to-­reel for me. I use to spend $70 on a 2500’ reel of analog tape, and ran the machine at 30 ips. So it got too expensive. I don’t know where to go to get tape anymore. Probably eBay. I really like using mostly looping devices like the Looperlative LP­1 or Lexicon JamMan. I only quantize percussion and bass, and use loopers for everything else.
+
+***So is there a particular piece of gear that you're just dying to get your hands on and do you think one day you'll have it?***\
+Not really. I had everything I wanted to try, and really, I thought most of it was disappointing. I got a NED Synclavier system, and thought that would be the thing that changed my life. I honestly prefer a Akai s900. Mike Schommer, the guy I started DC with 15 years ago (and still a good friend today) had a Waldorf Wave that spent a lot of time in my studio. I didn’t think it was a big deal. It made a good stand for my Yamaha SY-­22. Honestly, all this stuff comes with huge expectations, and they rarely deliver. I prefer junk when it comes to hardware. Like electro-­harmonix pedals and Casio CZ­-101 ’s.
+
+***Can you please share some aspects of sound design in your work?***\
+I’m really about the atmospherics in a recording. This is what I always start with. The kick drum and bass are incidental and least important. I like distressing sound. Stretching things to the breaking point. I look for audio with emotive vibes, and recordings of places with an ominous feel, then massage those into some kind of audio lifeform. What I do is really more akin to what a sculptor does rather than a musician. I don’t really consider myself a musician and really don’t have much in common with them.
+
+***Any particular new techniques that you tried out for your new album?***\
+Not particularly. The process is similar to other albums, but I think the sounds that I used are a little different from past projects. Instead of using recordings of places that I love (as I have in the past), the focus on this one was more about the etheric. Revealing the unseen, using obscure shortwave transmissions and weird psychoacoustic sounds that you don’t realize that you’re hearing until they’re gone. This one was influenced by otherworldly elements rather than worldly ones. This album investigates (sonically) the air above geography that was represented in the older albums.
+
+***What does your live setup look like, and what do you bring with you when you travel for an extensive tour?***\
+I’ve really embraced the computer in recent years. Most of the old hardware that I used in the past is either stored in the closet, or sold. My studio is more empty than it’s been in 20 years. And honestly, I like it better. It’s basically a bright room with a big table, and on the table is a mixing console, computer, and stack or 3­4 old samplers. I still use an Eventide Orville and Lexicon PCM­-80, but those are about to go. The computer is honestly so efficient and pleasant to use, I could never return to all hardware. I like the Zen of having less. I want to put my studio in a desk drawer so you don’t even know it exists. This being said, I’ve only used a software synthesizer one time. It was on the SYNTH 1 record (Mike Huckaby’s label). I just got a SND SAM­-16 sequencer and wanted to test it out, so I synced it to a Jomox X-­Base 09 and connected its midi out to a computer running FM7, and the SYNTH record was the result. That was the only time I recall using a soft synth. I mostly use samples that I made of hardware that I no longer use.
+
+The live setup is becoming increasingly stripped back. I actually just go out with a laptop and midi-­knob box nowadays. 5 years ago, I traveled with 2 big cases of stuff. Analog filters, multiple guitar pedals, a Jazzmutant Lemur, Pioneer RMX­-1000, etc. But that stuff is heavy, expensive to transport, causes a big hassle at customs, it’s delicate / breakable, and the only people in the audience that really care are the two guys with Moog T­shirts. The other 998 people in attendance couldn’t care any less. They just want to hear the music on a big PA and dance. I found ways to accomplish the same thing within the laptop, and use the knobs on the controller. My life is much simpler.
+
+***What is the most important environmental aspect of your current workspace and what would be a particular element that you would improve on?***\
+Keeping things light and airy is vital. I like working in a big clutter-­free white box, with very little in the room. I like big windows with no drapes and a view of the lake. Only improvement I might make is burning more expensive incense.
+
+***What can you tell us about your overall process of composition? How are the ideas born, where do they mature, and when do they finally see the light?***\
+This is somewhat difficult to answer because I purposely try not to figure it out. I’m under the impression that if you figure out the creative process, maybe it won’t work anymore. It should be a mystery. Artists are blessed with an unusual way of seeing things. I don’t like to question it. I feel like a conduit when I’m working on music. Channeling whatever I need to make sounds… and from wherever it comes from. But I don’t know where that is. It’s a really metaphysical thing. Many times, I record music, and listen to it a month later and don’t even recognize it. I like to work fast and not subject myself to “analysis paralysis” in the studio. If things go too slow, you lose the idea. As a general rule, I always start with ambient elements. I try to make a drone or simple pad arrangement. Then add some kind or pulse to it to keep it moving forward. I like swirling clouds of sound. Sometimes I’ll let these simple elements run for hours. If it still sounds ok 6 hours later, I’ll try to fit in a kick or bassline.
+
+***After the piece is complete, how do you audition the results? What are your reactions to hearing your music in a different context, setting, or a sound system?***\
+I use to make a cdr and audition the new stuff outside in nature, but haven’t done that lately. Sometimes I let it play in the studio, then go to my bedroom and take a nap. If I sleep well, it’s ok. In both of these cases… I play versions without the bassline or kick drum. I usually find myself in a trance when recording, and don’t even recognize what I made when I hear it days later. It’s very strange. I prefer hearing my stuff on high­end home systems rather than large PA’s. Most PA’s aren’t capable of reproducing the subtleties. I have a few “high­end audio friends” that like to spend as much as a car costs on home audio. It’s good to take a cdr to their\
+place and give it a spin.
+
+***Do you ever procrastinate? If so, what do you usually find yourself doing during those times?***\
+Of course! Too much! I go pack a pipe full of tobacco and go sit by the water and smoke.
+
+***What gets you inspired?***\
+Beautiful places. Terrible weather. Storms. Night. Long drives into desolate areas. But I’m not inspired much by music honestly. A singular sound is more inspirational. I find listening to modern music more frustrating than anything.
+
+***And finally, what are your thoughts on the state of "electronic music" today?***\
+I think it’s awful. The last good record that I heard was 8 years ago. This is why for the past several years all I listen to is 40’s & 50’s music, field recordings, Fushitsusha records, or The SWANS. Best electronic stuff is probably the Kompakt Pop Ambient series. I bought them all. Hyperdub is an amazing label. They push boundaries. But (most) dance music seems to be stuck in a rut. I think it stopped being an evolving art form around 2005, and just settled into a state of complacency. Back in the 90’s, every record was trying to push the boundaries. I don’t hear a lot of pushing boundaries today. Everyone likes their “Berghain sound”. Clicks and cuts, devoid of pads or lushness. Most of it is very hard on the nervous system. I can’t take too much of it. It’s way too harsh nowadays. It destroys the chakras. Some of the L.I.E.S. stuff is nice. That has been a label that I like. I really like Terekke.
+
+[somarecords.com](http://www.somarecords.com/)

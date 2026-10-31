@@ -1,0 +1,18 @@
+---
+id: 25510
+title: "The Acid - Liminal"
+date: "2014-10-11T06:36:22-05:00"
+category: ["Albums"]
+---
+
+I'm not sure if you guys picked up on this, but there's something interesting going on at **Mute Records**, a British label founded in 1978 by **Daniel Miller** which has brought us **Depeche Mode**, **Erasure**, **Moby** and of course many other popular names. Sometime in 2011, the parent label, Mute Artists Ltd, began licensing music by some of the top electronic and experimental artists on the scene. Among the many, Mute Artists Ltd released records by **Apparat**, **Ben Frost**, **Mark Fell**, **Plastikman** and **Diamond Version** (that's Carsten Nicolai and Olaf Bender of **raster-noton**). I really started paying attention to the label again this year, so when a seemingly unfamiliar record by **The Acid** was dropped on my promo desk, I decided to give it a spin.
+
+My initial impressions of the record were full of doubt. They were based off the project name and the cover art. [I know, very premature in judgement!] - **The Acid** felt like a name trying too hard to attract my attention to the music. What was I to hear - a radio-pop take on some 303 infused post 90s breakbeats? The album cover did not help the verdict. Don't judge the album by its cover, they say, but here, was a 90-degree rotated ghostly image of one (or two?) silhouettes, suspiciously reminding me of the cover by **James Blake**'s self-titled 2011 release on **Polydor**. The press release outlined three names behind the project: **Adam Freeland**, **Ry X** and **Steve Nalepa**. Adam Freeland? Steve Nalepa? Wait a minute! I know those names! [You think I forgot Nalepa's appearance on *Are You Smarter Than a 5th Grader* on FOX?]
+
+> The group began when the Australian-born X, who also collaborates with Berlin-based producer Frank Weidemann as Howling, got reacquainted at a Los Angeles party with Grammy-nominated Freeland, who has remixed artists ranging from the Orb to Lana Del Rey. Freeland invited Cuming to join him in the studio with Nalepa, who is also a composer and professor of music technology.
+
+I began my listening with track one (always with track one — so take a note when you decide on the opening!) Distant guitar strums, whispering vocals, and vinyl crackles opened for "The Animal", as if the group was still doing their sound check before the performance, and I was eavesdropping from beneath the stage. And then the bass dropped. Deep bass. Deep rumbling bass in unison with the falsetto vocals in the top register along with a single rim shot of the metronome-counting beat. Seriously sparse percussion, guitar solos and vocals fluctuations rounded off the first verse before that very same deep rumbling bass dropped into the chorus again. And I was hooked.
+
+Over the next eleven tracks, titled barely as "Fame", "Ghost", "Red", "Clean" and "Feed", the group practiced restraint in arrangement, meticulous sonic design in production, and incredibly addictive song structure in composition. Ry's vocals, often layered with a shadowy harmony of his very own pitched down voice, tie the sparse sonic landscape of bass driven beats, remote field recordings, single note synth lines, and exploding claps. Indeed, my earlier premonition of **James Blake** appeared many times again throughout the album. There's something about a true marriage of club-ready electronic treatments, front-facing vocals, and acoustic textures that makes *Liminal* immediately accessible to wide audience, constantly searching for that genre-less sound. No wonder Mute has picked it up! Infectiously refreshing!
+
+Words by **HC**

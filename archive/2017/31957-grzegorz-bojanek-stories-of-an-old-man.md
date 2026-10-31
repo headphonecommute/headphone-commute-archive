@@ -1,0 +1,16 @@
+---
+id: 31957
+title: "Grzegorz Bojanek - Stories of an Old Man"
+date: "2017-07-21T00:51:13-05:00"
+category: ["Albums"]
+---
+
+**Grzegorz Bojanek**'s *Stories of an Old Man* is a gorgeous record that ticks all the right spots for me. I love the lo-fi shuffling noises, the barely audible background twinkling of some instruments, and the saturated textured atmospheres that force my mind to peel back each layer only to consume it as one thick blanket of sound again. There is space to discover and plenty to lose oneself in – a perfect soundtrack for a grey rainy morning and a dark solemn night. On more than one occasion, as I sat down to complete a daunting task in front of a glowing monitor, I would reach out for *Stories* to take that edge away. And every single time it worked, as the music managed to transport me to another place, familiar and foreign, just like a memory based dream, or a flashback thereof, embedded deep within your psyche.
+
+My only past exposure to Bojanek's sound include his records on **Dynamophone** and **Twice Removed** labels, and, although *Stories of an Old Man*, as per Bojanek himself, is a very different album from his past releases, I still plan to catch up to some of his works on **Ohm Resistance**, **EtaLabel** and **Twin Springs Tapes**. This latest, however, is a self-released venture, with the two physical formats, an audio book with original recordings narrated by Konrad Maszczyk, and a special edition hand-numbered CDr, unfortunately, sold out as of this review. What's this about an audio book, though? You see, *Stories of an Old Man* was originally composed as a sonic background for an audio book about Bojanek's hometown. And, as Bojanek explains, since "the stories are pretty dark (full of murders, breakouts, explosions, arrests by communist regime), the music is sometimes dark and disturbing, too."
+
+> Poraj, my village is (or was) an important station on the Warsaw-Vienna railway track. There were iron ore mines around and therefore we have a big railway junction. After WWII there was a long train with the unused bombs and mines there. One guy accidentally blew up one car at the end of the train. The explosion was so big that the pieces of the rail road landed everywhere in the village. But luckily there were some brave railwaymen who disconnected the cars which were on fire. So in my village there was only one casualty. Then the train was transported to the next big city and there it blew up again – 48 people died there!
+
+*Stories of an Old Man* thus presents an audio documentary of sorts, archiving the story of this Polish village. Although originally intended to be consumed with the storyline narration, I think the instrumental reworked version of the pieces stand out all on their own, creating a well-defined encompassing score that carries forth the feelings and impressions preserved throughout the story. And whether you identify with the historical significance behind the theme, or use the album as a soundtrack to your own unfolding moment, it's guaranteed to stir up some mind states, which is precisely what this music should achieve. Recommended for fans of dusty minimalism, sound tracking junkies and noir-fi fiends.
+
+Words by **HC**

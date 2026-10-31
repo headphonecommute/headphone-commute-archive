@@ -1,0 +1,14 @@
+---
+id: 32231
+title: "Andrea Belfi - Ore"
+date: "2017-09-15T01:35:43-05:00"
+category: ["Albums"]
+---
+
+**Andrea Belfi** is an Italian (and now Berlin-based) drummer who has been releasing music since 2001. He first appeared on my radar back in 2009, via his collaboration with **Machinefabriek**. In 2012, I followed him along with a release on **Room40**, and then there was the great *Notura Morta* on **Miasmah** in 2014. Among his numerous performances in groups, his standing membership in **B/B/S/** which includes **Aidan Baker** and **Erik Skodvin** (hence the initials), is the most notable. I think, however, that for many listeners, it’s still surprising for a drummer to release a studio full-length: “are the entire forty minutes of music just drums?” Well, yes and no, but deconstructing Belfi’s work, as usual, is futile, and so, instead, you step into his world…
+
+> When I started the record I really wanted to find something very direct. I was looking for something very raw, something sonically and acoustically complex. The title ‘Ore’ actually was suggested by my wife. I had to look up the meaning and loved the concept – something raw that you can extract, and the refinement into a precious material. It’s a very simple metaphor but there’s a lot there, you can just put that word out and you don’t have to explain too much. You give an input to the listener, and just leave it to the imagination.
+
+*Ore* is a moody, obscure, but very structured rhythmical journey. There are many gorgeous resonant layers that interweave with their percussive counterparts to drive forward a sonic architecture which refuses to go unnoticed. The complex patterns that are conveyed with the simplicity of an acoustic drum set (courtesy of Saari drum-kit from Finland), overlay their synth companions (Nord Modular) to create a slightly eerie, spectral soundscape, but not of the unearthly type – the music’s more concrete, more grounded in nature, chipping away at a mineral locked inside its rough and unrefined deposit, until a phonic sculpture makes its way into our minds. It’s an impressive feat, to which I yield in full on numerous rotations.
+
+A quick nod of acknowledgment to **Sofia Ilyas**, who’s changed her recent path to start a brand new imprint, **FLOAT.** Bridging promotion, event management and now a music label, it’s hard to pinpoint the exact convergence of this powerhouse, but what is easy to notice is that there is an overwhelming love that radiates for everything within, and this début release for the FLOAT is a perfect example of the quality of output. I’m only curious (and definitely excited) to see what happens next. Keep your eyes and ears open in the next year, and don’t forget to check out a Headphone Commute special, *In the studio with Andrea Belfi*, where you will learn much more about Belfi’s setup…

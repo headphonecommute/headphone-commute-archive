@@ -1,0 +1,14 @@
+---
+id: 17363
+title: "Bersarin Quartett - II"
+date: "2012-06-15T06:06:00-05:00"
+category: ["Albums"]
+---
+
+Opening with a low rumbling drone, the second release by **Bersarin Quartett** slowly evolves into a soundtrack for an enchanting fairy tale. And although 'magical' may be a word that some may find a bit too trite, it is the first word that comes to mind. Perhaps 'majestic' is a better word. These fantastical sounds on the appropriately titled *II* come from the imagination of **Thomas Bücker**, who seems to cross over the genres with courage and ease. Plucking only the best elements of ambient, modern classical, and even glitchy IDM, Bücker meticulously builds cinematic soundscapes that take the listener through hidden dimensions, with sonic vibrations, to strange unknown worlds.
+
+It's been four years since Bücker's self-titled debut, released by **Lidar** in 2008 (in fact, I can't even believe it's been that long). When the album came out, the entire music community reeled from the amazing production quality and intricate detail of *Bersarin Quartett*. Who was this guy, and why haven't we heard of him before? Bücker was not purposely hiding. In fact since 1999 he's been releasing music under his earlier alias, **Jean-Michel**. The last two albums under that moniker, *The Audience Is Missing* (2007) and *Tons Of Fun* (2009) came out on the Berlin-based **onpa)))))** label, which has also released works by **Kashiwa Daisuke** and **Hecq** around the same time. Both of those releases are highly recommended if you like Bersarin Quartett…
+
+After extensive touring in 2011 along with two guest musicians, Bücker returned to the studio to compose his greatest opus to date. Acoustic instruments, such as strings, piano, and a few woodwinds play a key role among the pieces. I can't honestly tell if these are sampled or recorded live. The sounds are then warped, soaked, and wrapped into a fuzzy blanket of sonic nostalgia and pure aural bliss. Although I don't speak German, I can make out a few words among the titles of the tracks. Some of these I translate to *"The Moon, The Snow And You"*, *"In The Brightness Of Comets"*, *"Here And Now"*, and *"Pearls, Honey, or Downfall"* (?). The mystery behind these titles only enhances the mysticism of music. And the beauty swirls within…
+
+The album has been on heavy rotation, here in the Headphone Commute studios, and as I return to his first album, I know that the two will be played again and again years from now. This is the music to fall in love with. Fans of **Max Richter**, **Murcof**, **Rafael Anton Irisari**, **Deaf Center**, **Olan Mill**, **Marsen Jules** and **Jacaszek** will agree. If you can, be sure to catch Bersarin Quartett at **Denovali Swingfest**, taking place this upcoming October 5-7, 2012, in Essen, Germany… and download a free live show from Bersarin Quartett's performance at DOM in Moscow **here** (link, courtesy of 'dropped dark' from comments below).

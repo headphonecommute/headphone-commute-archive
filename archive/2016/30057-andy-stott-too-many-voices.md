@@ -1,0 +1,16 @@
+---
+id: 30057
+title: "Andy Stott - Too Many Voices"
+date: "2016-07-11T06:30:07-05:00"
+category: ["Albums"]
+---
+
+Manchester based **Andy Stott** returns to the fertile **Modern Love** lands with his fourth full-length album (and 101st for the imprint’s catalog), titled *Too Many Voices*. Stott always pushed the boundaries more than a bit, usually in that dark corner of post-techno post-bass post-ambient section of the experimental music, and with the help of Boomkat’s clever (and dare I say incredible) marketing machine, gathered an immense near-cultish following, with yours truly included in those numbers. Standing out among his contemporaries label mates, like **Rainer Veil**, **Vatican Shadow** and of course, **Demdike Stare**, there is no record (and indeed a physical vinyl pressing) that would slip past my fingers from this man.
+
+The sound on *Too Many Voices* is slightly drab, abrasive and gorgeously rough. I immediately pick up on **Arca**‘s influence with cascading digital pitch shifts of synth lines, sped up time signatures and stretched out vocals. The latter is not credited anywhere on the album, but it sounds like these contributions come courtesy of the vocalist [and his once piano teacher] **Alison Skidmore** (who appeared on Stott’s last *Luxury Problems*). The bass is always present, floating in a hollow pool of reverberating percussion, graciously spaced out to let in the sound of the other, ever present, textures to expand, dilate and unfold. Flashbacks to early drum machine samples (like the legendary 909 cowbell, now coloured with digital distortion and grime), soiled acoustic instruments and perverse warehouse backrooms instil a feeling of deviant romanticism, ghostly catharsis and decontaminated void.
+
+> It’s all far removed from the digital synthesis and the abstracted intricacies that define much of the current electronic landscape. The same cybernetic palette is here implanted into more human form; sometimes cold, but more often thrumming with life. […] It’s a vision of the future as was once imagined; artificial, strange and immaculate.
+
+There is certainly no particular genre into which *Too Many Voices* falls. As usual, from my perspective and the output of Modern Love, this is a very good thing. If the name wasn’t already taken to mean something else entirely, I would call this style as “grime” – or, you know what? let’s call it “soot” as it is certainly more sunken, cavernous and dry, with its heavy, lethargic rhythm, slumping along dark corridors and halls. Venturing into Stott’s universe, hinted at only with basic track titles, and **Julie Lemberger**‘s cover image of ballet girls, one is left with compiling their own sonic image, clued only at with abstract patterns, twisted innuendos and suspicious words. And somehow, all of this disintegrating erosion, is incredibly erotic. I don’t know why…
+
+Recommended for fans of delicious claustrophobia and dystopian future by **Haxan Cloak**, **Raime** [who, by the way, recently released another amazing album on the beloved **Blackest Ever Black** – more on that later], and, once again, **Demdike Stare**. For even more, check out Stott’s collaboration with Miles Whittaker as **Millie & Andrea**.

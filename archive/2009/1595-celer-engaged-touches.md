@@ -1,0 +1,20 @@
+---
+id: 1595
+title: "Celer - Engaged Touches"
+date: "2009-08-01T13:39:41-05:00"
+category: ["Albums"]
+---
+
+Once again it is tough for me to write a proper review. At most I feel as if I'm paying homage to a passing soul from one realm to the other. As if I'm finally saying these words a little too late. As if the words can fill an empty space for an unfulfilled obligation of an unfulfilled life. But, of course, it is the opposite of that. With these words I am only spreading the love which is already abundant through the music of **Celer**. Music that is wordless. Free of time and space. And as **Danielle Baquet-Long** continues her journey from this plane towards the unknown of the other, and her husband **Will Long** remains with us to wrap up the unfinished, may these words speak the speechless as the music goes on. Dear Dani... Thank you for all the little gifts. Thank you for music that can not be wrapped or packaged. You will always be with us. May you rest in peace.
+
+On *Enaged Touches* the husband and wife duo digitally stretch the loops of field recordings and analog samples of ambient strings and minimal distant pads. The creative use of delays blending into almost metallic reverb resonates the sound beyond its cycling waves. As the beatless drony chords morph into deep vibrations of bass, swelling in dynamics along with my emotions, the sound rolls over my head towards my chest and then slips through the cracks in between the walls. At times, there is silence which is followed by an onslaught of frequencies reminiscent of chemicals flooding your brain.
+
+Recordings of passing trains bridge the creatively named passages by Danielle that touch the tear glands, and jerk the nerves with titles such as *"A Once And Meaningful Life".* Or the lengthy leaps of imagination with a title like "*Hanging Herself On The Lonely Fifth Column (Gramophones That Remind Us Of What Sounds Once Were)".* Yes, the latter in the double quotes is a single titling of a section within the two tracks of the album. The first at twenty-six minutes, and the last at fourty-and-a-half. The album cover features photography by Danielle during her journey through India.
+
+Will and Dani started writing music for each other. Sharing their love first through letters, and then through little gifts of sound, they self released over twenty five recordings, some digital only, some beautifully crafted in hand painted packaging. In 2008, Celer collaborated with **Mathieu Ruhlmann** on *Mesoscaphe* that got picked up by the Japanese minimal experimental label, **Spekk.** 2009 saw the duo release work on **Dragon's Eye**, **Smallfish**, and **Digitalis Limited**. *Engaged Touches* got picked up by **Home Normal**, a label specializing in minimal and organic sound. Started in 2009, the label has already released recordings by **Library Tapes, The Boats**, and **Christopher Hipgrave**.
+
+On July 8th, 2009, Danielle Baquet-Long passed away from heart failure. At only 26 years of age, Danielle has released numerous works under her solo moniker, **Chubby Wolf**. She is known for her poetry and writing, and of course as one half of **Celer**. A few months ago, in March 2009, I got to meet and interview the duo at the Los Angeles [**Resonant Forms**](988-resonant-forms-los-angeles-april-3-5-2009.md) festival. The audio interview has finally been transcribed and posted here, on Headphone Commute.
+
+The overall album is a true masterpiece. Among the many albums that I heard, Celer's *Engaged Touches* is the most emotional. Highly recommended if you appreciate works by like Taylor Deupree, William Basinski, and Richard Chartier. Be sure to pick up a free release by Chubby Wolf, titled *Meandering Pupa* available as a free download from bandcamp ([**click here**](http://chubbywolf.bandcamp.com/)). As well as the latest album by Celer, *Breeze Of Roses* out on Dragon's Eye. Spekk is yet to release another album by Celer, which is still in the queue...
+
+[**Read Conversations With Celer**](1624-conversations-with-celer.md)

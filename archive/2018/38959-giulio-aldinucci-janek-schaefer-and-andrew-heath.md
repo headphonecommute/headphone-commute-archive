@@ -1,0 +1,27 @@
+---
+id: 38959
+title: "Giulio Aldinucci, Janek Schaefer, and Andrew Heath"
+date: "2018-12-06T06:19:12+00:00"
+category: ["Sound Bytes"]
+---
+
+# Giulio Aldinucci
+
+## Disappearing In A Mirror
+
+Apart from his various collaboration and split releases, *Disappearing In A Mirror* is **Giulio Aldinucci**'s follow-up to 2017’s *Borders and Ruins*, and it is his second release for **Karl Records**. If you thought Borders And Ruins depicted a rather dark view on the state of the world, you’d better be ready for this new album. “*Where [Borders and Ruins] was a reflection on the instability of borders and their impact on the relationship between people and territory, 'Disappearing In A Mirror' raises the very personal question of identity.*" Aldinucci manages to create a sonic version of a hall of mirrors, where you can get completely disoriented from the images of yourself trying to find a way out. In a striking combination of gritty distorted sounds and distant orchestral and choral arrangements that sound like a stretched Beethoven symphony, the first two tracks present a frightening dystopic view. But from there, Aldinucci [somewhat] restores the balance with 'Notturno Toscano', as if he doesn’t want to scare the listener too much. But even in this track the intensity slowly increases again. There’s no way out of the mirror maze, it seems… "*Disappearing In A Mirror focuses on the fluidity of the identity concept, highlighting the harmonious coexistence of contradictory elements and the transitional features that characterize every transformation. It is a reflection on the current situation of change and disruption and at the same time it is a gaze into the human timeless soul and its inner soundscapes.*" If the sweat in the palms of my hand is an indicator of emotional intensity, this album definitely belongs on the top the list!
+
+# Janek Schaefer
+
+## What Light There Is Tells Us Nothing
+
+The slow crackle in the intro, the vocal drone and the **Robert Wyatt** sample that gave this album its name… **Janek Schaefer** manages to set the atmosphere right from the very start. And once you start the ride, you do not want to get off before it stops… simply enjoying the trip, wondering what surprising turn is in store in the next moments… "What Light There Is Tells Us Nothing", the title track of Schaefer‘s new album, is created entirely from elements of Robert Wyatt's *Cuckooland* album. The 21-minute piece, created with his custom-made two tone-arm turntable, effect pedals and ‘digital collage’, was originally created as a multi-channel composition for 2014’s ***Sounds New Festival*** in Canterbury (with Robert Wyatt’s blessing, of course). The atmosphere is defined by a steady background drone, over which the different samples and fragment are layered. The collage-like structure and use of different musical fragments have the same mesmerizing effect as **KLF**’s *Chill Out* (1990), which over time has become one of the classics of the ‘ambient’ genre. It’s a wonderland ride, "*transforming the power of half-forgotten memories into otherworldly works, that are ambiguous as they are evocative"*. The B-side on the (transparent gold virgin vinyl) album offers seven shorter tracks. These tracks are not based on Wyatt samples, but they still ‘*exist in the same wondrous space*’, radiating the feeling that Alice must have felt while walking in Wonderland. This is music that "*inhabits the spaces between sadness and joy, and relish in the unpredictability of emotional gravity*". A musical wonderland that only Janek Schaefer can create…
+
+# Andrew Heath
+
+## Evenfall
+
+*Evenfall*, **Andrew Heath**‘s new album – following up his 2017’s *Lichtzin* (with **Anne Chris Bakker**) and *Soundings*, celebrates the time of dusk, "*the dimming of daylight and the coming of the night from one particular moment.*" The album continues Heath’s "*fascination of, and experimentation with found sounds and treated field recordings, around which he weaves shimmering electronics and delicately phrased piano*", as well as additional manipulated tape loops and guitar. The 15-minute opener "Flow State (Mirror Sea)" is a beautiful example of the incredibly rich sound production on this album. Recorded in Cotswold, England in late 2017 and this spring, the album radiates the clear atmosphere of the remote woodland surroundings. In addition to the tracks on which Heath performs all instruments himself, there are also two collaborations: "The Garden Reveals Itself" features the Romanian poet **Maria Stadnicka** reciting her poem, in a somewhat detached, almost hesitating voice, while Heath‘s instrumentation illustrates a garden that is... er... revealing itself. On the other collaboration track, Heath is playing modestly in the background, leaving all room for an award-winning saxophonist **Lydia Kenny** to impress, subtly following her movements with small details and the recorded sounds of a garden (at dusk). With its 15-minutes length, the way it slowly moves forward yet seems to stop time, and Kenny‘s heartbreakingly beautiful performance, "The Still Of Evenfall" feels akin to **Harold Budd**’s "Bismillahi ´Rrahmani ´Rrahim" on his 1978 **Obscure** album, *The Pavillion Of Dreams*. Whether you actually are in a garden or not, your imagination will take over … just lie back, relax and enjoy.
+
+Words by **Peter van Cooten** of [**Ambient Blog**](http://www.ambientblog.net/)\
+Additional editorial by **HC**

@@ -1,0 +1,16 @@
+---
+id: 23247
+title: "Jon Hopkins - How I Live Now OST"
+date: "2014-01-21T06:52:33-05:00"
+category: ["Albums"]
+---
+
+I was musing this morning on the difference between listening to a soundtrack and a whole album. Conceptually, both contain a cohesive body of work, although in soundtracks a particular melody may recur throughout, in its various forms and permutations. The latter adds a theme to an hour-long journey which nicely ties it from beginning to the end. And although a lot of music that I listen to can be classified as 'emotional', soundtracks tend to capture more of this feeling, often sending the listener on a roller coaster ride, full of dynamic and rhythmic ups and downs. This is especially true for the latest score by **Jon Hopkins** for *How I Live Now*, a 2013 film by **Kevin Macdonald**, adapted from the same titled young adult novel by **Meg Rossoff**. It is also interesting to compare this particular release to Hopkins' latest magnum opus, titled *Immunity* (**Domino**, 2013), which has captured many critics' hearts, as well as a slot on **Headphone Commute's Best of 2013** lists.
+
+The music on the soundtrack is gentle, soothing and even fragile at times. There is plenty of closely-miked piano, strings, shuffling beats and a delicate touch of synthesised and post-processed sounds. The beauty of one melody can slowly recede, dissolve and even blend into another emotion. Suddenly the bass palpitates, and as one thought takes over another, the tempo picks up, along with the heartbeat pulsating in your veins. Soon a whirlpool of sound swallows all sentiment whole, finally releasing the passion in one single sigh, as if one final breath. Now atmospheric darkness cloaks the passage, and somewhere behind a wooden door, the piano shares its troubles with a couple of consoling violins.
+
+> Featuring some of his darkest, most nihilistic work to date, the score is built from two contrasting elements – atonal, sub-terrestrial drones with a backbone of pounding rhythms, and sublimely pastoral acoustic piano. These two opposing musical forces guide the viewer through the film, by turns disturbing and beautifully meditative.
+
+I haven't seen the film or read the book nor know the story, but from the music it is obvious that pure sorrow, agitation, and finally melancholy, dominate the plot of *How I Live Now*. In a way, the OST feels like an extension to *Immunity* (which is why I brought it up earlier), and on many of my rotations serves as a follow up in the queue. It's one of those remarkable feats that clearly demonstrates its single origin of both, sound and mind.
+
+Throughout the recording, Hopkins is always in control of sound. He knows, for example, that no instrument in an entire orchestra can make a rolling frequency thump, and so a deep [somehow organic sounding] bass is used to punctuate the rhythm. The glitchy electronica and dropping beats are replaced with warm organic ambiance and short poetic piano pieces. And yet among the few electronic elements appearing throughout the score, I'd still attempt to classify this work as modern classical in genre. The soundtrack is available on **Just Music**, an independent label from London, which has already published a few Hopkins works, including the acclaimed *Insides* (Domino, 2009).

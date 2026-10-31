@@ -1,0 +1,12 @@
+---
+id: 797
+title: "Propellerheads - Decksandrumsandrockandroll"
+date: "2009-03-06T14:01:37-06:00"
+category: ["Albums", "Flashbacks"]
+---
+
+So whatever happened to these guys? You remember their hit single *History Repeating*, which at one point was played on every radio station back in 1997 after being featured in that hysterical film, *There's Something About Mary*. Then, there was the *Spybreak!* track which appeared in *The Matrix*. Meanwhile, the track *Crash*, was used in *Austin Powers: The Spy Who Shagged Me*. Even the *Take California* track from this same album was the first song ever used in an iPod commercial. So, by my calculations, these guys had it going for them, and then poof! Nothing! Did they just cash out?
+
+The only known full length album to date is *Decksandrumsandrockandroll* released on London based **Wall of Sound** back in 1998. The big beat sound by **Will White** and **Alex Gifford** quickly took the world by storm. The groovy and repetitive beats which were perfected at the time by **The Prodigy**, **The Chemical Brothers,** **Fatboy Slim**, and **The Crystal Method** take on a jazzy, funky and playful spin, with a few vocal samples, turning on a few new mainstream listeners to breaks and breakbeat. On the track, *360° (Oh Yeah?),* **De La Soul** contributes frozen-style urban rhymes that quickly flip the record to intelligent slow-groove loungy hip-hop sound. *History Repeating* is of course at the center of the album, featuring the vocals of '60s cabaret vocalist, **Shirley Bassey**. This is definitely a catchy tune that quickly got snatched up by a few advertising campaigns (including a Jaguar and a Pantene Pro-V commercial... heh). But the big beat sound proliferates the album, prominent with plenty of breaks, James Bond-like spy film themes, and the head-bopping sounds that still sound super fresh a decade later.
+
+Propellerheads are still quiet. No new tracks and no new albums since the one and only. Well, there was one new track, appropriately titled *10 Years*, which appeared on the **Wall of Sound**'s compilation double disk, *Off The Wall - 10 Years Of Wall Of Sound*, commemorating the labels, well... you guessed it, 10 year anniversary. Last I heard, Will White played the drums for **Long Range** during its live performances. Long Range, of course, is a UK group comprised of Nick Smith and Phil Hartnoll of **Orbital**. Meanwhile, I continue to enjoy this album time and time again... And until the duo decides to get back into the studio, I have only one thing to say: Bang On!

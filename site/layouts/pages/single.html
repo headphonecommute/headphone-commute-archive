@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article data-pagefind-body>
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  <div class="article-meta" data-pagefind-ignore>
+    <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}" data-pagefind-meta="date:{{ .Date.Format "2 January 2006" }}" data-pagefind-sort="date:{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+    {{- with .GetTerms "category" }}
+    <span>{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ $t.RelPermalink }}" data-pagefind-filter="category">{{ $t.LinkTitle }}</a>{{ end }}</span>
+    {{- end }}
+    {{- with .Params.author }}<span>By {{ . }}</span>{{ end }}
+    <span data-pagefind-filter="year" hidden>{{ .Date.Format "2006" }}</span>
+  </div>
+  <div class="prose">
+    {{ .Content }}
+  </div>
+</article>
+<footer class="article-foot">
+  <nav class="pager" aria-label="Neighbouring articles">
+    <div>{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><span>← Newer</span>{{ .Title }}</a>{{ end }}</div>
+    <div class="next">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><span>Older →</span>{{ .Title }}</a>{{ end }}</div>
+  </nav>
+  {{- with site.Params.repoURL }}
+  <a class="source-link" href="{{ . }}/blob/{{ site.Params.repoBranch }}/{{ $.File.Path }}">View the Markdown source of this article</a>
+  {{- else }}
+  <span class="source-link">Markdown source: <code>{{ .File.Path }}</code></span>
+  {{- end }}
+</footer>
+{{ end }}

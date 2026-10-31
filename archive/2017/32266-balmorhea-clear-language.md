@@ -1,0 +1,18 @@
+---
+id: 32266
+title: "Balmorhea - Clear Language"
+date: "2017-09-29T00:40:06-05:00"
+category: ["Albums"]
+---
+
+These days of noisy chaos, heated rhetoric, and voracious content consumption in which we find ourselves present a daunting challenge to artists who express themselves with restraint and nuance. The temptation to get louder and angrier, or even just walk away from it all must be ever-present. That is what makes bands like **Balmorhea** (pronounced bal-mə-ray) such a treasure. Founded a little over 10 years ago by **Rob Lowe** and **Michael Muller**, they have produced a consistently refined, eclectic, and appealing brand of instrumental music that has earned its loyal and appreciative following. Though they certainly have stayed busy in recent years with EPs, reissues, and live performances, the expansive 2012 effort *Stranger* remained Balmorhea’s last full-length studio record for nearly five years, but that drought has ended with the release of *Clear Language*, a lucid and intimate gem of an album that gently but resolutely repudiates bombast and fractiousness in favour of simplicity, warmth, and personal connection.
+
+A decade-plus on the road, near-constant musical output, and shifting creative priorities caused the revered Austin duo to soberly assess the band’s future. What, in the form of Balmorhea, was there left to say? And did they have the energy to say it? To answer that question the duo decamped to their east Austin studio, where they worked simply and with restraint, letting intuition guide them…
+
+In fact, you can almost feel all of the tension coil away from your shoulders as piano, bass, and strings expand into the inviting release of the opening title track followed by the languid shimmer of “Sky Could Undress” which features some lovely embellishment by violinist **Aisha Burns**. Synthesizers, piano, vibraphone, electric and bass guitar, and field recordings continue to dreamily wind their way through the album’s river-like flow toward the beautifully textured centerpiece “Slow Stone” which features trumpet lines performed by **Ephraim Owens** (Tedeschi Trucks) before descending briefly into a cacophonous outro which serves as a reminder of the madding world the music has been sequestering us from.
+
+There are echoes of this din in the serrated distortion edges of “Ecco”, a guitar sketch which introduces the album’s mellifluous second half. Equilibrium returns with gently pulsing “Behind the World” and the elegant solo piano miniature “Waiting Itself”. Meanwhile, “55” hearkens back to the pastoral electroacoustic post-rock appeal so abundant in *Rivers Arms* (2008) while the dusty, pining Americana twang of “All Flowers” paints an endearing portrait of solitudinous moments against the backdrop of a big Texas sky. The album closes on an especially uplifting note as vocals hover in a gauzy melodic web of keyboard and guitar on “First Light”. In its elegant wordless elocution *Clear Language* speaks volumes if we are willing to simply listen.
+
+*Clear Language* is released on September 22 on CD and black vinyl LP by **Western Vinyl**. There is also a trilogy of short films directed by LA-based artist **Claire Cottrell**. Shot entirely on the iPhone and exploring locations not often thought of as rich in beauty or visual value, they are meant to reflect on the album’s unspoken themes. In addition, Balmorhea will bring the album to life in U.S. and European tour this Fall with a full band of multi-instrumentalists and a light/video projection that’s being developed to mirror the emotional tone of the album. Audiences can also expect to hear classic works from the band’s catalog dating back to 2006.
+
+Words by **Brian Housman** of Stationary Travels

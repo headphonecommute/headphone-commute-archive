@@ -1,0 +1,34 @@
+---
+id: 6314
+title: "n5MD Special : Bitcrush, Lights Out Asia, Dalot, MMX"
+date: "2010-08-29T12:29:00-05:00"
+category: ["Sound Bytes"]
+---
+
+It's been a while since we covered one of our all-time favourite labels, **n5MD**. The last time we praised **Mike Cadoo**'s label was in Headphone Commute's ***Best of 2009*** lists, where **Plastik Joy**, **Port-Royal** and **Last Days** grabbed the slots among our selections of the year. In 2010, Cadoo has been busy, releasing a flurry of amazing music that we have only been too busy to cover. In this instalment of [**Sound Bytes**](http://www.bitcrush.net/) we honour the latest releases from this fantastic label, where electronica meets ethereal ambient and post-rock dances with IDM. Be sure to also check out the interview with Mike Cadoo in our [**n5MD Label Profile**](../2009/1379-n5md.md).
+
+# Bitcrush
+
+## Of Embers
+
+It only makes sense that we begin our coverage with an album from the label boss himself, **Mike Cadoo**, releasing his fifth album under the [**Bitcrush**](http://www.bitcrush.net/) alias (see his latest as **Dryft** further in our next instalment). Picking up where his 2008 album, *Epilogue In Waves*, left off, Cadoo employs soaring guitars with reverb-drenched synthetic pads, cut-up glitchy IDM clicks and full-on acoustic percussion. With only six tracks adding up to less than an hour, the album effortlessly floats between genres, fusing favourite elements of ambient and post-rock. *"Of Embers finds Cadoo looking even further back into his experiences and inner struggles than ever before to create what may be the most hopeful album of his musical career."* Fans of emotional electronica will be delighted to glide along with the downtempo rhythm and the ghostly background vocals of Cadoo himself. Fourteen-minute track, *Fray The Middle To Meet The Ends*, takes the listener onto a cinematic journey, where textured layers and sonic waves unfold into a new beginning, so very welcome after his last, misleading *Epilogue*. Overall, *Of Embers* is a very personal album, bringing the listener closer into the intimate setting of this musician's world, where the fire slowly crackles and the embers gently glow. Highly recommended for fans of **Hammock,** **Port-Royal** and **Lights Out Asia**.
+
+# Lights Out Asia
+
+## In The Days Of Jupiter
+
+That nicely segues into our next entry, doesn't it? We last heard from this Wisconsin based band, [**Lights Out Asia**](http://www.lightsoutasia.com/), back in 2008, with their release, [*Eyes Like Brontide*](../2009/1549-lights-out-asia-eyes-like-brontide.md). Two years later we are gifted with their fourth full-length release, *In The Days Of Jupiter,* and it's a doozy! The album opens up with gentle electronic pads, and cut-up robotic voices - an intergalactic journey is ahead... The second track, *"Except Europa"*, picks up with tight IDM beats and slowly builds up into the explosion of sound, as we are launched beyond our stratosphere into the outer worlds. The guitars erupt into an expansive wall of frequency rich textures, as we break away from the Earth's gravitational hold, and float through the ambient layers of the atmosphere. **Mike Ystad** continues to treat the sound with electronics, as **Mike Rush** delivers the bass riffs, with a guest appearance by **Ayala Trumper** on the cello, and of course, **Chris Shafer** on the mic. The album also employs a few field recordings and a selection of samples credited to [freesound.org](http://www.freesound.org/). *"Just as Jupiter eclipses the other planets in our solar systems, Lights Out Asia have eclipsed expectations by delivering their most expansive album to date."* I couldn't agree with that quote from the label's page more... Be sure to pick up this and their previous releases, *Tanks And Recognizers* and *Garmonia*.
+
+# Dalot
+
+## Loop Over Latitudes
+
+The label welcomes a new member to its family with Maria Papadomanolaki first proper full-length debut as [**Dalot**](http://www.dalot.net/), *Loop over Latitudes.* From sweeping pads to pulsating electronic beats, Dalot demonstrates her skill at *"creating moments of lush ambience, emotion and texture by blending elements of phonography, electro-acoustic composition and minimal electronica with more traditional musical elements such as voice, guitar, glockenspiel and tablas."* Quoting **Stars of the Lid**, **Colleen** and **Boards of Canada** as her inspirations, Maria blends field recordings with glitchy percussion, meditative passages, and reverb drowned voice to create music as cerebral as it is contemplative - each piece presenting a story, *"much like one of the novels she once studied in her native Greece"*. The album collects three tracks from Dalot's first EP, *Flight Sessions,* released by [**Coo Records**](http://www.coorecords.com) in 2009. With this release, Dalot joins n5MD veterans such as **Another Electronic Musician,** **SubtractiveLAD,** and **Near The Parenthesis** to contribute another solid release to the label's catalogue of emotional experiments in music. Well done, milady, and welcome to the family!
+
+# Bitcrush
+
+## From Arcs To Embers
+
+Approaching the fourth entry in this instalment of [**Sound Bytes**](http://www.bitcrush.net/), I realized that I'll have to do this as a two-part series, as there are a few more albums from **n5MD** that I wish to cover. Rounding up this trip through emotional electronica and soaring shoegaze, it's only appropriate that I return back to Bitcrush. And it seems that there are more than just a handful of musicians who are also fans of Mike Cadoo's signature sound. Here's to add a flavour of their own is a remix album, *From Arcs To Embers*, featuring reworks of tracks taken from all five of his previous albums. If you are a fan of Cadoo's work and label alike, you'll truly enjoy this collection of remixes from **Jatun,** **Bersarin Quartett, port-royal, SubtractiveLAD,** **Near The Parenthesis,** **Funckarma** and many others! Given a wide array of contributing artists, you can expect your favourite Bitcrush tracks reworked in soothing electronica, glitchy IDM and head-bopping downtempo genres. A few good surprises on here. A remix from **Tim Ingham** (aka **Winterlight**) of *Every Sunday*, a leftfield-shoegaze-dream-pop-ambient exploration, leaves me curious to hear more from this Thames Valley (UK) based artist. Watch out for his debut on n5MD! And check out this remix of *Colder* by **Funckarma**!
+
+As I wrap up part one of this label special, hopefully leaving you thirsty for more, there's just one more thing I need to mention! You can download a FREE n5MD Label Sampler, titled *MMX*, comprised of tracks from the 2010 release schedule, featuring above-covered artists and more! Click this [**Bandcamp**](http://n5md.bandcamp.com/album/mmx) link, and feed your player and head with music. And I'll be back next week to cover the rest of my n5MD Special... See you then!

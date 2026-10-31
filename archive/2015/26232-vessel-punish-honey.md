@@ -1,0 +1,14 @@
+---
+id: 26232
+title: "Vessel - Punish, Honey"
+date: "2015-02-13T07:16:35-05:00"
+category: ["Albums"]
+---
+
+Seb Gainsborough's second outing as **Vessel** on **Tri Angle** is a far cry from his 2012 debut. It flirted with the post-dubstep landscapes that were not uncommon for other label acts of the last few years (**Balam Acab**, **Haxan Cloak**, **Holy Other**), and while certainly not bad at all, it's telling that after a couple years went by I'd actually fully forgotten that I even had *Order of Noise* in my library. So when my buddy recommended that I look into *Punish, Honey*, I sort of put it off, not realising that Vessel's sophomore release is an entirely different animal. It's certainly one of the strongest and most unique albums to surface all year, and easily sits toward the top of my favourites of 2014.
+
+After the dissonant opening of "Febrile," it's clear that there is something physical, almost carnal, about this release. Its disorienting cover art, a collage of human limbs and shapes, emphasises the almost sweaty and sexual vibe of these tracks, altogether a 40-minute journey that is equal parts sleazy, coarse, and beguiling. For the album, much has been made of Gainsborough's self-made DIY instruments, which of course give the album a flavour not so far apart from the more adventurous early electronic excursions of seminal late 70s/early 80s acts like **Cabaret Voltaire**, **Throbbing Gristle**, or **Einstürzende Neubauten**, but the vibe is less confrontational, more consuming from all sides, especially on a good pair of headphones.
+
+"Red Sex" is the clear standout... its strange anti-hook of a bendy synth line (is it bass? a lead? hard to really say) and its heaving rhythm section are completely infectious, as is the highly discordant breakdown in the middle. It's as though he's captured the same squirmy abrasion at the core of skronk performers like **John Zorn** and channelled it through his lo-fi gear to maximum effect.
+
+This same awesome approach works well on "Euoi," with its lead sounding like some processed, messed up urdu rather than synths at all, and on "Kin to Coal," where a clatter of cymbals and grinding electronics bridges the gap between the industrial viscera of Einstürzende Neubauten and a sweaty sex party. There are downtempo moments, as well, such as the plodding lurch of "Drowned in Water and Light" or the Radian-esque muted drums and cyclical samples of "Black Leaves and Broken Branches," each cut complementing those around it to make for a truly compelling linear listening experience. Gainsborough deserves hefty praise for shifting focus toward something very much his own here, breaking away from trends and typical sounds for something almost completely different. Definitely a talent to watch, and one of the best of 2014.

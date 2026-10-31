@@ -1,0 +1,16 @@
+---
+id: 23951
+title: "Andrew Lewis - Au​-​delà"
+date: "2014-04-05T07:27:44-05:00"
+category: ["Albums"]
+---
+
+*“Words are like lies.”* It’s a key phrase that only occasionally comes through on “Lexicon,” the first and newest piece on **Andrew Lewis**’s fascinating *Au-Delà*, collecting works from the last twenty years and covering a variety of strange terrain. “*A page is like a map I try to find my way around*,” repeat several voices, at times intelligible and at others incoherent. It’s Lewis’s sonic exploration of dyslexia, where words become interchangeable, transposed, manipulated, or otherwise obscured. Lewis’s Wikipedia entry describes “Lexicon” as an acousmatic piece with video, which I discovered online after the fact, but it doesn’t require the video to appreciate it (in fact, it might be more exciting and disorienting as pure sound).
+
+> Lexicon is based on a poem written by a 12-year old boy, Tom, in which he tries to articulate his personal experience of dyslexia. By presenting an imaginary sonic and visual journey through the text of the poem, Lexicon explores not only the challenges, but also the life-affirming creative potential that dyslexia, and a fuller understanding of it, can bring.
+
+In contrast to the sputtering forms of “Lexicon,” “Dark Glass” musicalises the refracting and reflective surfaces of broken glass with significantly more patience. There is an ebb and flow to its odd arrangement, sometimes cacophonous and busy but often then decaying with ambient patience. Therein lies the strength of Lewis’s often bewildering arrangements: he has a keen and innate understanding of dynamics and pacing that feel narrative and unpredictable. “Dark Glass” might be the closest thing to a performable piece of music, but it still very much resides in Lewis’s preferred world of acousmatic, unseen sound. In its final moments, it ascends with a crescendo that is disorienting and almost scary. It’s a fitting segue into “Ascent,” another acousmatic excursion from the mid 90s, intended to be a sonic exploration of the mountainous landscape around the Bangor University studios. It’s full of ups and downs and craggy stumbles, with some truly weird textures that represent Lewis’s knack for sound manipulations so well.
+
+I find myself time and again wondering “*How the hell did he make some of this?*” And in the age of plug-ins and convenient software, it’s refreshing to be confused by unknown and unseen techniques. Such is the case with “Scherzo,” my other favourite piece, which closes out the collection. The press release claims that it “*brings the listener back to the world of childhood*,” but I find Lewis’s vision far more skewed. Children’s voices are time-stretched and manipulated into a chorus of scary drones and disorienting waves of sound. The clever device of stretching voices into tones is exciting, where the human voice and something altogether synthetic are hard to distinguish from one another. Something as harmless as the innocent voice of a child becomes almost nightmarish when put through Lewis’s prism of sound manipulation. *Au-Delà* is not exactly casual listening, but attentive listeners will no doubt be rewarded with Lewis’s talent for obfuscated sound and aural confections.
+
+Words by Matthew Mercer of **Ear Influxion**

@@ -1,0 +1,18 @@
+---
+id: 20781
+title: "Christoph Berg - Paraphrases"
+date: "2013-05-10T06:28:46-05:00"
+category: ["Albums"]
+---
+
+A certain kind of music stands throughout time. I’ve been fascinated with my own journey in discovering these sounds. At first I searched for that wonder, occasionally landing on a somewhat random treasure or gem. Then music seemed to find me back, bombarding my ears and mailbox with an endless torrent of promos. Yet throughout this unbound hurricane of countless releases few managed to stand out while fleeing the rest. My own purpose morphed into a filter, combing through a series of sounds arranged on a whim. And although I still manage to listen through many submissions, it is the ones I return to over and over that warrant my praise.
+
+I discovered **Christoph Berg** thanks to **Fluid Audio** back in 2009, when under his moniker **Field Rotation** he released his first EP, *Licht Und Schatten*. Berg’s debut full-length, *Acoustic Tales*, appeared on **Fluid Audio** in 2011. He then managed to migrate to **hibernate** with *Why Things Are Different* (2010), *And Tomorrow I Will Sleep* (2011). In September of 2011, I invited Berg for an exclusive Headphone Commute Mix, and then to contribute a track towards my benefit compilation, *… and darkness came*. In 2013, Field Rotation released a full length on **Denovali**, and I’m really looking forward to meeting him at the upcoming *Denovali Swingfest* in Berlin on April 6th. But it is his last album on **Facture**, under his real name, that is the focus of this specific review.
+
+On *Paraphrases* Berg distances himself from synthetic and electronic instruments in favour of acoustic and chamber sounds, composing one of the most beautiful modern classical works in a while. Delicately captured strings are carefully submerged in just a touch of reverb, finally landing in the hands of Ian Hawgood for his mastering touch. Single piano keys add to the melancholy of a weeping violin and a consoling double bass. Gentle sprinkles of field recordings paint an atmosphere of unravelling moments captured in time. Then the crow announces his entrance. Music flows on, while moments stand still.
+
+> Christoph Berg scores the history of eight narrow worlds, carved only from wood. […] Completed in the brief escapes allowed by gaps in graduate study, Paraphrases is a recontextualisation of the experience of exhaustion, written in other words.
+
+Composed and captured over a period of two years, *Paraphrases* collects pieces recorded through numerous sessions "in a small room in northern Germany near the Baltic Sea." The album captures the proximity of a human performance with all of its chance imperfections, like soft clothing shuffles and wooden bench creaks. These highly personal works, like the incredibly intimate title track, “*Paraphrases (on vinyl)*“, with its solo piano, violin, vinyl crackles and ticking clock, give us a sonic glimpse into composer’s world, preserving moments of solitude, introspection and muse.
+
+Complimented with remixes by **aus** and **P Jørgensen**, the album was originally released as a deluxe vinyl edition, which is now sold out. The follow-up CD version release is still available on an embossed letter-pressed compact disk with fold-out booklet featuring photography by **Aela Labbe** along with scent, card and download code containing audio and PDFs. While shopping in the label’s store, I recommend you drop its past releases into your cart as well, such as **Scissors And Sellotape**‘s *For The Tired And Ill At Ease* (2011), **Olan Mill**‘s *Paths* (2012), and the most recent album by **Tape Loop Orchestra,** *In A Lonely Place*. Highly recommended.

@@ -1,0 +1,22 @@
+---
+id: 61133
+title: "The Future Sound of London - A Space of Partial Illumination"
+date: "2023-03-04T06:47:54+00:00"
+category: ["Albums"]
+---
+
+### Release Notes
+
+**Label:** fsoldigital.com\
+**Released:** October 12, 2022\
+**See Also:** [Environment Six & 6.5](../2017/31669-future-sound-of-london-environment-six-6-5.md)
+
+[futuresoundoflondon.com](https://www.futuresoundoflondon.com/)
+
+I don't think I am able to begin this write-up by introducing you to **The Future Sound of London**. There'll just be way too much to cover. If you are not familiar with the output of **FSOL**, which goes all the way back to 1992, then you have a lot of catching up to do! I'll just assume you know them from now on. So let's fast forward a little bit, and start somewhere in the middle. There's been some silence from the duo in the mid-2000s, but we saw them steadily release some tunes *From The Archives* on [fsoldigital.com](http://fsoldigital.com). In 2007, however, there was an album titled *Environments*, which turned into a series of its own, collecting reworked and previously unreleased tracks, with its 5th entry, titled *Environments Five* (2014), being the first album to feature all-new music. At this point, my neurons were firing again, and I found myself back with excitement, peeling apart all the layers and noticing the sounds that I knew. You can read my musings on *[Environments Six & 6.5](../2017/31669-future-sound-of-london-environment-six-6-5.md) -* two volumes of 23 tracks each, released in 2016. This succession of output continued through more *Archives* and *Calendar Albums* [more on that later], and in 2022 we found ourselves on the seventh volume of Environments with *Rituals E7.001*. This one was also released on vinyl, and I snatched my limited edition copy during **Record Store Day**. I wasn't disappointed, and the album grabbed the coveted spot on my Best of the Year selections. We finally arrive at *A Space Of Partial Illumination*, which is the second chapter in the 7th volume [of the purported trilogy], as is denoted in the "E7.002" suffix of its title [here, I think it's like the duo is playing with us, subtitling *Environments* in various ways]. So here we are, in the midst of future retro electronica, the type that only FSOL can create.
+
+There are two very impressive achievements I want to point out here: first, it's 2023, and the duo of **Garry Cobain** and **Brian Dougans** continue to tantalize my ears with their absolutely unique, totally unmatched, kaleidoscopic psychedelia of electronic music that has been a part of my life for over 30 years now (wow!). Yes, there are other artists from that era that continue to produce and innovate, but somehow only FSOL is able to maintain the straddle spanning 30 years. And second, as a result of their amazing output and the acknowledgement thereof by a sprawling fanbase, they are able to maintain a somewhat low profile [is the word 'underground' still used?], successfully releasing albums without a major label through their own digital channels [you can grab all releases on Bandcamp, but there is no Spotify or any other streaming]. It's an impressive accomplishment, and honestly, the music here speaks entirely for itself.
+
+> Sweeping between luscious dreamscapes to delicately melodic compositions to intensely highly programmed electronics sculptures, Environments continue the journey towards the boundaries of the future of sound.
+
+If you notice, I'm not saying much here about the music. I think that it suffices to say that *A Space of Partial Illumination* may be my favourite release since the monumental *Lifeforms* (1994) which by now I know by heart. This latest captures all of the excitement that I've ever felt when listening to FSOL for many, many years. If somehow you forgot about this duo, then now is the time to catch up, especially because you can still jump on their annual *Calendar* series. This is a subscription-based service via Bandcamp, where you will receive a new track every month, making up an exclusive 12-track album by the end of the year. And yes, you can also grab the past six years (starting with 2017) as a collected bundle of releases which feature the duo's other projects, including **Synthi A**, **Humanoid**, **Blackhill Transmitter**, **Smart Systems**, and **AnALOguE COntRoLleD SolENoiDs** among others. I do collect them all! A must for any child of electronica.

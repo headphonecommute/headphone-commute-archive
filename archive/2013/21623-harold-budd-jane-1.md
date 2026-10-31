@@ -1,0 +1,14 @@
+---
+id: 21623
+title: "Harold Budd - Jane 1"
+date: "2013-06-28T05:42:30-05:00"
+category: ["Albums"]
+---
+
+**Harold Budd** is an American avant-garde, experimental, and ambient composer who had his first release in 1978 (which, my dear reader, was most likely before you were even born). He is most notably known for his works produced by and with **Brian Eno**, especially the album titled *Ambient 2: The Plateaux Of Mirror* (Polydor, 1980), but Budd always felt being "kidnapped" into the ambient category applied for the use of his sustained and atmospheric piano playing, a technique he termed "soft pedal". Nevertheless, at a young and ripe age of 77, Budd continues to compose and record music, with most recent releases appearing on the San Diego based **Darla Records**. And for that, we're thankful!
+
+On the eleven sequentially titled pieces, *Jane 1-11*, we find minimal compositions of cosy, hushed and serene keys, droning pads, and sparse droplets of sound. The music flows, swells and ebbs through the plateaus and valleys of silence. The plucked strings, struck marimbas and various synthetic instruments often wonder around the main theme, which is less aimless and more contemplating in nature. There is plenty of reverb, but it is administered with care, like a thin layer of ointment on a slow healing wound. The rest is explored through ongoing resonance, harmony and meticulous stereo field placement. And although he seems to reject the prescribed categorisation of styles, with most pieces [especially the gorgeous *Jane 8*], Budd seems to define what was once proclaimed by the ambient movement itself: music that is as ignorable as it is interesting.
+
+> It's simple. I broke out and broke back to my earlier days: A triangle of risk, improvisation and joy — as I say, very simple. My rules to myself were: No plan, no notes, no ideas, no microphones; except for Jane 1 I stuck to it. My other rule — the most important one — was: At least one piece per day, finished, mixed and not to be revisited again. Jane 7, 8, 9 were done in one day… Brad Ellis was my guide through this: An untiring day, ready to go again… To quote a letter to me from Mark Tobey: … It fell off the edge of my brush. – Harold Budd
+
+Since some pieces were written in just one day, do not be discouraged by the presumed haste and dismissal. After all, this is an output of a very seasoned musician we are talking about here. Hear the ease with which he paints the palette of emotion we all strive to perfect. In the case of somewhat mysterious album title, I point you to **Jane Maru**, an artist who not only provided the cover art for the album, but also, most likely, the much-needed muse. Be sure to also pick up Budd's collaboration with **Eraldo Bernocchi** and **Robin Guthrie**, titled *Winter Garden* (**RareNoise**, 2011) as well as *In The Mist* (**Darla**, 2011) and *Bandits Of Stature* (**Darla**, 2012).

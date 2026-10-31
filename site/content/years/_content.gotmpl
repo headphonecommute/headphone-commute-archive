@@ -1,0 +1,4 @@
+{{- /* One page per publication year, generated from data/statistics.json. */ -}}
+{{- range $year, $count := site.Data.statistics.by_year }}
+  {{- $.AddPage (dict "path" $year "title" $year "params" (dict "year" $year)) }}
+{{- end }}

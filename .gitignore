@@ -1,0 +1,5 @@
+build/
+site/.hugo_build.lock
+site/resources/
+__pycache__/
+.pytest_cache/

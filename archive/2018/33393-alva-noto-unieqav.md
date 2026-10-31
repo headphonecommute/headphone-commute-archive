@@ -1,0 +1,14 @@
+---
+id: 33393
+title: "Alva Noto - Unieqav"
+date: "2018-04-13T07:04:56+01:00"
+category: ["Albums"]
+---
+
+I'm pretty excited about the latest **Carsten Nicolai** release as **Alva Noto**. It feels like it's been a while since we've properly consumed some of his frequencies. Sure, there was that gorgeous collaboration with **Ryuichi Sakamoto** on [*Glass*](33326-alva-noto-ryuichi-sakamoto-glass.md) which is an absolute must for fans of the duo; the release of *Live 2002* aural document with the late **Mika Vainio** and **Ryoji Ikeda**; the impossibly monumental *The Revenant* motion picture soundtrack that managed to bring Nicolai, Sakamoto and **Bryce Dessner** together for an incredible score in 2016; and finally, Alva Noto's last release of *Xerrox Vol. 3* -- but that was back in 2015, and like I've said, it's been a while!
+
+*Unieqav* is a third and final instalment of the UNI-prefixed series, originally conceived back in 2008, beginning with *Unitxt* and followed up with *Univrs* three years later, in 2011 - a ten-year project that Nicolai laid out from the beginning (even the cover art across three albums spells UNI when combined). And here we are... It all started back in 2006, actually, when Nicolai, along with **Raster-Noton** family of **Byetone**, **Pixel** and **Kangding Ray**, set off on a tour, playing in Japan's clubs like *UNIT* in Tokyo and *Metro* in Kyoto. The 2008 *Unitxt* was a live recording of these shows, transforming Alva Noto's sound to the environment, and although it's not "clubby" per se, its sonic architecture reflects a more abstract and rhythmic atmosphere. "*It's maybe what I imagine club music should sound like - which is, of course, not like club music at all*," says Nicolai on the series.
+
+> Described by Carsten as 'sonically representing an underwater dive', the gleaming ‘UNIEQAV’ brings, as usual, an inherent artistic, conceptual and scientific depth. Mathematics, data, unit systems, grids, rhythms, codes, text, language, spoken word, DNA, science technology and nature are all utilised, for both inspiration and execution.
+
+My first exposure to this album came via Alva Noto's live performance at ***The Barbican*** in early March. I say this not to make you jealous (ok, yeah, you should be jealous,) but because its sound is forever linked with the visual component projected on the screen. The digital sculptures reflecting first the vocal cadence of the French sound poet **Anne-James Chaton**, and then the micro-glitched surgical-precision grid-formed pressure levels of Nicolai's structured beat, danced collectively with light and sound. And so, whenever I traverse the twelve "Uni" prefixed pieces on the album, I flashback to their optical counterpart. And now that I've experienced this metric meditation, I'd love to move my limbs in measure with the beat in some abandoned subterrestrial club - ***Atonal***'s *Kraftwerk Berlin* comes to mind.
