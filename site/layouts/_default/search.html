@@ -1,43 +1,21 @@
-{{ define "head" }}
-<link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
-{{ end }}
 {{ define "main" }}
 <h1>Search</h1>
 <p class="page-intro">Full-text search across every archived article. Filter results by category or year.</p>
-<div id="search"></div>
+<form class="search-box" id="search-form" role="search" hidden>
+  <label for="search-input" class="visually-hidden">Search the archive</label>
+  <div class="search-field">
+    <input id="search-input" type="search" autocomplete="off" spellcheck="false" placeholder="Artist, album, label…">
+    <button type="button" id="search-clear" hidden>Clear</button>
+  </div>
+</form>
+<div class="search-filters" id="search-filters" hidden>
+  <details data-filter="category"><summary>Category</summary><div class="search-options"></div></details>
+  <details data-filter="year"><summary>Year</summary><div class="search-options"></div></details>
+</div>
+<p class="search-message" id="search-message" aria-live="polite"></p>
+<ol class="search-results" id="search-results"></ol>
+<p><button type="button" class="search-more" id="search-more" hidden>Load more results</button></p>
 <noscript><p class="note">Search needs JavaScript. Everything is also reachable without it: browse <a href="{{ "years.html" | relURL }}">by year</a>, <a href="{{ "category.html" | relURL }}">by category</a>, or the <a href="{{ "archive.html" | relURL }}">complete list</a>.</p></noscript>
 <p class="note" id="search-offline" hidden>Search needs the archive to be served by a web server; it does not run from files opened directly on disk. Browse <a href="{{ "years.html" | relURL }}">by year</a> or <a href="{{ "category.html" | relURL }}">by category</a> instead, or use your computer's own file search on the Markdown files.</p>
-<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
-<script>
-(function () {
-  if (location.protocol === "file:" || typeof PagefindUI === "undefined") {
-    document.getElementById("search-offline").hidden = false;
-    return;
-  }
-  // Results are stored relative to the site root; work out where that root
-  // is so the archive can live at any address or subpath.
-  var script = document.querySelector('script[src*="pagefind-ui.js"]');
-  var root = new URL("../", script.src).pathname;
-  var ui = new PagefindUI({ element: "#search", baseUrl: root, showSubResults: true, showImages: false, resetStyles: false });
-  var q = new URLSearchParams(location.search).get("q");
-  if (q) ui.triggerSearch(q);
-
-  // Results update as you type. Pressing Enter also brings them into view
-  // (on a phone they start below the filters), once they match the query.
-  document.getElementById("search").addEventListener("keydown", function (e) {
-    if (e.key !== "Enter" || !e.target.classList.contains("pagefind-ui__search-input")) return;
-    var input = e.target, tries = 0;
-    var norm = function (s) { return s.replace(/\s+/g, " ").trim().toLowerCase(); };
-    (function reveal() {
-      var term = norm(input.value), msg = document.querySelector("#search .pagefind-ui__message");
-      if (term && msg && norm(msg.textContent).indexOf(term) !== -1) {
-        input.blur();
-        msg.scrollIntoView({ behavior: "smooth", block: "start" });
-      } else if (term && ++tries < 50) {
-        setTimeout(reveal, 100);
-      }
-    })();
-  });
-})();
-</script>
+<script src="{{ "js/search.js" | relURL }}"></script>
 {{ end }}
