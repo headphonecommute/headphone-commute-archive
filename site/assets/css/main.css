@@ -133,6 +133,10 @@ h1 { font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.1rem); margin: 0 0 0.5rem; lette
   --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--rule); --pagefind-ui-tag: var(--accent-soft);
   --pagefind-ui-font: var(--sans); }
 #search mark { background: var(--mark); color: inherit; }
+#search .pagefind-ui__message { scroll-margin-top: 1rem; }
+#search .pagefind-ui__search-clear { display: flex; align-items: center; justify-content: center;
+  padding: 0 calc(14px * var(--pagefind-ui-scale)); border: 0; -webkit-appearance: none; appearance: none;
+  font-family: var(--sans); line-height: 1; }
 
 @media print {
   .site-head, .site-foot, .article-foot { display: none; }

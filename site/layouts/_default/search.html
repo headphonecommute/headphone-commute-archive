@@ -21,6 +21,23 @@
   var ui = new PagefindUI({ element: "#search", baseUrl: root, showSubResults: true, showImages: false, resetStyles: false });
   var q = new URLSearchParams(location.search).get("q");
   if (q) ui.triggerSearch(q);
+
+  // Results update as you type. Pressing Enter also brings them into view
+  // (on a phone they start below the filters), once they match the query.
+  document.getElementById("search").addEventListener("keydown", function (e) {
+    if (e.key !== "Enter" || !e.target.classList.contains("pagefind-ui__search-input")) return;
+    var input = e.target, tries = 0;
+    var norm = function (s) { return s.replace(/\s+/g, " ").trim().toLowerCase(); };
+    (function reveal() {
+      var term = norm(input.value), msg = document.querySelector("#search .pagefind-ui__message");
+      if (term && msg && norm(msg.textContent).indexOf(term) !== -1) {
+        input.blur();
+        msg.scrollIntoView({ behavior: "smooth", block: "start" });
+      } else if (term && ++tries < 50) {
+        setTimeout(reveal, 100);
+      }
+    })();
+  });
 })();
 </script>
 {{ end }}
