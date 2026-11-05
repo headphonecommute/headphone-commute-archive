@@ -123,6 +123,12 @@ h1 { font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.1rem); margin: 0 0 0.5rem; lette
 .note { font: 0.9375rem/1.5 var(--sans); padding: 0.75rem 1rem; background: var(--accent-soft); border-radius: 4px; }
 
 /* Search (Pagefind UI) */
+.quick-search { margin: 1.5rem 0; }
+.quick-search label { display: block; margin-bottom: 0.4rem; }
+.quick-search-row { display: flex; gap: 0.6rem; max-width: 34rem; }
+.quick-search input { flex: 1 1 auto; min-width: 0; font: inherit; padding: 0.45rem 0.6rem;
+  border: 1px solid var(--rule); border-radius: 4px; background: transparent; color: inherit; }
+.quick-search button { flex: 0 0 auto; font: inherit; padding: 0.45rem 0.9rem; }
 #search { --pagefind-ui-scale: 0.9; --pagefind-ui-primary: var(--accent); --pagefind-ui-text: var(--ink);
   --pagefind-ui-background: var(--paper); --pagefind-ui-border: var(--rule); --pagefind-ui-tag: var(--accent-soft);
   --pagefind-ui-font: var(--sans); }

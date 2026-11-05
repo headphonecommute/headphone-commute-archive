@@ -8,9 +8,11 @@
   <div><b>{{ div $stats.totals.words 1000000.0 | lang.FormatNumber 1 }}M</b><span>words</span></div>
 </div>
 <form class="quick-search" action="{{ "search.html" | relURL }}" method="get" role="search">
-  <p><label for="q">Search the archive</label><br>
-  <input id="q" name="q" type="search" placeholder="Artist, album, label…" style="width:100%;max-width:28rem;font:inherit;padding:0.45rem 0.6rem;border:1px solid var(--rule);border-radius:4px;background:transparent;color:inherit">
-  <button type="submit" style="font:inherit;padding:0.45rem 0.8rem">Search</button></p>
+  <label for="q">Search the archive</label>
+  <div class="quick-search-row">
+    <input id="q" name="q" type="search" placeholder="Artist, album, label…">
+    <button type="submit">Search</button>
+  </div>
 </form>
 <h2>Browse by year</h2>
 <ul class="tiles">
